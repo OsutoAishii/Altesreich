@@ -1,0 +1,28 @@
+state={
+	id=972
+	name="STATE_972"
+	
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+	        4640 3
+		}
+		buildings = {
+			infrastructure = 2
+			4640 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+	
+	provinces={
+		4640 
+	}
+	manpower=36100
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

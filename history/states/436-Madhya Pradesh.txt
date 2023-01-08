@@ -1,0 +1,35 @@
+
+state={
+	id=436
+	name="STATE_436"
+	resources={
+		chromium=4.000
+	}
+
+	history={
+		owner = CID
+		add_core_of = CID
+		victory_points = {
+			10801 3 
+		}
+		victory_points = {
+			14980 2 
+		}
+		victory_points = {
+			14956 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		4950 7205 10872 11993 12799 14956 
+	}
+	manpower=14123100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

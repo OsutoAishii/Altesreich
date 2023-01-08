@@ -1,0 +1,47 @@
+characters = {
+	BZL_pedro_i = {
+		name = BZL_pedro_i
+		portraits={
+			civilian = {
+				large = "gfx/leaders/BZL/BZL_pedro_i.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = BZL_pedro_i_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = BZL_pedro_i_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = BZL_pedro_i_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = BZL_pedro_i_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = BZL_pedro_i_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = BZL_pedro_i_desc
+			traits={
+			}
+		}
+	}
+}

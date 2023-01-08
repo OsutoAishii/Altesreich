@@ -1,0 +1,31 @@
+
+state={
+	id=1279
+	name="STATE_1279"
+
+	history={
+		owner = SCA
+		add_core_of = SCA
+		victory_points = {
+			14173 3
+		}
+		victory_points = {
+			12862 3
+		}
+		victory_points = {
+			2088 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1914 2088 4918 10743 10784 12806 12862 14167 14172 14173 
+	}
+	manpower=1171118
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

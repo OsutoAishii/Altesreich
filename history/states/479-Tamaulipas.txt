@@ -1,0 +1,37 @@
+
+state={
+	id=479
+	name="STATE_479"
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		victory_points = {
+			14999 5
+		}
+		victory_points = {
+			13719 3
+		}
+		victory_points = {
+			5015 3
+		}
+		victory_points = {
+			2083 2
+		}
+		victory_points = {
+			14997 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		2083 5015 13088 13719 14997 14999 
+	}
+	manpower=1032988
+	buildings_max_level_factor=1.000
+	state_category=town
+}

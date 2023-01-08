@@ -1,0 +1,28 @@
+
+state={
+	id=179
+	name="STATE_179"
+
+	history={
+		owner = POR
+		add_core_of = POR
+		victory_points = {
+			970 2
+		}
+		victory_points = {
+			3846 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		844 970 980 3846 3866 3886 3926 6884 6933 6986 9765 9819 9869 11768 
+	}
+	manpower=1119544
+	buildings_max_level_factor=1.000
+	state_category=town
+}

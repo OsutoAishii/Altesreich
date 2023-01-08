@@ -1,0 +1,30 @@
+
+state={
+	id=677
+	name="STATE_677"
+	resources={
+		tungsten=6.000
+		steel=12.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			12473 10
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		7671 12473 14584 
+	}
+	manpower=683509
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

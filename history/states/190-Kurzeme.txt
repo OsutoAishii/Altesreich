@@ -1,0 +1,36 @@
+
+state={
+	id=190
+	name="STATE_190"
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			9262 3
+		}
+		victory_points = {
+			3296 2
+		}
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			9262 = {
+				naval_base = 1
+
+			}
+			3296 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		3194 3296 3319 6322 9262 11246 
+	}
+	manpower=274296
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

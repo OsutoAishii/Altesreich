@@ -1,0 +1,46 @@
+
+state={
+	id=493
+	name="STATE_493"
+	resources={
+		oil=15.000
+	}
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		victory_points = {
+			15090 5
+		}
+		victory_points = {
+			12790 3
+		}
+		victory_points = {
+			10864 2
+		}
+		victory_points = {
+			8056 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 4
+			12790 = {
+				naval_base = 5
+
+			}
+			8056 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		1937 2085 8056 10864 12703 12790 15087 15088 15089 15090 
+	}
+	manpower=2826781
+	buildings_max_level_factor=1.000
+	state_category=town
+}

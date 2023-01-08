@@ -1,0 +1,31 @@
+
+state={
+	id=518
+	name="STATE_518"
+
+	history={
+		owner = NTD
+		add_core_of = NTD
+		victory_points = {
+			5187 2 
+		}
+		victory_points = {
+			5181 1 
+		}
+		buildings = {
+			infrastructure = 2
+			5187 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		2183 2189 5181 5187 10665 12645 
+	}
+	manpower=224000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

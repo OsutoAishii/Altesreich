@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_technology_unavailable_item_ssitem_bg"
+		texturefile = "gfx/interface/techtree/tech_industry_unavailable_item_bg.dds"
+	}
+}

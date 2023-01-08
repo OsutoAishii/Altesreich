@@ -1,0 +1,26 @@
+
+state={
+	id=665
+	name="STATE_665"
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		add_core_of = AFR
+		victory_points = {
+			7005 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		1105 3987 4992 7005 9983 10082 11957 12000 13145 13179 
+	}
+	manpower=427824
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

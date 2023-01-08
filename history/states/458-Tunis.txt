@@ -1,0 +1,37 @@
+
+state={
+	id=458
+	name="STATE_458"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		add_core_of = AFR
+		victory_points = {
+			7180 10 
+		}
+		victory_points = {
+			11921 3 
+		}
+		victory_points = {
+			7162 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 8
+
+		}
+	}
+	
+	provinces={
+		7162 7180 10026 10091 11921 
+	}
+	manpower=1982940
+	buildings_max_level_factor=1.000
+	state_category=town
+}

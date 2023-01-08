@@ -1,0 +1,31 @@
+
+state={
+	id=231
+	name="STATE_231"
+
+	history={
+		owner = OTT
+		add_core_of = RUS
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			12309 5
+		}
+		victory_points = {
+			6671 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 3
+
+		}
+	}
+
+	provinces={
+		1599 4534 6436 6669 6671 9702 12309 14081 14082 14083 
+	}
+	manpower=2949413
+	buildings_max_level_factor=1.000
+	state_category=town
+}

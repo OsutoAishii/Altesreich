@@ -1,0 +1,27 @@
+
+state={
+	id=865
+	name="STATE_865"
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			14872 1 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		4714 4751 4788 4823 4849 7693 7737 7870 12590 12737 13915 14868 14870 14872 14873 15199 
+	}
+	manpower=321100
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=719
+	name="STATE_719"
+	resources={
+		chromium=60.000
+	}
+
+	history={
+		owner = CPT
+		add_core_of = CPT
+		victory_points = {
+			1468 3 
+		}
+		victory_points = {
+			13389 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 1
+			1468 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1468 1494 8178 13389 13394 13396 13415 
+	}
+	manpower=3211457
+	buildings_max_level_factor=1.000
+	state_category=city
+}

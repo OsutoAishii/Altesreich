@@ -1,0 +1,25 @@
+
+state={
+	id=567
+	name="STATE_567"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		buildings = {
+			infrastructure = 0
+			12207 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		12207 
+	}
+	manpower=613
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

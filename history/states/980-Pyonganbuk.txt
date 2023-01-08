@@ -1,0 +1,33 @@
+state={
+	id=980
+	name="STATE_980"
+
+	resources = {
+			steel = 5
+			aluminium = 8
+	}
+	
+	history={
+		victory_points = {
+			11835 2
+		}
+		victory_points = {
+		    11775 2
+		}
+		victory_points = {
+		    9795 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	
+	provinces={
+		906 912 3912 6963 9795 9918 11775 11828 11835 11896 
+	}
+	manpower=736738
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

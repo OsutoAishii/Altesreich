@@ -1,0 +1,25 @@
+
+state={
+	id=961
+	name="STATE_961"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			3530 3 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		3530 6568 6581 
+	}
+	manpower=313092
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

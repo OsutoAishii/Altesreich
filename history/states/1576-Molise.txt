@@ -1,0 +1,24 @@
+state={
+	id=1576
+	name="STATE_1576"
+
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = {
+			3923 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		3923 3966 
+	}
+	manpower=305617
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

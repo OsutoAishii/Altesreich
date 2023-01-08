@@ -1,0 +1,34 @@
+
+state={
+	id=421
+	name="STATE_421"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		owner = OTT
+		add_core_of = PRS
+		add_compliance = 50
+		victory_points = {
+			12773 5
+		}
+		victory_points = {
+			4943 3
+		}
+		victory_points = {
+			829 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		829 2071 4943 5098 9816 10755 10774 12773 14333 
+	}
+	manpower=780278
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=1023
+	name="STATE_1023"
+
+	history={
+		owner = BUR
+		add_core_of = BUR
+		victory_points = {
+		    3402 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			13011 = {
+				bunker = 1
+			}
+		}
+
+
+	}
+
+	provinces={
+		3402 3447 13011 
+	}
+	manpower=471440
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

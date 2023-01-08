@@ -1,0 +1,24 @@
+state={
+	id=1638
+	name="STATE_1638"
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		buildings = {
+			infrastructure = 2
+			14296 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+	provinces={
+		14296 
+	}
+	manpower=7665
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=813
+	name="STATE_813"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			11735 1 
+		}
+		buildings = {
+			infrastructure = 1
+			11735 = {
+				naval_base = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		11735 14576 
+	}
+	manpower=51000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

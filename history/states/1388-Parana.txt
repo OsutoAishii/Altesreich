@@ -1,0 +1,24 @@
+state={
+	id=1388
+	name="STATE_1388"
+
+	history={
+		owner = BZL
+		add_core_of = BZL
+		victory_points = {
+			8181 3
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		2109 4587 5156 5178 8181 8239 
+	}
+	manpower=10444526
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

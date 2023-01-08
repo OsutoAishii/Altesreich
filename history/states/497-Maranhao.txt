@@ -1,0 +1,31 @@
+
+state={
+	id=497
+	name="STATE_497"
+	resources={
+		rubber=23.000
+	}
+
+	history={
+		owner = BZL
+		add_core_of = BZL
+		victory_points = {
+			12933 2 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+		2150 12933 12947 
+	}
+	manpower=2950100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

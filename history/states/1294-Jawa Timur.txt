@@ -1,0 +1,26 @@
+state={
+	id=1294
+	name="STATE_1294"
+
+	history={
+		victory_points = {
+			4608 5
+		}
+		buildings = {
+			infrastructure = 1
+			4608 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1209 4306 4390 4608 7654 10479 10491 12472 
+	}
+	manpower=39744800
+	buildings_max_level_factor=1.000
+	state_category=town
+}

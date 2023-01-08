@@ -1,0 +1,30 @@
+
+state={
+	id=1063
+	name="STATE_1063"
+	resources={
+		rubber=4.000
+		steel=4.000
+	}
+
+	history={
+		owner = SCA
+		add_core_of = SCA
+		victory_points = {
+			12714 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+
+	}
+
+	provinces={
+		8036 10775 12714 12992 13513 13515 13519 
+	}
+	manpower=246000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

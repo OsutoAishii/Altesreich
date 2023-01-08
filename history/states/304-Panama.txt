@@ -1,0 +1,37 @@
+
+state={
+	id=304
+	name="STATE_304"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		victory_points = {
+			7630 5 
+		}
+		victory_points = {
+			14047 1
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+			7630 = {
+				naval_base = 4
+
+			}
+
+		}
+	}
+
+	provinces={
+		7630 10482 14045 14047 
+	}
+	manpower=467459
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,87 @@
+bookmarks = {
+	bookmark = {
+		name = "GATHERING_STORM_NAME"
+		desc = "GATHERING_STORM_DESC"
+		date = 1457.7.21.12
+		picture = "GFX_select_date_1936"
+		default_country = "ENG"
+		default = yes
+		
+		"ENG"={
+			history = "ENG_GATHERING_STORM_DESC"
+			ideology = authoritarian_democracy
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"AUS"={
+			history = "AUS_GATHERING_STORM_DESC"
+			ideology = authoritarian_democracy
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		"BYZ"={
+			history = "BYZ_GATHERING_STORM_DESC"
+			ideology = social_liberalism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"SWE"={
+			history = "SWE_GATHERING_STORM_DESC"
+			ideology = authoritarian_democracy
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"CAS"={
+			history = "CAS_GATHERING_STORM_DESC"
+			ideology = authoritarian_democracy
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"PRU"={
+			history = "PRU_GATHERING_STORM_DESC"
+			ideology = social_democracy
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"OTT"={
+			history = "OTT_GATHERING_STORM_DESC"
+			ideology = absolutism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		"RUS"={
+			history = "RUS_GATHERING_STORM_DESC"
+			ideology = absolutism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

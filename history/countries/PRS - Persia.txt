@@ -1,0 +1,30 @@
+capital = 416
+
+set_research_slots = 2
+
+set_stability = 0.70
+set_war_support = 0.20
+
+set_politics = {
+	ruling_party = absolutism
+	elections_allowed = no
+}
+
+recruit_character = PRS_suleiman
+
+set_cosmetic_tag = PRS_OTT
+
+set_popularities = {
+	anarchism = 5
+	communism = 5
+	syndicalism = 5
+	social_democracy = 0
+	social_liberalism = 0
+	social_conservatism = 5
+	authoritarian_democracy = 5
+	absolutism = 70
+	authoritarian_nationalism = 5
+	farsightism = 0
+	accelerationism = 0
+	burgundian_system = 0
+}

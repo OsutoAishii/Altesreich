@@ -1,0 +1,21 @@
+state={
+	id=951
+	name="STATE_951"
+	
+	history={
+		owner = AFR
+		add_core_of = AFR
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+	
+	provinces={
+		13232 13233 
+	}
+	manpower=8027
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

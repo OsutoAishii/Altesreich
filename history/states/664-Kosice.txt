@@ -1,0 +1,31 @@
+
+state={
+	id=664
+	name="STATE_664"
+	resources={
+		steel=13.000
+		chromium=3.000
+	}
+
+	history={
+		owner = KRA
+		add_core_of = KRA
+		victory_points = {
+			6573 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+
+		}
+
+	}
+
+	provinces={
+		3716 6561 6573 9537 11679 
+	}
+	manpower=854300
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

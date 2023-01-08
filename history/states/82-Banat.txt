@@ -1,0 +1,33 @@
+
+state={
+	id=82
+	name="STATE_82"
+	resources={
+		aluminium=4.000
+		oil=3.000
+	}
+
+	history={
+		owner = OTT
+		add_core_of = KRA
+		victory_points = {
+			9606 3 
+		}
+		victory_points = {
+			11592 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		646 662 3649 9606 11592 11608 
+	}
+	manpower=941500
+	buildings_max_level_factor=1.000
+	state_category=town
+}

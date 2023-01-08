@@ -1,0 +1,29 @@
+state={
+	id=1091
+	name="STATE_1091"
+	
+	history={
+		owner = OTT
+		add_compliance = 70
+		force_disable_resistance = OTT
+		victory_points = {
+		    13597 1
+		}
+		buildings = {
+			infrastructure = 1
+			13597 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+	
+	provinces={
+		13597 
+	}
+	manpower=12583
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

@@ -1,0 +1,212 @@
+spriteTypes = {
+	#城镇化
+	spriteType = {
+		name = "GFX_social_theory_urbanization_medium"
+		texturefile = "gfx/interface/technologies/social_theory_urbanization.dds"
+	}
+	#城镇规划
+	spriteType = {
+		name = "GFX_social_theory_town_planning_medium"
+		texturefile = "gfx/interface/technologies/social_theory_town_planning.dds"
+	}
+	#城镇规划II
+	spriteType = {
+		name = "GFX_social_theory_town_planning_ii_medium"
+		texturefile = "gfx/interface/technologies/social_theory_town_planning_ii.dds"
+	}
+	#城镇规划III
+	spriteType = {
+		name = "GFX_social_theory_town_planning_iii_medium"
+		texturefile = "gfx/interface/technologies/social_theory_town_planning_iii.dds"
+	}
+	#城镇规划IV
+	spriteType = {
+		name = "GFX_social_theory_town_planning_iv_medium"
+		texturefile = "gfx/interface/technologies/social_theory_town_planning_iv.dds"
+	}
+	#城镇规划V
+	spriteType = {
+		name = "GFX_social_theory_town_planning_v_medium"
+		texturefile = "gfx/interface/technologies/social_theory_town_planning_v.dds"
+	}
+	#官僚体系
+	spriteType = {
+		name = "GFX_social_theory_bureaucratic_system_medium"
+		texturefile = "gfx/interface/technologies/social_theory_bureaucratic_system.dds"
+	}
+	#成文法律
+	spriteType = {
+		name = "GFX_social_theory_written_law_medium"
+		texturefile = "gfx/interface/technologies/social_theory_written_law.dds"
+	}
+	#成文法律II
+	spriteType = {
+		name = "GFX_social_theory_written_law_ii_medium"
+		texturefile = "gfx/interface/technologies/social_theory_written_law_ii.dds"
+	}
+	#国际贸易
+	spriteType = {
+		name = "GFX_social_theory_international_trade_medium"
+		texturefile = "gfx/interface/technologies/social_theory_international_trade.dds"
+	}
+	#货币本位制
+	spriteType = {
+		name = "GFX_social_theory_monetary_standard_medium"
+		texturefile = "gfx/interface/technologies/social_theory_monetary_standard.dds"
+	}
+	#银行业
+	spriteType = {
+		name = "GFX_social_theory_banking_medium"
+		texturefile = "gfx/interface/technologies/social_theory_banking.dds"
+	}
+	#共同基金
+	spriteType = {
+		name = "GFX_social_theory_mutual_funds_medium"
+		texturefile = "gfx/interface/technologies/social_theory_mutual_funds.dds"
+	}
+	#宏观经济学
+	spriteType = {
+		name = "GFX_social_theory_macroeconomics_medium"
+		texturefile = "gfx/interface/technologies/social_theory_macroeconomics.dds"
+	}
+	#中央集权
+	spriteType = {
+		name = "GFX_social_theory_centralization_medium"
+		texturefile = "gfx/interface/technologies/social_theory_centralization.dds"
+	}
+	#中央档案馆
+	spriteType = {
+		name = "GFX_social_theory_central_archives_medium"
+		texturefile = "gfx/interface/technologies/social_theory_central_archives.dds"
+	}
+	#身份证件
+	spriteType = {
+		name = "GFX_social_theory_id_medium"
+		texturefile = "gfx/interface/technologies/social_theory_id.dds"
+	}
+	#殖民主义
+	spriteType = {
+		name = "GFX_social_theory_colonization_medium"
+		texturefile = "gfx/interface/technologies/social_theory_colonization.dds"
+	}
+	#殖民主义II
+	spriteType = {
+		name = "GFX_social_theory_colonization_ii_medium"
+		texturefile = "gfx/interface/technologies/social_theory_colonization_ii.dds"
+	}
+	#殖民主义III
+	spriteType = {
+		name = "GFX_social_theory_colonization_iii_medium"
+		texturefile = "gfx/interface/technologies/social_theory_colonization_iii.dds"
+	}
+	#帝国主义
+	spriteType = {
+		name = "GFX_social_theory_imperialism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_imperialism.dds"
+	}
+	#民族主义
+	spriteType = {
+		name = "GFX_social_theory_nationalism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_nationalism.dds"
+	}
+	#泛民族主义
+	spriteType = {
+		name = "GFX_social_theory_pan_nationalism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_pan_nationalism.dds"
+	}
+	#多边联盟
+	spriteType = {
+		name = "GFX_social_theory_changeable_alliance_medium"
+		texturefile = "gfx/interface/technologies/social_theory_changeable_alliance.dds"
+	}
+	#理性主义
+	spriteType = {
+		name = "GFX_social_theory_rationalism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_rationalism.dds"
+	}
+	#民主
+	spriteType = {
+		name = "GFX_social_theory_democratic_medium"
+		texturefile = "gfx/interface/technologies/social_theory_democratic.dds"
+	}
+	#大众传播
+	spriteType = {
+		name = "GFX_social_theory_mass_communication_medium"
+		texturefile = "gfx/interface/technologies/social_theory_mass_communication.dds"
+	}
+	#大众宣传
+	spriteType = {
+		name = "GFX_social_theory_mass_publicity_medium"
+		texturefile = "gfx/interface/technologies/social_theory_mass_publicity.dds"
+	}
+	#大众监控
+	spriteType = {
+		name = "GFX_social_theory_public_monitoring_medium"
+		texturefile = "gfx/interface/technologies/social_theory_public_monitoring.dds"
+	}
+	#平等主义
+	spriteType = {
+		name = "GFX_social_theory_egalitarianism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_egalitarianism.dds"
+	}
+	#人权
+	spriteType = {
+		name = "GFX_social_theory_human_rights_medium"
+		texturefile = "gfx/interface/technologies/social_theory_human_rights.dds"
+	}
+	#无政府主义
+	spriteType = {
+		name = "GFX_social_theory_anarchy_medium"
+		texturefile = "gfx/interface/technologies/social_theory_anarchy.dds"
+	}
+	#学术界
+	spriteType = {
+		name = "GFX_social_theory_academic_circle_medium"
+		texturefile = "gfx/interface/technologies/social_theory_academic_circle.dds"
+	}
+	#科学主义
+	spriteType = {
+		name = "GFX_social_theory_scientism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_scientism.dds"
+	}
+	#远视主义
+	spriteType = {
+		name = "GFX_social_theory_farsightism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_farsightism.dds"
+	}
+	#经验主义
+	spriteType = {
+		name = "GFX_social_theory_empiricism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_empiricism.dds"
+	}
+	#辩证法
+	spriteType = {
+		name = "GFX_social_theory_dialectics_medium"
+		texturefile = "gfx/interface/technologies/social_theory_dialectics.dds"
+	}
+	#劳工运动
+	spriteType = {
+		name = "GFX_social_theory_labour_movement_medium"
+		texturefile = "gfx/interface/technologies/social_theory_labour_movement.dds"
+	}
+	#浪漫主义
+	spriteType = {
+		name = "GFX_social_theory_romanticism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_romanticism.dds"
+	}
+	#现实主义
+	spriteType = {
+		name = "GFX_social_theory_realism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_realism.dds"
+	}
+	#超现实主义
+	spriteType = {
+		name = "GFX_social_theory_surrealism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_surrealism.dds"
+	}
+	#加速主义
+	spriteType = {
+		name = "GFX_social_theory_accelerationism_medium"
+		texturefile = "gfx/interface/technologies/social_theory_accelerationism.dds"
+	}
+}

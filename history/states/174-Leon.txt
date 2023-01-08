@@ -1,0 +1,33 @@
+
+state={
+	id=174
+	name="STATE_174"
+	resources={
+		tungsten=11.000
+		aluminium=7.000
+	}
+
+	history={
+		owner = CAS
+		add_core_of = CAS
+		victory_points = {
+			3727 2 
+		}
+		victory_points = {
+			6867 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		726 794 874 918 920 3725 3727 3874 3918 3920 6746 6867 6907 9699 9770 11843 
+	}
+	manpower=774041
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

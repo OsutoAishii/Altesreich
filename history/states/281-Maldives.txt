@@ -1,0 +1,27 @@
+
+state={
+	id=281
+	name="STATE_281"
+
+	history={
+		owner = WID
+		add_core_of = WID
+		victory_points = {
+			13510 2
+		}
+		buildings = {
+			infrastructure = 1
+			4967 = {
+				naval_base = 1
+
+			}
+		}
+	}
+
+	provinces={
+		4967 13508 13509 13510 
+	}
+	manpower=79300
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

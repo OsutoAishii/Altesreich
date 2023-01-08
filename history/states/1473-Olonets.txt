@@ -1,0 +1,24 @@
+
+state={
+	id=1473
+	name="STATE_1473"
+
+	history={
+		owner = FIN
+		add_core_of = FIN
+		buildings = {
+			industrial_complex = 1
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		40 2994 6094 9231 14749 14750 14751 
+	}
+	manpower=23124
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

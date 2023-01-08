@@ -1,0 +1,21 @@
+
+state={
+	id=1307
+	name="STATE_1307"
+
+	history={
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		14279 14993 14994 
+	}
+	manpower=53877
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

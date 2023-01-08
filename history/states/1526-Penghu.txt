@@ -1,0 +1,22 @@
+state={
+	id=1526
+	name="STATE_1526"
+
+	history={
+		buildings = {
+			infrastructure = 1
+			14791 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		14791 
+	}
+	manpower=101758
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

@@ -1,0 +1,44 @@
+
+state={
+	id=177
+	name="STATE_177"
+
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = {
+			9793 3 
+		}
+		victory_points = {
+			7114 1
+		}
+		victory_points = {
+			9845 1
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+			9793 = {
+				naval_base = 2
+
+			}
+			7114 = {
+				naval_base = 1
+
+			}
+			9845 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		7114 9793 9845 14575 
+	}
+	manpower=365500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

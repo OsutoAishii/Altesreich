@@ -1,0 +1,38 @@
+state={
+	id=1442
+	name="STATE_1442"
+
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = {
+			12984 3
+		}
+		victory_points = {
+			14622 2
+		}
+		victory_points = {
+			5121 2
+		}
+		victory_points = {
+			14621 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			5121 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		5121 8251 12920 12984 14621 14622 
+	}
+	manpower=938626
+	buildings_max_level_factor=1.000
+	state_category=town
+}

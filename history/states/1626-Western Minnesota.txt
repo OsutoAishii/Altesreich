@@ -1,0 +1,23 @@
+
+state={
+	id=1626
+	name="STATE_1626"
+
+	history={
+		owner = NAS
+		add_core_of = NAS
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		10618 10685 11667 12597 
+	}
+	manpower=14119
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

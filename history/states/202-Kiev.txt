@@ -1,0 +1,34 @@
+
+state={
+	id=202
+	name="STATE_202"
+	resources={
+		oil=8.000
+		aluminium=7.000
+	}
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			525 25 
+		}
+		victory_points = {
+			504 2
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 6
+
+		}
+	}
+
+	provinces={
+		504 525 3494 3543 6497 9465 9568 13735 
+	}
+	manpower=2495352
+	buildings_max_level_factor=1.000
+	state_category=city
+}

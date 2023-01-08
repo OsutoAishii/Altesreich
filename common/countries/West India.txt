@@ -1,0 +1,6 @@
+#West India
+
+graphical_culture = asian_gfx
+graphical_culture_2d = asian_2d
+
+color = rgb { 158 50 50 }

@@ -1,0 +1,27 @@
+
+state={
+	id=1027
+	name="STATE_1027"
+
+	history={
+	owner = BUR
+	add_core_of = BUR
+		victory_points = {
+			11506 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+			anti_air_building = 3
+		}
+
+	}
+
+	provinces={
+		6949 9534 11491 11506 11518 
+	}
+	manpower=4058000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=804
+	name="STATE_804"
+
+	history={
+		owner = DEN
+		add_core_of = DEN
+		victory_points = {
+			11251 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		332 11251 
+	}
+	manpower=173900
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

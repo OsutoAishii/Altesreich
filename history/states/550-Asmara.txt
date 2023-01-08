@@ -1,0 +1,30 @@
+
+state={
+	id=550
+	name="STATE_550"
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+		    12766 3
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			12766 = {
+				naval_base = 3
+
+			}
+
+		}
+	}
+
+	provinces={
+		5047 5091 12766 
+	}
+	manpower=250600
+	buildings_max_level_factor=1.000
+	state_category=town
+}

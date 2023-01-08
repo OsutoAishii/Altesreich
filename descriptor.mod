@@ -1,0 +1,26 @@
+version="a1"
+tags={
+	"Alternative History"
+}
+dependencies={
+	"52 Chinese Localisation"
+}
+replace_path="common/bookmarks"
+replace_path="common/countries"
+replace_path="common/characters"
+replace_path="common/country_tags"
+replace_path="common/decisions"
+replace_path="common/ideologies"
+replace_path="common/national_focus"
+replace_path="common/technologies"
+replace_path="events"
+replace_path="history/countries"
+replace_path="history/states"
+replace_path="gfx/loadingscreens"
+replace_path="gfx/leaders"
+replace_path="gfx/flags"
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"
+replace_path="map"
+name="Altesreich & Neueordnung"
+supported_version="1.12.7"

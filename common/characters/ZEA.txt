@@ -1,0 +1,83 @@
+characters = {
+	ZEA_sid_kagesho = {
+		name = ZEA_sid_kagesho
+		portraits={
+			civilian = {
+				large = "gfx/leaders/ZEA/ZEA_sid_kagesho.png"
+			}
+		}
+		
+		country_leader={
+			ideology= anarchism_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= communism_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= syndicalism_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_democracy_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= farsightism_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= accelerationism_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= burgundian_system_type
+			desc = CAS_sid_kagesho_desc
+			traits={
+			}
+		}
+	}
+}

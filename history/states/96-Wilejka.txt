@@ -1,0 +1,21 @@
+
+state={
+	id=96
+	name="STATE_96"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		233 277 358 406 6340 9341 11391 
+	}
+	manpower=739000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

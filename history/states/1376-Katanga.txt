@@ -1,0 +1,33 @@
+state={
+	id=1376
+	name="STATE_1376"
+
+	history={
+		owner = CAF
+		add_core_of = CAF
+		victory_points = {
+			14430 5
+		}
+		victory_points = {
+			4515 3
+		}
+		victory_points = {
+			14431 2
+		}
+		victory_points = {
+			14447 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		191 1516 1817 1929 1968 2281 4515 12795 12907 13173 14430 14431 14432 14433 14434 14435 14436 14437 14440 14447 
+	}
+	manpower=5608683
+	buildings_max_level_factor=1.000
+	state_category=town
+}

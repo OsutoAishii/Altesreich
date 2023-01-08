@@ -1,0 +1,36 @@
+
+state={
+	id=450
+	name="STATE_450"
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		add_core_of = AFR
+		victory_points = {
+			11954 3 
+		}
+		victory_points = {
+			1127 2 
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			11954 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1062 1127 1198 4120 4200 7063 7139 10123 11954 
+	}
+	manpower=72535
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

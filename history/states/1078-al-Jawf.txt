@@ -1,0 +1,29 @@
+
+state={
+	id=1078
+	name="STATE_1078"
+
+	history={
+		owner = NML
+		add_core_of = NML
+		victory_points = {
+			10901 2 
+		}
+		victory_points = {
+			13591 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4974 5058 7970 8101 10815 10901 12749 13589 13590 13591 15116 
+	}
+	manpower=242813
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

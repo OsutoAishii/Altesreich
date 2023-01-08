@@ -1,0 +1,24 @@
+state={
+	id=1255
+	name="STATE_1255"
+
+	history={
+		owner = OTT
+		add_core_of = PRS
+		add_compliance = 50
+		victory_points = {
+			4660 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		4660 6642 
+	}
+	manpower=137600
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

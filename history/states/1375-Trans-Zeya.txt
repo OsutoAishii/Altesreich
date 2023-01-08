@@ -1,0 +1,21 @@
+
+state={
+	id=1375
+	name="STATE_1375"
+
+	history={
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1802 4725 7616 7801 10655 14428 14429 
+	}
+	manpower=30000
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

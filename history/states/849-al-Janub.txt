@@ -1,0 +1,26 @@
+
+state={
+	id=849
+	name="STATE_849"
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			11919 2
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		11919 
+	}
+	manpower=441600
+	buildings_max_level_factor=1.000
+	state_category=town
+}

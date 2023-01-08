@@ -1,0 +1,24 @@
+state={
+	id=1495
+	name="STATE_1495"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = {
+			14904 1
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		12917 12979 14904 
+	}
+	manpower=110436
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

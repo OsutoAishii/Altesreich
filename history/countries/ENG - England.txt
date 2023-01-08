@@ -1,0 +1,51 @@
+capital = 126
+
+set_research_slots = 5
+
+set_stability = 0.73
+set_war_support = 0.21
+
+set_politics = {
+	ruling_party = authoritarian_democracy
+	elections_allowed = no
+}
+
+recruit_character = ENG_oliver_cromwell
+
+set_popularities = {
+	anarchism = 5
+	communism = 0
+	syndicalism = 5
+	social_democracy = 3
+	social_liberalism = 10
+	social_conservatism = 7
+	authoritarian_democracy = 55
+	absolutism = 5
+	authoritarian_nationalism = 5
+	farsightism = 0
+	accelerationism = 5
+	burgundian_system = 0
+}
+
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = CAN
+		autonomous_state = autonomy_collaboration_government
+	}
+	set_autonomy = {
+		target = CAF
+		autonomous_state = autonomy_collaboration_government
+	}
+	set_autonomy = {
+		target = WID
+		autonomous_state = autonomy_collaboration_government
+	}
+	else = {
+		puppet = CAN
+		puppet = CAF
+		puppet = WID
+	}
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=1476
+	name="STATE_1476"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = {
+			14777 3
+		}
+		victory_points = {
+			2212 3
+		}
+		victory_points = {
+			14779 2
+		}
+		victory_points = {
+			14780 2
+		}
+		victory_points = {
+			12969 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		2156 2212 5162 8199 12969 14776 14777 14779 14780 14783 
+	}
+	manpower=1856809
+	buildings_max_level_factor=1.000
+	state_category=town
+}

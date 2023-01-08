@@ -1,0 +1,24 @@
+
+state={
+	id=1175
+	name="STATE_1175"
+
+	history={
+		owner = KRA
+		add_core_of = KRA
+		victory_points = {
+			13219 2
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		9412 13219 13659
+	}
+	manpower=153390
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=1522
+	name="STATE_1522"
+
+	history={
+		owner = ARA
+		add_core_of = ARA
+		add_claim_by = CAS
+		victory_points = {
+			11884 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		832 942 3835 9903 11807 11884 
+	}
+	manpower=402837
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

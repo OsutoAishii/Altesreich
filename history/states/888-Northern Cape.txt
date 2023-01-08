@@ -1,0 +1,26 @@
+
+state={
+	id=888
+	name="STATE_888"
+
+	history={
+		owner = CPT
+		add_core_of = CPT
+		victory_points = {
+			15228 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4528 10415 10442 10697 12419 13379 13381 13385 13386 13387 13391 
+	}
+	manpower=225160
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

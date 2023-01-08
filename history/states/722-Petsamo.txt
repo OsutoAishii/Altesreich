@@ -1,0 +1,29 @@
+
+state={
+	id=722
+	name="STATE_722"
+
+	history={
+		owner = FIN
+		add_core_of = FIN
+		victory_points = {
+			9140 1
+		}
+		buildings = {
+			infrastructure = 1
+			9140 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		6012 6183 9140 11142 
+	}
+	manpower=2371
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

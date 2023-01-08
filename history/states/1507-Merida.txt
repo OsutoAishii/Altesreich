@@ -1,0 +1,33 @@
+state={
+	id=1507
+	name="STATE_1507"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		victory_points = {
+			2052 3
+		}
+		victory_points = {
+			1997 2
+		}
+		victory_points = {
+			14941 2
+		}
+		victory_points = {
+			14936 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1997 2052 4892 5000 14935 14936 14937 14941 14944 
+	}
+	manpower=828592
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

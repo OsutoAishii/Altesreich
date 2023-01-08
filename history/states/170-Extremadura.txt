@@ -1,0 +1,35 @@
+
+state={
+	id=170
+	name="STATE_170"
+	resources={
+		tungsten=6.000
+	}
+
+	history={
+		owner = CAS
+		add_core_of = CAS
+		victory_points = {
+			6902 3 
+		}
+		victory_points = {
+			6866 2 
+		}
+		victory_points = {
+			9925 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		809 931 985 3930 6866 6902 6948 6954 9839 9877 9917 9925 11756 11780 11798 11851 
+	}
+	manpower=1782253
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

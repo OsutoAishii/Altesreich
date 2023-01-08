@@ -1,0 +1,27 @@
+
+state={
+	id=829
+	name="STATE_829"
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			1838 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1838 4704 4843 7808 12598 14855 14856 14858 14860 14867 
+	}
+	manpower=1430000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

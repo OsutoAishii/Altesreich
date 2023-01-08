@@ -1,0 +1,23 @@
+
+state={
+	id=1605
+	name="STATE_1605"
+
+	history={
+		victory_points = {
+			1283 1
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1283 1310 4635 10147 10954 12107 12123 12484 13064 
+	}
+	manpower=201351
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

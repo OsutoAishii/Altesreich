@@ -1,0 +1,28 @@
+
+state={
+	id=324
+	name="STATE_324"
+	resources={
+		tungsten=2.000
+	}
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			13978 1
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		12860 13977 13978 
+	}
+	manpower=450000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

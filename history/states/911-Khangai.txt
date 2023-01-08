@@ -1,0 +1,33 @@
+
+state={
+	id=911
+	name="STATE_911"
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			7881 1 
+		}
+		victory_points = {
+			1728 1 
+		}
+		victory_points = {
+			1798 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1725 1728 1798 4697 4729 7806 7864 7881 10623 12541 12614 12675 13898 13905 13906 13911 13912 13916 13919 13928 13931 
+	}
+	manpower=100120
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

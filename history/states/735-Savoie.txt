@@ -1,0 +1,33 @@
+
+state={
+	id=735
+	name="STATE_735"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			11573 1
+		}
+		buildings = {
+			infrastructure = 2
+			6609 = {
+				bunker = 4
+				
+			}
+			9745 = {
+				bunker = 4
+				
+			}
+			
+		}
+
+	}
+
+	provinces={
+		6609 9745 11573 
+	}
+	manpower=665584
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=211
+	name="STATE_211"
+	resources={
+		steel=12.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 70
+		force_disable_resistance = OTT
+		victory_points = {
+			9919 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			9919 = {
+				naval_base = 1
+				
+			}
+		}
+	}
+
+	provinces={
+		6967 9888 9902 9919 
+	}
+	manpower=1575499
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,28 @@
+capital = 1339
+
+set_research_slots = 0
+
+set_stability = 0.0
+set_war_support = 0.0
+
+set_politics = {
+	ruling_party = anarchism
+	elections_allowed = no
+}
+
+recruit_character = WAS_WAS
+
+set_popularities = {
+	anarchism = 100
+	communism = 0
+	syndicalism = 0
+	social_democracy = 0
+	social_liberalism = 0
+	social_conservatism = 0
+	authoritarian_democracy = 0
+	absolutism = 0
+	authoritarian_nationalism = 0
+	farsightism = 0
+	accelerationism = 0
+	burgundian_system = 0
+}

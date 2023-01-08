@@ -1,0 +1,25 @@
+
+state={
+	id=715
+	name="STATE_715"
+
+	history={
+		victory_points = {
+			1638 2 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		930 1499 1558 1627 1638 3877 4503 4561 4633 7812 11903 12337 12469 14850 
+	}
+	manpower=3643373
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

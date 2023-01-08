@@ -1,0 +1,30 @@
+
+state={
+	id=8
+	name="STATE_8"
+	resources={
+		steel=5.000
+	}
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			6583 5 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+
+		}
+
+	}
+
+	provinces={
+		6583 
+	}
+	manpower=298000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

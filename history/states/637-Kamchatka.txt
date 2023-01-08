@@ -1,0 +1,24 @@
+
+state={
+	id=637
+	name="STATE_637"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			14375 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		1863 4728 7878 12522 14375 14376 
+	}
+	manpower=48831
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

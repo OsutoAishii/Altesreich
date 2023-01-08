@@ -1,0 +1,39 @@
+
+state={
+	id=615
+	name="STATE_615"
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			4174 5
+		}
+		victory_points = {
+			1575 2
+		}
+		victory_points = {
+			10421 2
+		}
+		victory_points = {
+			12078 1
+		}
+		victory_points = {
+			1438 1
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		1027 1180 1203 1438 1519 1575 4174 4469 4538 4634 7571 10421 12078 12344 
+	}
+	manpower=10008000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

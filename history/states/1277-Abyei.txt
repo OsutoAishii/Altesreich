@@ -1,0 +1,20 @@
+state={
+	id=1277
+	name="STATE_1277"
+
+	history={
+		owner = CAF
+		add_core_of = CAF
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	provinces={
+		14151 
+	}
+	manpower=124390
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

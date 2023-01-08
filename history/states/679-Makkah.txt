@@ -1,0 +1,37 @@
+
+state={
+	id=679
+	name="STATE_679"
+	resources={
+		steel=7.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			5037 3 
+		}
+		victory_points = {
+			12883 3 
+		}
+		buildings = {
+			infrastructure = 2
+			12883 = {
+				naval_base = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		5037 10748 12883 13576 
+	}
+	manpower=1511000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

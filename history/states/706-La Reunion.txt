@@ -1,0 +1,25 @@
+state={
+	id=706
+	name="STATE_706"
+	manpower = 186637
+	
+	state_category = small_island
+
+	history={
+		owner = MDG
+		add_core_of = MDG
+		victory_points = {
+			13017 1
+		}
+		buildings = {
+			infrastructure = 1
+			13017 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		13017 
+	}
+}

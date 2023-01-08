@@ -1,0 +1,22 @@
+
+state={
+	id=962
+	name="STATE_962"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		519 694 9655 11486 13261 15097 
+	}
+	manpower=227331
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

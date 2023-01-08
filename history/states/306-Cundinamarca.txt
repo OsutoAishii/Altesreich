@@ -1,0 +1,36 @@
+
+state={
+	id=306
+	name="STATE_306"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		victory_points = {
+			15081 10
+		}
+		victory_points = {
+			2079 2
+		}
+		victory_points = {
+			10790 2
+		}
+		victory_points = {
+			12845 2
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 2
+
+		}
+	}
+
+	provinces={
+		2079 7993 10747 10790 12845 15081 15082 15084 15086 
+	}
+	manpower=4953049
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=89
+	name="STATE_89"
+
+	resources = {
+		oil = 6
+	}
+
+	history={
+		owner = KRA
+		add_core_of = KRA
+		victory_points = {
+	        11411 2
+		}
+		victory_points = {
+	        6431 1
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+
+		}
+	}
+
+	provinces={
+		3743 6431 6460 6483 9425 11411 11550 
+	}
+	manpower=2180300
+	buildings_max_level_factor=1.000
+	state_category=town
+}

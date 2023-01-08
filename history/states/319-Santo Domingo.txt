@@ -1,0 +1,40 @@
+
+state={
+	id=319
+	name="STATE_319"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = CAR
+		add_core_of = CAR
+		victory_points = {
+			7660 5 
+		}
+		victory_points = {
+			4598 3 
+		}
+		victory_points = {
+			10484 2 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+			7660 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		4598 7632 7660 10484 13706 13707 
+	}
+	manpower=1456000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

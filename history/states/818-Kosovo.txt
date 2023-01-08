@@ -1,0 +1,29 @@
+
+state={
+	id=818
+	name="STATE_818"
+	resources={
+		chromium=4.000
+		aluminium=14.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 70
+		force_disable_resistance = OTT
+		victory_points = {
+		    9874 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		6940 9849 9874 13598 
+	}
+	manpower=53000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

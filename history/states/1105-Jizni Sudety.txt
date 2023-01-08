@@ -1,0 +1,28 @@
+state={
+	id=1105
+	name="STATE_1105"
+	
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			557 1
+		}
+		buildings = {
+			infrastructure = 2
+			anti_air_building = 1
+			5283 = {
+				bunker = 1
+
+			}
+
+		}
+	}
+	
+	provinces={
+		543 557 5283 11525 
+	}
+	manpower=336459
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

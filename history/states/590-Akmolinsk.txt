@@ -1,0 +1,30 @@
+
+state={
+	id=590
+	name="STATE_590"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			14199 10
+		}
+		victory_points = {
+			1418 2
+		}
+		victory_points = {
+			7874 2
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		1223 1229 1276 1309 1375 1391 1418 1662 1680 1694 4238 4281 4309 4850 7298 7326 7383 7741 7874 10211 10239 10308 10633 12619 14198 14199 
+	}
+	manpower=980533
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

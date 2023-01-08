@@ -1,0 +1,26 @@
+state={
+	id=1254
+	name="STATE_1254"
+
+	history={
+		owner = OTT
+		add_core_of = RUS
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			11674 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1539 11674 11704 14089 14090 14091 
+	}
+	manpower=330744
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

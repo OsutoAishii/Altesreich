@@ -1,0 +1,36 @@
+
+state={
+	id=599
+	name="STATE_599"
+	resources={
+		tungsten=15.000
+		steel=15.000
+		chromium=3.000
+	}
+
+	history={
+		victory_points = {
+			1023 3 
+		}
+		victory_points = {
+			9997 1 
+		}
+		victory_points = {
+			10121 1 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 2
+
+		}
+	}
+
+	provinces={
+		1023 1597 4134 4152 7095 7128 7168 7210 9997 10039 10121 10404 10431 12407 12436 
+	}
+	manpower=8685200
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=1502
+	name="STATE_1502"
+
+	history={
+		owner = PRS
+		add_core_of = PRS
+		victory_points = {
+			12831 2
+		}
+		victory_points = {
+			14908 1
+		}
+		victory_points = {
+			14907 1
+		}
+		victory_points = {
+			12769 1
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		5082 8090 10789 12769 12831 14907 14908 14910 14911 
+	}
+	manpower=1387185
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

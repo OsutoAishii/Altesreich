@@ -1,0 +1,33 @@
+
+state={
+	id=79
+	name="STATE_79"
+
+	history={
+		owner = OTT
+		add_compliance = 70
+		force_disable_resistance = OTT
+		victory_points = {
+			9716 5
+		}
+		victory_points = {
+			6747 2
+		}
+		victory_points = {
+			6706 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+		}
+
+	}
+
+	provinces={
+		723 744 3728 3741 6584 6706 6729 6747 9701 9716 11534 11652 11655 11672 
+	}
+	manpower=2652742
+	buildings_max_level_factor=1.000
+	state_category=town
+}

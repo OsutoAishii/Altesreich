@@ -1,0 +1,42 @@
+
+state={
+	id=620
+	name="STATE_620"
+
+	history={
+		victory_points = {
+			4619 10 
+		}
+		victory_points = {
+			1036 2 
+		}
+		victory_points = {
+			1612 2 
+		}
+		victory_points = {
+			10757 2 
+		}
+		victory_points = {
+			4009 2 
+		}
+		victory_points = {
+			12408 2 
+		}
+		victory_points = {
+			12414 1 
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 3
+			industrial_complex = 2
+
+		}
+	}
+
+	provinces={
+		1036 1612 4009 4130 4619 4631 5030 7019 7167 7580 7596 7609 7625 7637 8072 9934 9959 10462 10474 10757 12086 12408 12414 12467 
+	}
+	manpower=25000000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

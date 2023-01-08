@@ -1,0 +1,35 @@
+
+state={
+	id=573
+	name="STATE_573"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			378 3 
+		}
+		victory_points = {
+			3268 2 
+		}
+		victory_points = {
+			6231 1 
+		}
+		victory_points = {
+			9278 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		214 280 378 3202 3268 3339 3370 6231 6316 6362 6392 9278 9311 9356 11295 11362 
+	}
+	manpower=556677
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

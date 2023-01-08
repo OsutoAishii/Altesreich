@@ -1,0 +1,32 @@
+
+state={
+	id=955
+	name="STATE_955"
+	resources={
+		oil=3.000
+		aluminium=22.000
+	}
+
+	history={
+		owner = NML
+		add_core_of = NML
+		victory_points = {
+			13248 3 
+		}
+		victory_points = {
+			14710 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		10904 13247 13248 14710 
+	}
+	manpower=25906
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

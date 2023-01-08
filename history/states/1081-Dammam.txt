@@ -1,0 +1,31 @@
+
+state={
+	id=1081
+	name="STATE_1081"
+
+	history={
+		owner = OTT
+		add_core_of = PRS
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			12702 3 
+		}
+		buildings = {
+			infrastructure = 1
+			12702 = {
+				naval_base = 6
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		10791 12702 14708 
+	}
+	manpower=903000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

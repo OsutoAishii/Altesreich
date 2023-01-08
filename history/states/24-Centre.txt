@@ -1,0 +1,33 @@
+
+state={
+	id=24
+	name="STATE_24"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		victory_points = {
+			3671 5 
+		}
+		victory_points = {
+			512 5 
+		}
+		victory_points = {
+			11611 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		669 3493 3655 3671 6688 9629 11611 11631 
+	}
+	manpower=1546300
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

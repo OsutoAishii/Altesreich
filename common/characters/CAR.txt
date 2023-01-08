@@ -1,0 +1,47 @@
+characters = {
+	CAR_fidel_castro = {
+		name = CAR_fidel_castro
+		portraits={
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_fidel_castro.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = CAR_fidel_castro_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = CAR_fidel_castro_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = CAR_fidel_castro_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = CAR_fidel_castro_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = CAR_fidel_castro_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = CAR_fidel_castro_desc
+			traits={
+			}
+		}
+	}
+}

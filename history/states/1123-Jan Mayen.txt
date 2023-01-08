@@ -1,0 +1,25 @@
+state={
+	id=1123
+	name="STATE_1123"
+	
+	history={
+		owner = DEN
+		add_core_of = DEN
+		buildings = {
+			infrastructure = 0
+			9096 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+	
+	provinces={
+		9096 
+	}
+	manpower=35
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

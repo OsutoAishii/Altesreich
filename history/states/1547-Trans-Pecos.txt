@@ -1,0 +1,24 @@
+state={
+	id=1547
+	name="STATE_1547"
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		victory_points = {
+			10740 3 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1954 5038 10740 10894 
+	}
+	manpower=856187
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

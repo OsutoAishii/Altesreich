@@ -1,0 +1,47 @@
+
+state={
+	id=468
+	name="STATE_468"
+	resources={
+		aluminium=3.000
+	}
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		victory_points = {
+			4345 10 
+		}
+		victory_points = {
+			12149 40
+		}
+		victory_points = {
+			1341 3 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 2
+			air_base = 3
+			dockyard = 1
+			12149 = {
+				naval_base = 6
+
+			}
+			14204 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		983 1284 1341 1356 1764 3911 4305 4345 4417 4419 4422 7289 7291 7345 7433 7435 7875 9601 10174 10230 10249 10320 10700 12149 12205 12223 12276 12291 13160 14202 14204 14206 14207 14208 
+	}
+	manpower=2652754
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

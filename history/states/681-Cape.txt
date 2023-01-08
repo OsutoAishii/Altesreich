@@ -1,0 +1,41 @@
+
+state={
+	id=681
+	name="STATE_681"
+
+	history={
+		owner = CPT
+		add_core_of = CPT
+		victory_points = {
+			12589 10 
+		}
+		victory_points = {
+			4696 3
+		}
+		victory_points = {
+			1833 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+			12589 = {
+				naval_base = 4
+
+			}
+			4696 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1833 4584 4696 4822 7576 12547 12589 12692 13373 13374 13375 13376 13377 13378 13380 13382 13383 13384 
+	}
+	manpower=1637178
+	buildings_max_level_factor=1.000
+	state_category=town
+}

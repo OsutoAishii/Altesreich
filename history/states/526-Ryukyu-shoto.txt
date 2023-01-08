@@ -1,0 +1,35 @@
+
+state={
+	id=526
+	name="STATE_526"
+
+	history={
+		victory_points = {
+			11932 3
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 3
+			11932 = {
+				naval_base = 3
+
+			}
+			10124 = {
+				naval_base = 1
+
+			}
+			14284 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		1123 7115 10124 11932 14284 
+	}
+	manpower=578000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

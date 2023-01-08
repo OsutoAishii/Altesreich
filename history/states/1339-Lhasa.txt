@@ -1,0 +1,34 @@
+
+state={
+	id=1339
+	name="STATE_1339"
+	resources={
+		tungsten=2.000
+	}
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			5033 10
+		}
+		victory_points = {
+			14330 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		2014 2098 4994 5033 7926 10918 14330 
+	}
+	manpower=902500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

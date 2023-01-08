@@ -1,0 +1,39 @@
+
+state={
+	id=424
+	name="STATE_424"
+
+	history={
+		owner = STI
+		add_core_of = STI
+		victory_points = {
+			14816 5 
+		}
+		victory_points = {
+			7340 3 
+		}
+		victory_points = {
+			4321 2 
+		}
+		victory_points = {
+			10152 1 
+		}
+		victory_points = {
+			10756 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1344 1430 4321 4365 4414 7310 10152 10296 10756 10897 12180 12779 
+	}
+	manpower=15791700
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

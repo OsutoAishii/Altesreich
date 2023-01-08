@@ -1,0 +1,47 @@
+
+state={
+	id=609
+	name="STATE_609"
+
+	history={
+		victory_points = {
+			11822 3 
+		}
+		victory_points = {
+			900 2 
+		}
+		victory_points = {
+			3900 1 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			3900 = {
+				bunker = 2
+				naval_base = 2
+
+			}
+			3830 = {
+				bunker = 2
+
+			}
+			900 = {
+				bunker = 2
+
+			}
+			6969 = {
+				bunker = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		900 1052 3830 3900 6969 11822 12043 
+	}
+	manpower=6400000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

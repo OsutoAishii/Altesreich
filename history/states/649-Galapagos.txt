@@ -1,0 +1,29 @@
+
+state={
+	id=649
+	name="STATE_649"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		victory_points = {
+			5023 1
+		}
+		buildings = {
+			infrastructure = 1
+			5023 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		5023 
+	}
+	manpower=11532
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

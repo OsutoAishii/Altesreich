@@ -1,0 +1,28 @@
+capital = 1057
+
+set_research_slots = 5
+
+set_stability = 0.30
+set_war_support = 0.80
+
+set_politics = {
+	ruling_party = social_democracy
+	elections_allowed = no
+}
+
+recruit_character = PRU_villian_albrecht_ost_koloshenki
+
+set_popularities = {
+	anarchism = 2
+	communism = 0
+	syndicalism = 23
+	social_democracy = 25
+	social_liberalism = 0
+	social_conservatism = 10
+	authoritarian_democracy = 13
+	absolutism = 2
+	authoritarian_nationalism = 15
+	farsightism = 0
+	accelerationism = 10
+	burgundian_system = 0
+}

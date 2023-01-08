@@ -1,0 +1,41 @@
+
+state={
+	id=413
+	name="STATE_413"
+	resources={
+		oil=28.000
+	}
+
+	history={
+		owner = OTT
+		add_core_of = PRS
+		add_compliance = 50
+		victory_points = {
+			12784 5
+		}
+		victory_points = {
+			1922 3
+		}
+		victory_points = {
+			14290 2
+		}
+		victory_points = {
+			5005 2
+		}
+		buildings = {
+			infrastructure = 2
+			5005 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		1922 5005 7953 12784 13716 14290 
+	}
+	manpower=797356
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

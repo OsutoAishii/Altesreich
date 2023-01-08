@@ -1,0 +1,24 @@
+
+state={
+	id=906
+	name="STATE_906"
+
+	history={
+		victory_points = {
+			8063 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1082 1197 4425 8063 10920 14992 
+	}
+	manpower=722500
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=1391
+	name="STATE_1391"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		victory_points = {
+			14515 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5083 5214 14511 14512 14514 14515 
+	}
+	manpower=450479
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

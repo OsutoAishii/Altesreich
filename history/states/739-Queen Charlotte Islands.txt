@@ -1,0 +1,29 @@
+
+state={
+	id=739
+	name="STATE_739"
+
+	history={
+		owner = CHI
+		add_core_of = CHI
+		victory_points = {
+			1869 1
+		}
+		buildings = {
+			infrastructure = 0
+			1869 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1869 
+	}
+	manpower=4761
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

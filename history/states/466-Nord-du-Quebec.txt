@@ -1,0 +1,21 @@
+
+state={
+	id=466
+	name="STATE_466"
+	resources={
+		aluminium=4.000
+	}
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+	}
+
+	provinces={
+		490 3208 10176 12600 13162 13164 13166 13181 13184 13186 14213 14214 14226 14234 
+	}
+	manpower=368860
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=1340
+	name="STATE_1340"
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			4435 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4435 10389 12338 
+	}
+	manpower=109808
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

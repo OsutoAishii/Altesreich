@@ -1,0 +1,36 @@
+
+state={
+	id=501
+	name="STATE_501"
+
+	history={
+		owner = BZL
+		add_core_of = BZL
+		victory_points = {
+			10513 20
+		}
+		victory_points = {
+			10360 3
+		}
+		victory_points = {
+			12438 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 1
+			5112 = {
+				naval_base = 4
+
+			}
+
+		}
+	}
+
+	provinces={
+		1583 5112 5167 5186 7553 7636 10360 10432 10513 10947 10994 11003 11008 12438 12937 12972 
+	}
+	manpower=6199200
+	buildings_max_level_factor=1.000
+	state_category=city
+}

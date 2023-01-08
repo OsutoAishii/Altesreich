@@ -1,0 +1,25 @@
+
+state={
+	id=1080
+	name="STATE_1080"
+
+	history={
+		owner = NML
+		add_core_of = NML
+		victory_points = {
+			13585 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		7995 10850 13585 
+	}
+	manpower=300642
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

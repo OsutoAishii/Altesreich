@@ -1,0 +1,28 @@
+
+state={
+	id=70
+	name="STATE_70"
+	resources={
+		tungsten=1.000
+	}
+
+	history={
+		owner = KRA
+		add_core_of = KRA
+		victory_points = {
+			9692 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 3
+		}
+	}
+
+	provinces={
+		9692 
+	}
+	manpower=1230500
+	buildings_max_level_factor=1.000
+	state_category=town
+}

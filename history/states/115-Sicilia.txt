@@ -1,0 +1,58 @@
+
+state={
+	id=115
+	name="STATE_115"
+	resources={
+		aluminium=20.000
+	}
+
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = {
+			10074 10 
+		}
+		victory_points = {
+			4159 5 
+		}
+		victory_points = {
+			14589 5 
+		}
+		victory_points = {
+			4014 2 
+		}
+		victory_points = {
+			7059 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 10
+			dockyard = 1
+			10074 = {
+				naval_base = 2
+
+			}
+			7059 = {
+				naval_base = 5
+
+			}
+			4159 = {
+				naval_base = 8
+
+			}
+			4014 = {
+				naval_base = 3
+
+			}
+
+		}
+	}
+
+	provinces={
+		1009 1156 3857 4014 4159 7059 7147 10074 12047 14589 15098 15099 
+	}
+	manpower=3936571
+	buildings_max_level_factor=1.000
+	state_category=city
+}

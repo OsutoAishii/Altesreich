@@ -1,0 +1,356 @@
+technologies = {
+
+    @1450 = 0
+	@1456 = 2
+	@1458 = 4
+	@1460 = 6
+	@1462 = 8
+	@1464 = 10
+	@1466 = 12
+
+	#基础物理学
+    technical_theory_basic_physics = {
+        research_cost = 0.8
+        start_year = 1450
+        path = {
+            leads_to_tech = technical_theory_advanced_physics
+            research_cost_coeff = 1
+        }
+		dependencies = {
+			social_theory_academic_circle = 1
+		}
+        folder = {
+            name = electronics_folder
+            position = { x = 8 y = @1450 }
+        }
+        categories = { technical_theory theory }
+    }
+	#进阶物理学
+    technical_theory_advanced_physics = {
+        research_cost = 1.3
+        start_year = 1456
+        path = {
+            leads_to_tech = technical_theory_higher_order_physics
+            research_cost_coeff = 1
+        }
+		path = {
+            leads_to_tech = technical_theory_higher_order_steam_engine_theory
+            research_cost_coeff = 1
+        }
+		path = {
+            leads_to_tech = technical_theory_basic_internal_combustion_engine_theory
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 8 y = @1456 }
+        }
+        categories = { technical_theory theory }
+    }
+	#高阶物理学
+    technical_theory_higher_order_physics = {
+        research_cost = 1.3
+        start_year = 1458
+        path = {
+            leads_to_tech = technical_theory_professional_physics
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 8 y = @1458 }
+        }
+        categories = { technical_theory theory }
+    }
+	#专业物理学
+    technical_theory_professional_physics = {
+        research_cost = 1.3
+        start_year = 1460
+        path = {
+            leads_to_tech = technical_theory_basic_thermodynamics
+            research_cost_coeff = 1
+        }
+		path = {
+            leads_to_tech = technical_theory_basic_electricity
+            research_cost_coeff = 1
+        }
+		path = {
+            leads_to_tech = technical_theory_nuclear_physics
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 8 y = @1460 }
+        }
+        categories = { technical_theory theory }
+    }
+	#高阶蒸汽机理论
+    technical_theory_higher_order_steam_engine_theory = {
+        research_cost = 1.5
+        start_year = 1458
+        path = {
+            leads_to_tech = technical_theory_of_forming_steam_engine
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 0 y = @1458 }
+        }
+        categories = { technical_theory theory }
+    }
+	#成形蒸汽机理论
+    technical_theory_of_forming_steam_engine = {
+        research_cost = 1.5
+        start_year = 1460
+        folder = {
+            name = electronics_folder
+            position = { x = 0 y = @1460 }
+        }
+        categories = { technical_theory theory }
+    }
+	#基础内燃机理论
+    technical_theory_basic_internal_combustion_engine_theory = {
+        research_cost = 2.5
+        start_year = 1458
+        path = {
+            leads_to_tech = technical_theory_advanced_internal_combustion_engine_theory
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 2 y = @1458 }
+        }
+        categories = { technical_theory theory }
+    }
+	#进阶内燃机理论
+    technical_theory_advanced_internal_combustion_engine_theory = {
+        research_cost = 2.5
+        start_year = 1460
+        path = {
+            leads_to_tech = technical_theory_high_order_internal_combustion_engine_theory
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 2 y = @1460 }
+        }
+        categories = { technical_theory theory }
+    }
+	#高阶内燃机理论
+    technical_theory_high_order_internal_combustion_engine_theory = {
+        research_cost = 2.5
+        start_year = 1462
+        path = {
+            leads_to_tech = technical_theory_of_forming_internal_combustion_engine
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 2 y = @1462 }
+        }
+        categories = { technical_theory theory }
+    }
+	#成形内燃机理论
+    technical_theory_of_forming_internal_combustion_engine = {
+        research_cost = 2.5
+        start_year = 1464
+        path = {
+            leads_to_tech = technical_theory_modern_heat_engine_theory
+            research_cost_coeff = 1
+        }
+		dependencies = {
+			technical_theory_basic_thermodynamics = 1
+			technical_theory_high_order_internal_combustion_engine_theory = 1
+		}
+        folder = {
+            name = electronics_folder
+            position = { x = 2 y = @1464 }
+        }
+        categories = { technical_theory theory }
+    }
+	#现代热机理论
+    technical_theory_modern_heat_engine_theory = {
+        research_cost = 3
+        start_year = 1466
+		dependencies = {
+			technical_theory_of_forming_internal_combustion_engine = 1
+			technical_theory_advanced_thermodynamics = 1
+		}
+        folder = {
+            name = electronics_folder
+            position = { x = 2 y = @1466 }
+        }
+        categories = { technical_theory theory }
+    }
+	#基础热力学
+    technical_theory_basic_thermodynamics = {
+        research_cost = 2
+        start_year = 1462
+        path = {
+            leads_to_tech = technical_theory_advanced_thermodynamics
+            research_cost_coeff = 1
+        }
+		path = {
+            leads_to_tech = technical_theory_of_forming_internal_combustion_engine
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 4 y = @1462 }
+        }
+        categories = { technical_theory theory }
+    }
+	#进阶热力学
+    technical_theory_advanced_thermodynamics = {
+        research_cost = 2
+        start_year = 1464
+        path = {
+            leads_to_tech = technical_theory_modern_heat_engine_theory
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 4 y = @1464 }
+        }
+        categories = { technical_theory theory }
+    }
+	#基础电学
+    technical_theory_basic_electricity = {
+        research_cost = 2
+        start_year = 1462
+        path = {
+            leads_to_tech = technical_theory_advanced_electricity
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 6 y = @1462 }
+        }
+        categories = { technical_theory theory }
+    }
+	#进阶电学
+    technical_theory_advanced_electricity = {
+        research_cost = 2
+        start_year = 1464
+        path = {
+            leads_to_tech = technical_theory_high_order_electricity
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 6 y = @1464 }
+        }
+        categories = { technical_theory theory }
+    }
+	#高阶电学
+    technical_theory_high_order_electricity = {
+        research_cost = 2
+        start_year = 1466
+        folder = {
+            name = electronics_folder
+            position = { x = 6 y = @1466 }
+        }
+        categories = { technical_theory theory }
+    }
+	#基础实用化学
+    technical_theory_basic_practical_chemistry = {
+        research_cost = 1
+        start_year = 1450
+		dependencies = {
+			social_theory_academic_circle = 1
+		}
+        path = {
+            leads_to_tech = technical_theory_advanced_practical_chemistry
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 12 y = @1450 }
+        }
+        categories = { technical_theory theory }
+    }
+	#进阶实用化学
+    technical_theory_advanced_practical_chemistry = {
+        research_cost = 1.2
+        start_year = 1456
+        path = {
+            leads_to_tech = technical_theory_higher_order_practical_chemistry
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 12 y = @1456 }
+        }
+        categories = { technical_theory theory }
+    }
+	#高阶实用化学
+    technical_theory_higher_order_practical_chemistry = {
+        research_cost = 1.2
+        start_year = 1458
+        path = {
+            leads_to_tech = technical_theory_exploring_microscopic_particles
+            research_cost_coeff = 1
+        }
+		path = {
+            leads_to_tech = technical_theory_modern_practical_chemistry
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 12 y = @1458 }
+        }
+        categories = { technical_theory theory }
+    }
+	#现代实用化学
+    technical_theory_modern_practical_chemistry = {
+        research_cost = 1.9
+        start_year = 1460
+        folder = {
+            name = electronics_folder
+            position = { x = 12 y = @1460 }
+        }
+        categories = { technical_theory theory }
+    }
+	#探秘微观粒子
+    technical_theory_exploring_microscopic_particles = {
+        research_cost = 1.5
+        start_year = 1460
+        path = {
+            leads_to_tech = technical_theory_nuclear_physics
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = electronics_folder
+            position = { x = 10 y = @1460 }
+        }
+        categories = { technical_theory theory }
+    }
+	#核物理学
+    technical_theory_nuclear_physics = {
+        research_cost = 3
+        start_year = 1464
+        path = {
+            leads_to_tech = technical_theory_advanced_nuclear_physics
+            research_cost_coeff = 1
+        }
+		dependencies = {
+			technical_theory_professional_physics = 1
+			technical_theory_exploring_microscopic_particles = 1
+		}
+        folder = {
+            name = electronics_folder
+            position = { x = 8 y = @1464 }
+        }
+        categories = { technical_theory theory }
+    }
+	#进阶核物理学
+    technical_theory_advanced_nuclear_physics = {
+        research_cost = 3
+        start_year = 1466
+        folder = {
+            name = electronics_folder
+            position = { x = 8 y = @1466 }
+        }
+        categories = { technical_theory theory }
+    }
+
+}

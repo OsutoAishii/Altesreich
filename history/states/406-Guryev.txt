@@ -1,0 +1,26 @@
+
+state={
+	id=406
+	name="STATE_406"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			3618 2 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		475 554 642 3618 6615 7322 9453 10262 11442 11455 11469 11591 13008 
+	}
+	manpower=146494
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

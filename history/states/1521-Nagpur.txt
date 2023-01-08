@@ -1,0 +1,29 @@
+
+state={
+	id=1521
+	name="STATE_1521"
+
+	history={
+		owner = CID
+		add_core_of = CID
+		victory_points = {
+			4883 3 
+		}
+		victory_points = {
+			7619 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		2923 4883 5019 7619 10030 10511 12781 14540 
+	}
+	manpower=2405665
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=738
+	name="STATE_738"
+
+	history={
+		buildings = {
+			infrastructure = 0
+			4579 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4579 10219 
+	}
+	manpower=36146
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

@@ -1,0 +1,26 @@
+state={
+	id=1300
+	name="STATE_1300"
+
+	history={
+		victory_points = {
+			4279 3
+		}
+		buildings = {
+			infrastructure = 1
+			4279 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1230 1304 1316 2170 2222 4279 4335 4409 10282 12129 14254 
+	}
+	manpower=5045700
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

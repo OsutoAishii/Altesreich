@@ -1,0 +1,29 @@
+state={
+	id=1119
+	name="STATE_1119"
+	
+	history={
+		owner = OTT
+		add_core_of = OTT
+		victory_points = {
+			6550 1
+		}
+		buildings = {
+			infrastructure = 1
+			6550 = {
+				naval_base = 1
+
+			}
+
+		}
+
+
+	}
+	
+	provinces={
+		6550 
+	}
+	manpower=32977
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

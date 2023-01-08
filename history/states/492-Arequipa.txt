@@ -1,0 +1,38 @@
+
+state={
+	id=492
+	name="STATE_492"
+	resources={
+		tungsten=2.000
+	}
+
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = {
+			14754 5
+		}
+		victory_points = {
+			5202 2
+		}
+		victory_points = {
+			14762 2
+		}
+		victory_points = {
+			14753 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 1
+
+		}
+	}
+
+	provinces={
+		2210 2225 5202 10940 14753 14754 14757 14759 14761 14762 
+	}
+	manpower=1601278
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

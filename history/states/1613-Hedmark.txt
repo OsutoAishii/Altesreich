@@ -1,0 +1,26 @@
+state={
+	id=1613
+	name="STATE_1613"
+
+	history={
+		owner = DEN
+		add_core_of = DEN
+		victory_points = {
+			3021 1 
+		}
+		victory_points = {
+			3136 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		10 133 179 3021 3136 6042 6160 13660 
+	}
+	manpower=197831
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

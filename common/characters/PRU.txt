@@ -1,0 +1,47 @@
+characters = {
+	PRU_villian_albrecht_ost_koloshenki = {
+		name = PRU_villian_albrecht_ost_koloshenki
+		portraits={
+			civilian = {
+				large = "gfx/leaders/PRU/PRU_villian_albrecht_ost_koloshenki.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = PRU_villian_albrecht_ost_koloshenki_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = PRU_villian_albrecht_ost_koloshenki_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = PRU_villian_albrecht_ost_koloshenki_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = PRU_villian_albrecht_ost_koloshenki_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = PRU_villian_albrecht_ost_koloshenki_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = PRU_villian_albrecht_ost_koloshenki_desc
+			traits={
+			}
+		}
+	}
+}

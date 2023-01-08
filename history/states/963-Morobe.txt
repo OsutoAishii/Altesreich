@@ -1,0 +1,37 @@
+
+state={
+	id=963
+	name="STATE_963"
+
+	history={
+		victory_points = {
+			12237 2
+		}
+		victory_points = {
+			12154 1 
+		}
+		victory_points = {
+			10251 1
+		}
+		buildings = {
+			infrastructure = 1
+			12237 = {
+				naval_base = 2
+
+			}
+			12154 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4393 4418 7365 7614 10251 10974 12154 12193 12237 
+	}
+	manpower=328369
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

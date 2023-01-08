@@ -1,0 +1,30 @@
+state={
+	id=1305
+	name="STATE_1305"
+
+	history={
+		owner = SFC
+		add_core_of = SFC
+		victory_points = {
+			2120 3
+		}
+		victory_points = {
+			12935 3
+		}
+		victory_points = {
+			14269 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2120 5155 12935 12950 14264 14265 14268 14269 14270 
+	}
+	manpower=2648941
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

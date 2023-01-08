@@ -1,0 +1,29 @@
+
+state={
+	id=359
+	name="STATE_359"
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		victory_points = {
+			6882 5 
+		}
+		victory_points = {
+			11782 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 7
+			air_base = 4
+
+		}
+	}
+
+	provinces={
+		3693 3863 6882 9801 9864 11740 11782 11900 
+	}
+	manpower=4107000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

@@ -1,0 +1,35 @@
+
+state={
+	id=248
+	name="STATE_248"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			121 5 
+		}
+		victory_points = {
+			6101 2
+		}
+		victory_points = {
+			6356 1
+		}
+		victory_points = {
+			231 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+
+		}
+	}
+
+	provinces={
+		2 62 121 231 252 3077 3220 6056 6101 6143 6356 9122 9188 9345 11039 11099 11166 11205 13128 
+	}
+	manpower=1664541
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

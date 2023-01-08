@@ -1,0 +1,24 @@
+
+state={
+	id=576
+	name="STATE_576"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			12687 1 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		1741 4692 4743 4812 4831 7805 10631 11328 12687 13065 
+	}
+	manpower=117195
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

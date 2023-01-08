@@ -1,0 +1,33 @@
+
+state={
+	id=81
+	name="STATE_81"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 70
+		force_disable_resistance = OTT
+		victory_points = {
+			6652 2 
+		}
+		victory_points = {
+			6667 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		637 3630 3645 6652 6667 11588 11605 11657 
+	}
+	manpower=1519300
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

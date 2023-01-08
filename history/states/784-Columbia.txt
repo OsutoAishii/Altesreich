@@ -1,0 +1,26 @@
+
+state={
+	id=784
+	name="STATE_784"
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		victory_points = {
+			3957 30
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		3957 
+	}
+	manpower=486869
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

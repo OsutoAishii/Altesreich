@@ -1,0 +1,24 @@
+state={
+	id=954
+	name="STATE_954"
+	
+	history={
+		owner = WAF
+		add_core_of = WAF
+		victory_points = {
+			8038 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	
+	provinces={
+		8038 
+	}
+	manpower=26277
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

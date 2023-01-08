@@ -1,0 +1,29 @@
+
+state={
+	id=68
+	name="STATE_68"
+	resources={
+		aluminium=24.000
+	}
+
+	history={
+		owner = PRU
+		add_core_of = PRU
+		victory_points = {
+			6236 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		444 537 3473 3572 6236 11478 14612 
+	}
+	manpower=830840
+	buildings_max_level_factor=1.000
+	state_category=city
+}

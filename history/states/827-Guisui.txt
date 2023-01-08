@@ -1,0 +1,36 @@
+
+state={
+	id=827
+	name="STATE_827"
+	resources={
+		steel=9.000
+	}
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			10424 3 
+		}
+		victory_points = {
+			12403 2 
+		}
+		victory_points = {
+			4525 2 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		4525 7048 7545 7631 10424 12331 12403 
+	}
+	manpower=1100000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

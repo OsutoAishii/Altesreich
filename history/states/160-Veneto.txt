@@ -1,0 +1,45 @@
+
+state={
+	id=160
+	name="STATE_160"
+	resources={
+		steel=32.000
+		aluminium=18.000
+	}
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			11584 10 
+		}
+		victory_points = {
+			603 3 
+		}
+		victory_points = {
+			14577 2
+		}
+		victory_points = {
+			14578 1
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 1
+			air_base = 3
+			11584 = {
+				naval_base = 6
+
+			}
+
+		}
+	}
+
+	provinces={
+		603 3604 5403 9582 11584 14577 14578 
+	}
+	manpower=3487151
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

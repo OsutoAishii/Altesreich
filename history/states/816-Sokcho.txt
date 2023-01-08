@@ -1,0 +1,22 @@
+
+state={
+	id=816
+	name="STATE_816"
+
+	history={
+		victory_points = {
+			11958 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}			
+	}
+
+	provinces={
+		9981 11958 
+	}
+	manpower=62000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

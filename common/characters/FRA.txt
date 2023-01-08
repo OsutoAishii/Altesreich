@@ -1,0 +1,47 @@
+characters = {
+	FRA_louis = {
+		name = FRA_louis
+		portraits={
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_louis.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+	}
+}

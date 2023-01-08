@@ -1,0 +1,39 @@
+
+state={
+	id=1166
+	name="STATE_1166"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		victory_points = {
+			13717 5
+		}
+		victory_points = {
+			10895 3
+		}
+		victory_points = {
+			1945 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			8057 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1945 8057 10895 13717 
+	}
+	manpower=3026943
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

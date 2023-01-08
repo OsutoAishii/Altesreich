@@ -1,0 +1,30 @@
+
+state={
+	id=825
+	name="STATE_825"
+	resources={
+		steel=14.000
+	}
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			14794 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		828 1137 1590 7158 10480 12432 14794 
+	}
+	manpower=1550000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=87
+	name="STATE_87"
+
+	history={
+		owner = PRU
+		add_core_of = PRU
+		victory_points = {
+			9508 5
+		}
+		victory_points = {
+			9439 2
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		493 548 584 5095 6401 9439 9508 9546 11515 
+	}
+	manpower=2132000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

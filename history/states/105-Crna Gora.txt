@@ -1,0 +1,35 @@
+
+state={
+	id=105
+	name="STATE_105"
+	resources={
+		chromium=16.000
+		aluminium=56.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 70
+		force_disable_resistance = OTT
+		victory_points = {
+			9809 2 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			13596 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		9809 9821 11858 13596 13600 
+	}
+	manpower=842500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

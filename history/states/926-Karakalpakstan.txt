@@ -1,0 +1,26 @@
+
+state={
+	id=926
+	name="STATE_926"
+
+	history={
+		owner = PRS
+		add_core_of = PRS
+		victory_points = {
+			13364 2 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1479 1614 7541 7641 10348 10395 10435 12233 12383 12454 12474 12849 13363 13364 13365 13366 
+	}
+	manpower=255600
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

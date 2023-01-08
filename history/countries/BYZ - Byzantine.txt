@@ -1,0 +1,28 @@
+capital = 468
+
+set_research_slots = 5
+
+set_stability = 0.80
+set_war_support = 0.10
+
+set_politics = {
+	ruling_party = social_liberalism
+	elections_allowed = no
+}
+
+recruit_character = BYZ_franklin_roosevelt
+
+set_popularities = {
+	anarchism = 1
+	communism = 2
+	syndicalism = 9
+	social_democracy = 11
+	social_liberalism = 58
+	social_conservatism = 10
+	authoritarian_democracy = 3
+	absolutism = 0
+	authoritarian_nationalism = 5
+	farsightism = 0
+	accelerationism = 1
+	burgundian_system = 0
+}

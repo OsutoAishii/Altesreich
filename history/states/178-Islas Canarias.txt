@@ -1,0 +1,31 @@
+
+state={
+	id=178
+	name="STATE_178"
+
+	history={
+		owner = CAS
+		add_core_of = CAS
+		victory_points = {
+			13071 2 
+		}
+		victory_points = {
+			13258 2 
+		}
+		buildings = {
+			infrastructure = 1
+			13071 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		13071 13258 
+	}
+	manpower=561347
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

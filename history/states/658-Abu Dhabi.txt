@@ -1,0 +1,33 @@
+
+state={
+	id=658
+	name="STATE_658"
+	resources={
+		oil=3.000
+		aluminium=22.000
+	}
+
+	history={
+		owner = NML
+		add_core_of = NML
+		victory_points = {
+			7960 5 
+		}
+		buildings = {
+			infrastructure = 1
+			7960 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		2048 5138 7623 7960 8108 13246 14706 
+	}
+	manpower=106900
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

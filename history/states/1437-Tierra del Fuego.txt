@@ -1,0 +1,28 @@
+state={
+	id=1437
+	name="STATE_1437"
+
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = {
+			11009 1
+		}
+		buildings = {
+			infrastructure = 0
+			11009 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		11009 14613 
+	}
+	manpower=135000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

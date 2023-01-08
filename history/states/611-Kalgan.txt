@@ -1,0 +1,28 @@
+
+state={
+	id=611
+	name="STATE_611"
+	resources={
+		steel=6.000
+	}
+
+	history={
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+		victory_points = {
+			10397 3 
+		}
+
+	}
+
+	provinces={
+		952 1489 3955 6904 9776 10397 
+	}
+	manpower=1470000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,83 @@
+characters = {
+	KRA_maria_theresia = {
+		name = KRA_maria_theresia
+		portraits={
+			civilian = {
+				large = "gfx/leaders/KRA/KRA_maria_theresia.png"
+			}
+		}
+		
+		country_leader={
+			ideology= anarchism_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= communism_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= syndicalism_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_democracy_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= farsightism_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= accelerationism_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= burgundian_system_type
+			desc = AUS_maria_theresia_desc
+			traits={
+			}
+		}
+	}
+}

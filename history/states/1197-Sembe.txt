@@ -1,0 +1,21 @@
+state={
+	id=1197
+	name="STATE_1197"
+	
+	history={
+		owner = CAF
+		add_core_of = CAF
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+	
+	provinces={
+		3109 
+	}
+	manpower=85738
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=495
+	name="STATE_495"
+	resources={
+		aluminium=4.000
+	}
+
+	impassable = yes
+	history={
+		owner = BZL
+		add_core_of = BZL
+		victory_points = {
+			14507 3 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1979 5232 8185 8254 10934 12919 12965 13083 14497 14498 14501 14506 14507 14509 14602 
+	}
+	manpower=979900
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

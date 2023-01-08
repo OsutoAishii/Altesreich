@@ -1,0 +1,30 @@
+
+state={
+	id=548
+	name="STATE_548"
+	resources={
+		rubber=3.000
+	}
+
+	history={
+		owner = SCA
+		add_core_of = SCA
+		victory_points = {
+			12989 5
+		}
+		victory_points = {
+			14027 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		2308 12989 14027 14029 
+	}
+	manpower=3515625
+	buildings_max_level_factor=1.000
+	state_category=town
+}

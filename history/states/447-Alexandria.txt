@@ -1,0 +1,44 @@
+
+state={
+	id=447
+	name="STATE_447"
+	resources={
+		oil=1.000
+		steel=7.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			4076 5
+		}
+		victory_points = {
+			11964 2
+		}
+		victory_points = {
+			10005 2
+		}
+		victory_points = {
+			7011 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 6
+			4076 = {
+				naval_base = 8
+
+			}
+
+		}
+	}
+
+	provinces={
+		992 3996 4076 4145 7011 7091 7164 10005 10073 11964 12091 
+	}
+	manpower=3859239
+	buildings_max_level_factor=1.000
+	state_category=town
+}

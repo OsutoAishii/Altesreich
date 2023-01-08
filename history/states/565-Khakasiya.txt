@@ -1,0 +1,24 @@
+
+state={
+	id=565
+	name="STATE_565"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			10649 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		1702 1816 10580 10649 14422 
+	}
+	manpower=195325
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

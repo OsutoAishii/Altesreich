@@ -1,0 +1,22 @@
+state={
+	id=1639
+	name="STATE_1639"
+
+	history={
+		owner = CAS
+		add_core_of = CAS
+		buildings = {
+			infrastructure = 0
+			2093 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		2093 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

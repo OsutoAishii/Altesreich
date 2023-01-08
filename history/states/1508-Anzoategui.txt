@@ -1,0 +1,35 @@
+state={
+	id=1508
+	name="STATE_1508"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		victory_points = {
+			7968 3
+		}
+		victory_points = {
+			10823 2
+		}
+		victory_points = {
+			10912 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			10912 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		7968 8080 10823 10912 14940 
+	}
+	manpower=1469747
+	buildings_max_level_factor=1.000
+	state_category=town
+}

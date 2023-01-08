@@ -1,0 +1,33 @@
+
+state={
+	id=510
+	name="STATE_510"
+	resources={
+		oil=8.000
+	}
+
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = {
+			14651 5
+		}
+		victory_points = {
+			5163 3
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 1
+			arms_factory = 2
+
+		}
+	}
+
+	provinces={
+		2172 5163 7500 7550 13000 14651 14657 14658 14660 14661 
+	}
+	manpower=3497169
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

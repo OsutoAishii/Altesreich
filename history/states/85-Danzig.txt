@@ -1,0 +1,33 @@
+
+state={
+	id=85
+	name="STATE_85"
+
+	history={
+		owner = PRU
+		add_core_of = PRU
+		victory_points = {
+			362 10 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			362 = {
+				naval_base = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		362 13265
+	}
+	manpower=412000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=661
+	name="STATE_661"
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		add_core_of = AFR
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1174 4051 4117 4176 7066 7154 10037 10067 11940 12009 13996 13998 14000 
+	}
+	manpower=17617
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

@@ -1,0 +1,59 @@
+characters = {
+	NGR_simon_bolivar = {
+		name = NGR_simon_bolivar
+		portraits={
+			civilian = {
+				large = "gfx/leaders/NGR/NGR_simon_bolivar.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = NGR_simon_bolivar_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = NGR_simon_bolivar_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = NGR_simon_bolivar_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = NGR_simon_bolivar_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = NGR_simon_bolivar_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = NGR_simon_bolivar_desc
+			traits={
+			}
+		}
+
+		field_marshal = {
+			legacy_id = NGR_simon_bolivar
+			desc = NGR_simon_bolivar_desc
+			traits = {
+			}
+			skill = 4
+			attack_skill = 3
+			defense_skill = 4
+			planning_skill = 4
+			logistics_skill = 3
+		}
+	}
+}

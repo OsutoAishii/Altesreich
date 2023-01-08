@@ -1,0 +1,32 @@
+
+state={
+	id=1102
+	name="STATE_1102"
+	resources={
+		steel=50.000
+	}
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			9147 1 
+		}
+		victory_points = {
+			101 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		6125 6165 9147 
+	}
+	manpower=22906
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

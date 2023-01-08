@@ -1,0 +1,23 @@
+state={
+	id=1665
+	name="STATE_1665"
+	
+	history={
+		victory_points = {
+			11771 10 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			
+		}
+	}
+
+	provinces={
+		11771 
+	}
+	manpower=4147085
+	buildings_max_level_factor=1.000
+	state_category=city
+}

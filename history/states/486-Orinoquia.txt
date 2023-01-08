@@ -1,0 +1,27 @@
+
+state={
+	id=486
+	name="STATE_486"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		victory_points = {
+			15059 3
+		}
+		victory_points = {
+			1887 2
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		1887 5026 15057 15058 15059 15060 15061 15064 
+	}
+	manpower=213160
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

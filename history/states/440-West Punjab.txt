@@ -1,0 +1,33 @@
+
+state={
+	id=440
+	name="STATE_440"
+
+	history={
+		owner = WID
+		add_core_of = WID
+		victory_points = {
+			12005 5 
+		}
+		victory_points = {
+			9084 3 
+		}
+		victory_points = {
+			12822 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		4979 8022 8106 9084 10066 10173 10772 10887 12005 12822 14388 15129 
+	}
+	manpower=13665000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

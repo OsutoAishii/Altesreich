@@ -1,0 +1,20 @@
+state={
+	id=1404
+	name="STATE_1404"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		14536 
+	}
+	manpower=28000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

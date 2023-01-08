@@ -1,0 +1,23 @@
+state={
+	id=1631
+	name="STATE_1631"
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			3255 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		3255 11358 
+	}
+	manpower=21629
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

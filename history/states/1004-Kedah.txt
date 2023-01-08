@@ -1,0 +1,24 @@
+state={
+	id=1004
+	name="STATE_1004"
+	
+	history={
+		owner = MLC
+		add_core_of = MLC
+		victory_points = {
+		    12144 3
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	
+	provinces={
+		1291 12144 13307 
+	}
+	manpower=2071900
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,23 @@
+state={
+	id=1452
+	name="STATE_1452"
+
+	history={
+		owner = OTT
+		add_core_of = KRA
+		victory_points = {
+			14672 1
+		}
+		buildings = {
+			infrastructure = 1
+			
+		}
+	}
+
+	provinces={
+		14672 
+	}
+	manpower=180117
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

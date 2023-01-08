@@ -1,0 +1,27 @@
+state={
+	id=1611
+	name="STATE_1611"
+
+	history={
+		owner = NML
+		add_core_of = NML
+		victory_points = {
+			14215 1
+		}
+		buildings = {
+			infrastructure = 0
+			14215 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		14215 
+	}
+	manpower=2368
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

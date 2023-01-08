@@ -1,0 +1,117 @@
+spriteTypes = {
+	#基础物理学
+	spriteType = {
+		name = "GFX_technical_theory_basic_physics_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_basic_physics.dds"
+	}
+	#进阶物理学
+	spriteType = {
+		name = "GFX_technical_theory_advanced_physics_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_advanced_physics.dds"
+	}
+	#高阶物理学
+	spriteType = {
+		name = "GFX_technical_theory_higher_order_physics_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_higher_order_physics.dds"
+	}
+	#专业物理学
+	spriteType = {
+		name = "GFX_technical_theory_professional_physics_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_professional_physics.dds"
+	}
+	#高阶蒸汽机理论
+	spriteType = {
+		name = "GFX_technical_theory_higher_order_steam_engine_theory_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_higher_order_steam_engine_theory.dds"
+	}
+	#成形蒸汽机理论
+	spriteType = {
+		name = "GFX_technical_theory_of_forming_steam_engine_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_of_forming_steam_engine.dds"
+	}
+	#基础内燃机理论
+	spriteType = {
+		name = "GFX_technical_theory_basic_internal_combustion_engine_theory_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_basic_internal_combustion_engine_theory.dds"
+	}
+	#进阶内燃机理论
+	spriteType = {
+		name = "GFX_technical_theory_advanced_internal_combustion_engine_theory_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_advanced_internal_combustion_engine_theory.dds"
+	}
+	#高阶内燃机理论
+	spriteType = {
+		name = "GFX_technical_theory_high_order_internal_combustion_engine_theory_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_high_order_internal_combustion_engine_theory.dds"
+	}
+	#成形内燃机理论
+	spriteType = {
+		name = "GFX_technical_theory_of_forming_internal_combustion_engine_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_of_forming_internal_combustion_engine.dds"
+	}
+	#现代热机理论
+	spriteType = {
+		name = "GFX_technical_theory_modern_heat_engine_theory_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_modern_heat_engine_theory.dds"
+	}
+	#基础热力学
+	spriteType = {
+		name = "GFX_technical_theory_basic_thermodynamics_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_basic_thermodynamics.dds"
+	}
+	#进阶热力学
+	spriteType = {
+		name = "GFX_technical_theory_advanced_thermodynamics_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_advanced_thermodynamics.dds"
+	}
+	#基础电学
+	spriteType = {
+		name = "GFX_technical_theory_basic_electricity_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_basic_electricity.dds"
+	}
+	#进阶电学
+	spriteType = {
+		name = "GFX_technical_theory_advanced_electricity_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_advanced_electricity.dds"
+	}
+	#高阶电学
+	spriteType = {
+		name = "GFX_technical_theory_high_order_electricity_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_high_order_electricity.dds"
+	}
+	#基础实用化学
+	spriteType = {
+		name = "GFX_technical_theory_basic_practical_chemistry_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_basic_practical_chemistry.dds"
+	}
+	#进阶实用化学
+	spriteType = {
+		name = "GFX_technical_theory_advanced_practical_chemistry_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_advanced_practical_chemistry.dds"
+	}
+	#高阶实用化学
+	spriteType = {
+		name = "GFX_technical_theory_higher_order_practical_chemistry_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_higher_order_practical_chemistry.dds"
+	}
+	#现代实用化学
+	spriteType = {
+		name = "GFX_technical_theory_modern_practical_chemistry_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_modern_practical_chemistry.dds"
+	}
+	#探秘微观粒子
+	spriteType = {
+		name = "GFX_technical_theory_exploring_microscopic_particles_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_exploring_microscopic_particles.dds"
+	}
+	#核物理学
+	spriteType = {
+		name = "GFX_technical_theory_nuclear_physics_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_nuclear_physics.dds"
+	}
+	#进阶核物理学
+	spriteType = {
+		name = "GFX_technical_theory_advanced_nuclear_physics_medium"
+		texturefile = "gfx/interface/technologies/technical_theory_advanced_nuclear_physics.dds"
+	}
+}

@@ -1,0 +1,25 @@
+state={
+	id=1523
+	name="STATE_1523"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			14964 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+
+	}
+	
+	provinces={
+		14964 
+	}
+	manpower=567559
+	buildings_max_level_factor=1.000
+	state_category=town
+}

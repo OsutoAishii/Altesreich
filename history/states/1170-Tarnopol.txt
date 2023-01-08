@@ -1,0 +1,26 @@
+
+state={
+	id=1170
+	name="STATE_1170"
+
+	history={
+		owner = KRA
+		add_core_of = KRA
+		victory_points = {
+			9454 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		438 491 3562 9454 11427 
+	}
+	manpower=1600406
+	buildings_max_level_factor=1.000
+	state_category=town
+}

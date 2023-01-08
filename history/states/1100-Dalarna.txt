@@ -1,0 +1,29 @@
+
+state={
+	id=1100
+	name="STATE_1100"
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			9193 1 
+		}
+		victory_points = {
+			11197 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		114 156 3070 3148 6093 9173 9182 9193 11197 13099 
+	}
+	manpower=287828
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

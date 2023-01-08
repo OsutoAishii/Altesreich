@@ -1,0 +1,30 @@
+
+state={
+	id=1614
+	name="STATE_1614"
+
+	history={
+		owner = DEN
+		add_core_of = DEN
+		victory_points = {
+			6136 1 
+		}
+		victory_points = {
+			9135 1 
+		}
+		victory_points = {
+			11113 1 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		102 6114 6136 9135 9227 11113 11206 
+	}
+	manpower=1240
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

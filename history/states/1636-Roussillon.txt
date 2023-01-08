@@ -1,0 +1,24 @@
+state={
+	id=1636
+	name="STATE_1636"
+
+	history={
+		owner = ARA
+		add_core_of = ARA
+		add_core_of = FRA
+		victory_points = {
+			9853 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		6915 9853 
+	}
+	manpower=450000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

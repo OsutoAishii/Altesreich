@@ -1,0 +1,34 @@
+
+state={
+	id=372
+	name="STATE_372"
+	resources={
+		aluminium=14.000
+	}
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		victory_points = {
+			12489 2 
+		}
+		victory_points = {
+			12778 2 
+		}
+		victory_points = {
+			4567 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		1503 1646 4444 4567 4597 4625 7485 7543 7586 10355 10477 12458 12489 12778 
+	}
+	manpower=1854000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

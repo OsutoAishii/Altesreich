@@ -1,0 +1,39 @@
+
+state={
+	id=298
+	name="STATE_298"
+	resources={
+		rubber=6.000
+	}
+
+	history={
+		owner = WAF
+		add_core_of = WAF
+		victory_points = {
+			7959 5
+		}
+		victory_points = {
+			13650 1
+		}
+		victory_points = {
+			13649 1
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+			7959 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		7959 13649 13650 13651 13653 
+	}
+	manpower=745000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

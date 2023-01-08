@@ -1,0 +1,20 @@
+state={
+	id=1387
+	name="STATE_1387"
+
+	history={
+		owner = BZL
+		add_core_of = BZL
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		14488 
+	}
+	manpower=51403
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

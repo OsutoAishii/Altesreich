@@ -1,0 +1,38 @@
+state={
+	id=1312
+	name="STATE_1312"
+
+	history={
+		victory_points = {
+			13028 1 
+		}
+		buildings = {
+			infrastructure = 1
+			13028 = {
+				naval_base = 1
+
+			}
+			13030 = {
+				naval_base = 1
+
+			}
+			13031 = {
+				naval_base = 1
+
+			}
+			13035 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		12103 13027 13028 13029 13030 13031 13035 
+	}
+	manpower=11377
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

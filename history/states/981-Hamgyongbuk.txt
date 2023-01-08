@@ -1,0 +1,30 @@
+state={
+	id=981
+	name="STATE_981"
+
+	resources = {
+			tungsten = 10
+			aluminium = 5
+	}
+	
+	history={
+		victory_points = {
+		    6822 3
+		}
+		victory_points = {
+		    6944 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	
+	provinces={
+		898 3803 3860 3904 6822 6944 9899 13281 
+	}
+	manpower=628387
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

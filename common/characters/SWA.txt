@@ -1,0 +1,83 @@
+characters = {
+	SWA_louis = {
+		name = SWA_louis
+		portraits={
+			civilian = {
+				large = "gfx/leaders/SWA/SWA_louis.png"
+			}
+		}
+		
+		country_leader={
+			ideology= anarchism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= communism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= syndicalism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_democracy_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= farsightism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= accelerationism_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= burgundian_system_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+	}
+}

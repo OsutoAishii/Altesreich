@@ -1,0 +1,42 @@
+
+state={
+	id=339
+	name="STATE_339"
+	resources={
+		chromium=50.000
+	}
+
+	history={
+		owner = OTT
+		add_core_of = OTT
+		victory_points = {
+			4112 10
+		}
+		victory_points = {
+			6992 2
+		}
+		victory_points = {
+			928 2
+		}
+		victory_points = {
+			11848 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+			4112 = {
+				naval_base = 5
+
+			}
+
+		}
+	}
+
+	provinces={
+		928 4112 6992 7130 11848 13357 
+	}
+	manpower=1111755
+	buildings_max_level_factor=1.000
+	state_category=town
+}

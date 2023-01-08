@@ -1,0 +1,28 @@
+capital = 473
+
+set_research_slots = 4
+
+set_stability = 0.70
+set_war_support = 0.30
+
+set_politics = {
+	ruling_party = authoritarian_democracy
+	elections_allowed = no
+}
+
+recruit_character = CHI_liubang
+
+set_popularities = {
+	anarchism = 5
+	communism = 0
+	syndicalism = 5
+	social_democracy = 10
+	social_liberalism = 10
+	social_conservatism = 10
+	authoritarian_democracy = 47
+	absolutism = 3
+	authoritarian_nationalism = 5
+	farsightism = 0
+	accelerationism = 5
+	burgundian_system = 0
+}

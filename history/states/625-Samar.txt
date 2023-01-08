@@ -1,0 +1,22 @@
+
+state={
+	id=625
+	name="STATE_625"
+
+	history={
+		victory_points = {
+			1311 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		1311 1340 4373 
+	}
+	manpower=1138724
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

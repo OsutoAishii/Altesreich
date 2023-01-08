@@ -1,0 +1,28 @@
+state={
+	id=1037
+	name="STATE_1037"
+	
+	history={
+		owner = POR
+		add_core_of = POR
+		victory_points = {
+			6880 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			3790 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+	
+	provinces={
+		3790 6880 
+	}
+	manpower=260000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

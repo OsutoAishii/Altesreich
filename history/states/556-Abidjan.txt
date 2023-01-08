@@ -1,0 +1,34 @@
+
+state={
+	id=556
+	name="STATE_556"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = WAF
+		add_core_of = WAF
+		victory_points = {
+			10803 5
+		}
+		victory_points = {
+			13963 1
+		}
+		buildings = {
+			infrastructure = 2
+			10803 = {
+				naval_base = 3
+
+			}
+
+		}
+	}
+
+	provinces={
+		10803 13963 13964 13965 13968 
+	}
+	manpower=3850700
+	buildings_max_level_factor=1.000
+	state_category=town
+}

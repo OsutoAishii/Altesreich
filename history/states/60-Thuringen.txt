@@ -1,0 +1,43 @@
+
+state={
+	id=60
+	name="STATE_60"
+	resources={
+		steel=20.000
+		chromium=4.000
+		tungsten=4.000
+	}
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			6524 5 
+		}
+		victory_points = {
+			538 2 
+		}
+		victory_points = {
+			6501 1 
+		}
+		victory_points = {
+			425 1 
+		}
+		victory_points = {
+			3500 1
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		425 482 538 3500 3561 6501 6524 9497 13116 
+	}
+	manpower=2765214
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

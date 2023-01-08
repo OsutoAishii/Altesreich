@@ -1,0 +1,24 @@
+
+state={
+	id=764
+	name="STATE_764"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			778 1 
+		}
+		buildings = {
+
+		}
+
+	}
+
+	provinces={
+		778 9603 14590 
+	}
+	manpower=255245
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=73
+	name="STATE_73"
+
+	history={
+		owner = OTT
+		add_core_of = KRA
+		victory_points = {
+			3548 1
+		}
+		victory_points = {
+			11691 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		3548 6571 9563 11536 11691 
+	}
+	manpower=854300
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

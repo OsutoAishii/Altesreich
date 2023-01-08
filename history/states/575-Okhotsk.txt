@@ -1,0 +1,21 @@
+
+state={
+	id=575
+	name="STATE_575"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		1714 1772 1805 1807 4731 4810 4847 4881 7754 7772 7871 10572 10590 10598 12518 12551 12591 12650 12657 14399 14426 14427 
+	}
+	manpower=146494
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

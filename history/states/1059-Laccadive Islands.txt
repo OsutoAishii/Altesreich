@@ -1,0 +1,24 @@
+state={
+	id=1059
+	name="STATE_1059"
+	
+	history={
+		owner = WID
+		add_core_of = WID
+		buildings = {
+			infrastructure = 0
+			13511 = {
+				naval_base = 1
+
+			}
+		}
+
+	}
+	
+	provinces={
+		13511 
+	}
+	manpower=70365
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

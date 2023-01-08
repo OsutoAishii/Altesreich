@@ -1,0 +1,47 @@
+characters = {
+	PER_oscar_benavides_larrea = {
+		name = PER_oscar_benavides_larrea
+		portraits={
+			civilian = {
+				large = "gfx/leaders/PER/PER_oscar_benavides_larrea.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = PER_oscar_benavides_larrea_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = PER_oscar_benavides_larrea_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = PER_oscar_benavides_larrea_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = PER_oscar_benavides_larrea_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = PER_oscar_benavides_larrea_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = PER_oscar_benavides_larrea_desc
+			traits={
+			}
+		}
+	}
+}

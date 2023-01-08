@@ -1,0 +1,92 @@
+characters = {
+	BUR_waddell_heinrich_kadir = {
+		name = BUR_waddell_heinrich_kadir
+		portraits={
+			civilian = {
+				large = "gfx/leaders/BUR/BUR_waddell_heinrich_kadir.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = BUR_waddell_heinrich_kadir_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = BUR_waddell_heinrich_kadir_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = BUR_waddell_heinrich_kadir_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = BUR_waddell_heinrich_kadir_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = BUR_waddell_heinrich_kadir_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = BUR_waddell_heinrich_kadir_desc
+			traits={
+			}
+		}
+	}
+
+	BUR_hitler = {
+		name = BUR_hitler
+		portraits={
+			army = {
+				large = "gfx/leaders/BUR/BUR_hitler.png"
+			}
+			civilian = {
+				large = "gfx/leaders/BUR/BUR_hitler.png"
+			}
+		}
+
+		field_marshal = {
+			legacy_id = BUR_hitler
+			desc = BUR_hitler_desc
+			traits = {
+			}
+			skill = 5
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+		}
+	}
+
+	BUR_himmler = {
+		name = BUR_himmler
+		portraits={
+			army = {
+				large = "gfx/leaders/BUR/BUR_himmler.png"
+			}
+		}
+
+		corps_commander = {
+			legacy_id = BUR_himmler
+			desc = BUR_himmler_desc
+			traits = {
+			}
+			skill = 5
+			attack_skill = 6
+			defense_skill = 5
+			planning_skill = 4
+			logistics_skill = 4
+		}
+	}
+}

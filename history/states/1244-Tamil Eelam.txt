@@ -1,0 +1,34 @@
+state={
+	id=1244
+	name="STATE_1244"
+
+	history={
+		owner = STI
+		add_core_of = STI
+		victory_points = {
+			14064 2
+		}
+		victory_points = {
+			10201 1
+		}
+		victory_points = {
+			12258 1
+		}
+		buildings = {
+			infrastructure = 1
+			14064 = {
+				naval_base = 5
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		7344 10201 10229 12258 14064 
+	}
+	manpower=1189000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

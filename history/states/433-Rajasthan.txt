@@ -1,0 +1,42 @@
+
+state={
+	id=433
+	name="STATE_433"
+	resources={
+		tungsten=32.000
+	}
+
+	history={
+		owner = WID
+		add_core_of = WID
+		victory_points = {
+			2054 5 
+		}
+		victory_points = {
+			4984 3 
+		}
+		victory_points = {
+			2092 2 
+		}
+		victory_points = {
+			12876 2 
+		}
+		victory_points = {
+			14960 2 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1199 1908 2054 4149 4971 4984 7905 7998 10847 10866 12041 12718 12829 12844 12876 12886 14959 14960 14978 
+	}
+	manpower=11786000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

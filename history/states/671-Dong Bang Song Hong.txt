@@ -1,0 +1,35 @@
+
+state={
+	id=671
+	name="STATE_671"
+	resources={
+		chromium=6.000
+		tungsten=27.000
+	}
+
+	history={
+		victory_points = {
+			4075 10 
+		}
+		victory_points = {
+			4119 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+			4119 = {
+				naval_base = 3
+
+			}
+
+		}
+	}
+
+	provinces={
+		1185 4075 4119 
+	}
+	manpower=7781631
+	buildings_max_level_factor=1.000
+	state_category=town
+}

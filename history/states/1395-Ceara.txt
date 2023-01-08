@@ -1,0 +1,31 @@
+
+state={
+	id=1395
+	name="STATE_1395"
+
+	history={
+		owner = BZL
+		add_core_of = BZL
+		victory_points = {
+			5107 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 2
+			5107 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+	
+	provinces={
+		2132 2164 2178 5107 8179 
+	}
+	manpower=3168027
+	buildings_max_level_factor=1.000
+	state_category=town
+}

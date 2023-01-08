@@ -1,0 +1,19 @@
+state={
+	id=1622
+	name="STATE_1622"
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		1972 10645 12552 
+	}
+	manpower=123958
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

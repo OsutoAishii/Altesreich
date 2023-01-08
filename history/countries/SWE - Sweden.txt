@@ -1,0 +1,28 @@
+capital = 141
+
+set_research_slots = 5
+
+set_stability = 0.50
+set_war_support = 0.45
+
+set_politics = {
+	ruling_party = authoritarian_democracy
+	elections_allowed = no
+}
+
+recruit_character = SWE_gustav
+
+set_popularities = {
+	anarchism = 3
+	communism = 2
+	syndicalism = 5
+	social_democracy = 6
+	social_liberalism = 7
+	social_conservatism = 10
+	authoritarian_democracy = 55
+	absolutism = 2
+	authoritarian_nationalism = 5
+	farsightism = 0
+	accelerationism = 5
+	burgundian_system = 0
+}

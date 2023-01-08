@@ -1,0 +1,26 @@
+state={
+	id=1131
+	name="STATE_1131"
+	
+	history={
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2
+			13662 = {
+				naval_base = 3
+
+			}
+
+		}
+
+
+	}
+	
+	provinces={
+		13662 
+	}
+	manpower=39291
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

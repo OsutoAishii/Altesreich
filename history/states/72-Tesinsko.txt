@@ -1,0 +1,22 @@
+
+state={
+	id=72
+	name="STATE_72"
+
+	history={
+		owner = KRA
+		add_core_of = KRA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		9567 
+	}
+	manpower=152000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

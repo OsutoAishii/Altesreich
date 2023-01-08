@@ -1,0 +1,44 @@
+
+state={
+	id=426
+	name="STATE_426"
+	resources={
+		steel=25.000
+		chromium=20.000
+		aluminium=1.000
+	}
+
+	history={
+		owner = CID
+		add_core_of = CID
+		victory_points = {
+			10116 3 
+		}
+		victory_points = {
+			10088 2 
+		}
+		victory_points = {
+			1538 2 
+		}
+		victory_points = {
+			12462 1 
+		}
+		victory_points = {
+			10428 1 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		1579 7090 7574 9946 10116 10469 11924 11978 12462 14817 
+	}
+	manpower=14520100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

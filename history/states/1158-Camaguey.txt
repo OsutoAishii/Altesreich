@@ -1,0 +1,31 @@
+
+state={
+	id=1158
+	name="STATE_1158"
+
+	history={
+		owner = CAR
+		add_core_of = CAR
+		victory_points = {
+			4476 3 
+		}
+		victory_points = {
+			7546 2 
+		}
+		victory_points = {
+			13702 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4476 7546 13702 
+	}
+	manpower=782458
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

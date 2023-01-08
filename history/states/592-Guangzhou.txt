@@ -1,0 +1,48 @@
+
+state={
+	id=592
+	name="STATE_592"
+	resources={
+		tungsten=8.000
+		steel=15.000
+		chromium=3.000
+	}
+
+	history={
+		victory_points = {
+			1047 10 
+		}
+		victory_points = {
+			14086 3 
+		}
+		victory_points = {
+			7039 3 
+		}
+		victory_points = {
+			9963 2 
+		}
+		victory_points = {
+			7152 2 
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 3
+			1047 = {
+				naval_base = 5
+				coastal_bunker = 1
+				bunker = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		1047 1131 1187 4092 4160 7039 7135 7152 9963 11938 11941 12077 14086 14744 14745 
+	}
+	manpower=13005200
+	buildings_max_level_factor=1.000
+	state_category=city
+}

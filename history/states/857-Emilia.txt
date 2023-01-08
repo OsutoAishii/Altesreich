@@ -1,0 +1,28 @@
+
+state={
+	id=857
+	name="STATE_857"
+	resources={
+		aluminium=6.000
+	}
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			9752 3
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		3773 3976 6790 9752 11734 
+	}
+	manpower=1067467
+	buildings_max_level_factor=1.000
+	state_category=town
+}

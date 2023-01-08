@@ -1,0 +1,25 @@
+state={
+	id=864
+	name="STATE_864"
+	
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			12656 10
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			
+		}
+	}
+	
+	provinces={
+		12656
+	}
+	manpower=1780000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

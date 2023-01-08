@@ -1,0 +1,25 @@
+state={
+	id=1184
+	name="STATE_1184"
+	
+	history={
+		owner = CAF
+		add_core_of = CAF
+		victory_points = {
+			10948 1
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+
+	}
+	
+	provinces={
+		10948 13771 
+	}
+	manpower=60685
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

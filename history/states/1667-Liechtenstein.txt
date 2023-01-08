@@ -1,0 +1,28 @@
+
+state={
+	id=1667
+	name="STATE_1667"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			13370 1
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 0
+			industrial_complex = 1
+			anti_air_building = 0
+			air_base = 1
+
+		}
+	}
+
+	provinces={
+		13370 
+	}
+	manpower=11566
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

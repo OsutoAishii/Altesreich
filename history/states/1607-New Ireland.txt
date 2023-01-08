@@ -1,0 +1,27 @@
+state={
+	id=1607
+	name="STATE_1607"
+
+	history={
+		buildings = {
+			infrastructure = 0
+			4352 = {
+				naval_base = 1
+
+			}
+			7339 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1361 4352 4421 7339 7412 
+	}
+	manpower=194067
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

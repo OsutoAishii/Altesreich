@@ -1,0 +1,27 @@
+
+state={
+	id=1430
+	name="STATE_1430"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		set_compliance = 25
+		victory_points = {
+			14603 1 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		12869 14603 14789 
+	}
+	manpower=48144
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

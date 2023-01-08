@@ -1,0 +1,47 @@
+
+state={
+	id=858
+	name="STATE_858"
+
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = {
+			11837 15 
+		}
+		victory_points = {
+			9784 5 
+		}
+		victory_points = {
+			883 3 
+		}
+		victory_points = {
+			6979 1
+		}
+		victory_points = {
+			11998 1
+		}
+		buildings = {
+			infrastructure = 2
+			dockyard = 3
+			air_base = 5
+			11837 = {
+				naval_base = 10
+
+			}
+			11998 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		883 6843 6939 6979 6980 9784 11837 11998 15100 15102 
+	}
+	manpower=2642000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

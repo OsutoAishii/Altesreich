@@ -1,0 +1,28 @@
+
+state={
+	id=299
+	name="STATE_299"
+
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = {
+			14280 1 
+		}
+		buildings = {
+			infrastructure = 1
+			14280 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		12960 14280 
+	}
+	manpower=2463
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

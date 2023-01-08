@@ -1,0 +1,33 @@
+
+state={
+	id=998
+	name="STATE_998"
+
+	history={
+		victory_points = {
+		    13297 2
+		}
+		victory_points = {
+		    7432 1
+		}
+		victory_points = {
+		    10289 1
+		}
+		buildings = {
+			infrastructure = 1
+			13297 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1353 4359 7404 7432 10177 10289 12191 13297 
+	}
+	manpower=196709
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

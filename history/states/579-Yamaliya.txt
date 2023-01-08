@@ -1,0 +1,27 @@
+
+state={
+	id=579
+	name="STATE_579"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			1684 1 
+		}
+		victory_points = {
+			12517 1 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		1664 1684 1729 1757 3169 3415 4669 4761 7689 7738 7781 7809 8461 9142 10536 10561 12517 12545 13076 
+	}
+	manpower=45484
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

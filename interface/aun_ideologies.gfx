@@ -1,0 +1,75 @@
+spriteTypes = {
+
+	#无政府主义
+	spriteType = {
+		name = "GFX_ideology_anarchism_group"
+		textureFile = "gfx/interface/ideologies/anarchism_group.dds"
+	}
+
+	#激进社会主义
+	spriteType = {
+		name = "GFX_ideology_communism_group"
+		textureFile = "gfx/interface/ideologies/communism_group.dds"
+	}
+
+	#工团主义
+	spriteType = {
+		name = "GFX_ideology_syndicalism_group"
+		textureFile = "gfx/interface/ideologies/syndicalism_group.dds"
+	}
+	
+	#社会民主主义
+	spriteType = {
+		name = "GFX_ideology_social_democracy_group"
+		textureFile = "gfx/interface/ideologies/social_democracy_group.dds"
+	}
+
+	#社会自由主义
+	spriteType = {
+		name = "GFX_ideology_social_liberalism_group"
+		textureFile = "gfx/interface/ideologies/social_liberalism_group.dds"
+	}
+
+	#社会保守主义
+	spriteType = {
+		name = "GFX_ideology_social_conservatism_group"
+		textureFile = "gfx/interface/ideologies/social_conservatism_group.dds"
+	}
+
+	#权威民主主义
+	spriteType = {
+		name = "GFX_ideology_authoritarian_democracy_group"
+		textureFile = "gfx/interface/ideologies/authoritarian_democracy_group.dds"
+	}
+
+	#专制独裁主义
+	spriteType = {
+		name = "GFX_ideology_absolutism_group"
+		textureFile = "gfx/interface/ideologies/absolutism_group.dds"
+	}
+
+	#极端民族主义
+	spriteType = {
+		name = "GFX_ideology_authoritarian_nationalism_group"
+		textureFile = "gfx/interface/ideologies/authoritarian_nationalism_group.dds"
+	}
+
+	#远视主义
+	spriteType = {
+		name = "GFX_ideology_farsightism_group"
+		textureFile = "gfx/interface/ideologies/farsightism_group.dds"
+	}
+
+	#加速主义
+	spriteType = {
+		name = "GFX_ideology_accelerationism_group"
+		textureFile = "gfx/interface/ideologies/accelerationism_group.dds"
+	}
+
+	#勃艮第体制
+	spriteType = {
+		name = "GFX_ideology_burgundian_system_group"
+		textureFile = "gfx/interface/ideologies/burgundian_system_group.dds"
+	}
+
+}

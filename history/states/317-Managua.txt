@@ -1,0 +1,40 @@
+
+state={
+	id=317
+	name="STATE_317"
+	resources={
+		chromium=1.000
+	}
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		victory_points = {
+			12738 3 
+		}
+		victory_points = {
+			14068 2
+		}
+		victory_points = {
+			10728 2
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+			12738 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		10728 12738 13139 13178 14066 14067 14068 
+	}
+	manpower=683000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

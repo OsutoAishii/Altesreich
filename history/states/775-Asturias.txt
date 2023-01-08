@@ -1,0 +1,33 @@
+
+state={
+	id=775
+	name="STATE_775"
+
+	history={
+		owner = CAS
+		add_core_of = CAS
+		victory_points = {
+			14875 3
+		}
+		victory_points = {
+			11707 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			11707 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3729 3744 6749 9719 11707 14875 
+	}
+	manpower=792000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

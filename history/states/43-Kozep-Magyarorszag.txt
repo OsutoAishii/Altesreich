@@ -1,0 +1,35 @@
+
+state={
+	id=43
+	name="STATE_43"
+	resources={
+		steel=3.000
+		aluminium=100.000
+	}
+
+	history={
+		owner = OTT
+		add_core_of = KRA
+		victory_points = {
+			9660 10
+		}
+		victory_points = {
+			6700 2
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 5
+			air_base = 4
+
+		}
+
+	}
+
+	provinces={
+		684 716 6670 6700 6716 9660 11625 
+	}
+	manpower=3210752
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

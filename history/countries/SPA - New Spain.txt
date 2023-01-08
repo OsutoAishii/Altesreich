@@ -1,0 +1,28 @@
+capital = 277
+
+set_research_slots = 4
+
+set_stability = 0.65
+set_war_support = 0.51
+
+set_politics = {
+	ruling_party = absolutism
+	elections_allowed = no
+}
+
+recruit_character = SPA_patrick_austin
+
+set_popularities = {
+	anarchism = 5
+	communism = 0
+	syndicalism = 5
+	social_democracy = 5
+	social_liberalism = 5
+	social_conservatism = 5
+	authoritarian_democracy = 15
+	absolutism = 50
+	authoritarian_nationalism = 5
+	farsightism = 5
+	accelerationism = 0
+	burgundian_system = 0
+}

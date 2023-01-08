@@ -1,0 +1,34 @@
+
+state={
+	id=614
+	name="STATE_614"
+
+	history={
+		victory_points = {
+			4093 3 
+		}
+		victory_points = {
+			7109 2 
+		}
+		victory_points = {
+			11996 2 
+		}
+		victory_points = {
+			1188 2 
+		}
+		victory_points = {
+			11933 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		1134 1169 1188 4032 4093 4137 4140 4190 4208 6828 7000 7092 7109 7129 9969 10003 10022 10053 11933 11944 11980 11996 12026 12062 
+	}
+	manpower=1000600
+	buildings_max_level_factor=1.000
+	state_category=town
+}

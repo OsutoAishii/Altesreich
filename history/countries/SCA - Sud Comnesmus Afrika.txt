@@ -1,0 +1,28 @@
+capital = 271
+
+set_research_slots = 3
+
+set_stability = 0.60
+set_war_support = 0.34
+
+set_politics = {
+	ruling_party = communism
+	elections_allowed = no
+}
+
+recruit_character = SCA_heinz_william_goodrian
+
+set_popularities = {
+	anarchism = 5
+	communism = 50
+	syndicalism = 18
+	social_democracy = 5
+	social_liberalism = 5
+	social_conservatism = 2
+	authoritarian_democracy = 7
+	absolutism = 5
+	authoritarian_nationalism = 1
+	farsightism = 2
+	accelerationism = 0
+	burgundian_system = 0
+}

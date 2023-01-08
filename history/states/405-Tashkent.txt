@@ -1,0 +1,35 @@
+
+state={
+	id=405
+	name="STATE_405"
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			7682 5 
+		}
+		victory_points = {
+			7775 3 
+		}
+		victory_points = {
+			10148 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+		1459 4629 7682 7777 10148 10601 10660 13359 13361 
+	}
+	manpower=6275820
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

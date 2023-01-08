@@ -1,0 +1,51 @@
+
+state={
+	id=123
+	name="STATE_123"
+	resources={
+		steel=9.000
+	}
+
+	history={
+		owner = ENG
+		add_core_of = ENG
+		victory_points = {
+			540 10 
+		}
+		victory_points = {
+			3369 5 
+		}
+		victory_points = {
+			11471 2 
+		}
+		victory_points = {
+			3463 2 
+		}
+		victory_points = {
+			3422 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			anti_air_building = 2
+			air_base = 6
+			540 = {
+				naval_base = 8
+
+			}
+			3369 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		540 3369 3422 3463 6351 6378 9484 9562 11406 11471 
+	}
+	manpower=3735904
+	buildings_max_level_factor=1.000
+	state_category=town
+}

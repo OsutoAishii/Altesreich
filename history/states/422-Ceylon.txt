@@ -1,0 +1,37 @@
+
+state={
+	id=422
+	name="STATE_422"
+	resources={
+		rubber=60.000
+	}
+
+	history={
+		owner = STI
+		add_core_of = STI
+		victory_points = {
+			7260 5
+		}
+		victory_points = {
+			10287 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 3
+			7260 = {
+				naval_base = 3
+				coastal_bunker = 3
+
+			}
+
+		}
+	}
+
+	provinces={
+		1213 4219 7260 10287 14061 14062 14063 
+	}
+	manpower=5500000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

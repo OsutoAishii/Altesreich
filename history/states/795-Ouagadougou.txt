@@ -1,0 +1,31 @@
+
+state={
+	id=795
+	name="STATE_795"
+
+	history={
+		owner = WAF
+		add_core_of = WAF
+		victory_points = {
+			10836 3
+		}
+		victory_points = {
+			12851 2
+		}
+		victory_points = {
+			14006 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2001 7950 10836 12851 14005 14006 14007 14008 14009 
+	}
+	manpower=3147000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

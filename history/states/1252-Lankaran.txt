@@ -1,0 +1,25 @@
+state={
+	id=1252
+	name="STATE_1252"
+
+	history={
+		owner = OTT
+		add_core_of = PRS
+		add_compliance = 50
+		victory_points = {
+			4473 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4473 12434 14088 
+	}
+	manpower=209900
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

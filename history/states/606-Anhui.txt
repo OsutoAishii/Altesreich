@@ -1,0 +1,38 @@
+
+state={
+	id=606
+	name="STATE_606"
+	resources={
+		steel=11.000
+	}
+
+	history={
+		victory_points = {
+			7222 5 
+		}
+		victory_points = {
+			7094 3 
+		}
+		victory_points = {
+			11916 2 
+		}
+		victory_points = {
+			12055 1 
+		}
+		victory_points = {
+			9937 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		1001 1121 1146 1161 4079 4148 7025 7094 7222 9937 10008 10017 10040 10064 10079 11916 11973 11994 12036 12055 12061 
+	}
+	manpower=18232400
+	buildings_max_level_factor=1.000
+	state_category=town
+}

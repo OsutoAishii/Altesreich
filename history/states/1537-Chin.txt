@@ -1,0 +1,24 @@
+state={
+	id=1537
+	name="STATE_1537"
+
+	history={
+		owner = EID
+		add_core_of = EID
+		victory_points = {
+			3999 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		3999 4147 4454 7122 10033 11966 
+	}
+	manpower=478801
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

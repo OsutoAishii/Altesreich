@@ -1,0 +1,28 @@
+
+state={
+	id=1326
+	name="STATE_1326"
+
+	history={
+		buildings = {
+			infrastructure = 0
+			14300 = {
+				naval_base = 1
+
+			}
+			14302 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		14300 14302 
+	}
+	manpower=6820
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

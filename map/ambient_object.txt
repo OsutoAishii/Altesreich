@@ -1,0 +1,547 @@
+type={
+	type="ambient_wind_entity"
+	use_animation=no
+	always_visible=yes
+	object={
+		name="ambient_wind"
+		position={
+			0.000 0.000 0.000 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+}
+type={
+	type="ambient_water_entity"
+	use_animation=no
+	scale=10.000000
+	object={
+		name="ambient_water"
+		position={
+			420.090 10.000 382.670 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			1234.890 10.000 407.440 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			2541.140 10.000 370.870 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			4201.620 10.000 358.560 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			3865.330 10.000 555.220 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			5465.920 10.000 559.670 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			685.150 10.000 1008.290 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			100.000 10.000 1000.000 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			5217.910 10.000 1005.380 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			205.110 10.000 1517.910 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			1773.610 10.000 1295.370 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			2224.790 10.000 1268.600 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			2427.300 10.000 1655.700 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			5315.160 10.000 1328.670 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+}
+type={
+	type="frame_border_entity"
+	use_animation=no
+	scale=100.000000
+	always_visible=yes
+	object={
+		name="frame_border_entity_top"
+		position={
+			0.000 0.000 2446.000 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+}
+type={
+	type="frame_border_bottom_entity"
+	use_animation=no
+	scale=100.000000
+	always_visible=yes
+	object={
+		name="frame_border_bottom_entity_bottom"
+		position={
+			0.000 0.000 -140.000 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+}
+type={
+	type="frame_border_logo_entity"
+	use_animation=no
+	scale=300.000000
+	always_visible=yes
+	object={
+		name="frame_border_logo_entity_top"
+		position={
+			3000.000 0.000 2386.000 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+}
+# type={
+	# type="reichstag_entity"
+	# use_animation=no
+	# scale=8.000000
+	# object={
+		# name="reichstag_entity"
+		# position={
+			# 3011.370 0.000 1573.770 
+		# }
+		# rotation={
+			# 0.000 15.000 0.000 
+		# }
+	# }
+# }
+# type={
+	# type="brandenburg_gate_entity"
+	# use_animation=no
+	# scale=15.000000
+	# object={
+		# name="brandenburg_gate_entity"
+		# position={
+			# 3012.930 0.000 1572.230 
+		# }
+		# rotation={
+			# 0.000 -270.000 0.000 
+		# }
+	# }
+# }
+# type={
+	# type="kremlin_entity"
+	# use_animation=no
+	# scale=9.000000
+	# object={
+		# name="kremlin_entity"
+		# position={
+			# 3389.390 0.100 1639.530 
+		# }
+		# rotation={
+			# 0.000 0.000 0.000 
+		# }
+	# }
+# }
+# type={
+	# type="basil_cathedral_entity"
+	# use_animation=no
+	# scale=18.000000
+	# object={
+		# name="basil_cathedral_entity"
+		# position={
+			# 3392.560 0.150 1639.290 
+		# }
+		# rotation={
+			# 0.000 0.000 0.000 
+		# }
+	# }
+# }
+type={
+	type="eiffel_tower_entity"
+	use_animation=no
+	scale=15.000000
+	object={
+		name="eiffel_tower_entity"
+		position={
+			2835.800 0.000 1493.630 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+}
+type={
+	type="big_ben_entity"
+	use_animation=no
+	scale=18.000000
+	object={
+		name="big_ben_entity"
+		position={
+			2802.190 0.000 1550.240 
+		}
+		rotation={
+			0.000 90.000 0.000 
+		}
+	}
+}
+# type={
+	# type="capitol_hill_entity"
+	# use_animation=no
+	# scale=9.000000
+	# object={
+		# name="capitol_hill_entity"
+		# position={
+			# 1603.740 0.000 1524.820 
+		# }
+		# rotation={
+			# 0.000 -90.000 0.000 
+		# }
+	# }
+# }
+type={
+	type="liberty_statue_entity"
+	use_animation=no
+	scale=25.000000
+	object={
+		name="liberty_statue_entity"
+		position={
+			1650.350 0.000 1555.700 
+		}
+		rotation={
+			0.000 20.000 0.000 
+		}
+	}
+}
+type={
+	type="white_house_entity"
+	use_animation=no
+	scale=15.000000
+	object={
+		name="white_house_entity"
+		position={
+			1601.550 0.000 1526.620 
+		}
+		rotation={
+			0.000 180.000 0.000 
+		}
+	}
+}
+type={
+	type="tower_bridge_entity"
+	use_animation=no
+	scale=12.000000
+	object={
+		name="tower_bridge_entity"
+		position={
+			2805.280 -0.200 1548.510 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+}
+# type={
+	# type="arc_de_triomphe_entity"
+	# use_animation=no
+	# scale=30.000000
+	# object={
+		# name="arc_de_triomphe_entity"
+		# position={
+			# 2839.650 0.000 1496.520 
+		# }
+		# rotation={
+			# 90.000 -30.000 90.000 
+		# }
+	# }
+# }
+# type={
+	# type="chrysler_building_entity"
+	# use_animation=no
+	# scale=6.000000
+	# object={
+		# name="chrysler_building_entity"
+		# position={
+			# 1654.330 0.000 1557.500 
+		# }
+		# rotation={
+			# 0.000 20.000 0.000 
+		# }
+	# }
+# }
+# type={
+	# type="empire_state_entity"
+	# use_animation=no
+	# scale=8.000000
+	# object={
+		# name="empire_state_entity"
+		# position={
+			# 1653.760 0.000 1556.680 
+		# }
+		# rotation={
+			# 0.000 20.000 0.000 
+		# }
+	# }
+# }
+type={
+	type="colosseum_entity"
+	use_animation=no
+	scale=15.000000
+	object={
+		name="colosseum_entity"
+		position={
+			3003.330 0.000 1358.690 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+}
+type={
+	type="acropolis_entity"
+	use_animation=no
+	scale=13.000000
+	object={
+		name="acropolis_entity"
+		position={
+			3171.720 0.000 1286.520 
+		}
+		rotation={
+			0.000 80.000 0.000 
+		}
+	}
+}
+# type={
+	# type="forbidden_city_entity"
+	# use_animation=no
+	# scale=13.000000
+	# object={
+		# name="forbidden_city_entity"
+		# position={
+			# 4623.410 0.100 1327.480 
+		# }
+		# rotation={
+			# 0.000 90.000 0.000 
+		# }
+	# }
+# }
+type={
+	type="tokyo_palace_entity"
+	use_animation=no
+	scale=20.000000
+	object={
+		name="tokyo_palace_entity"
+		position={
+			4985.870 0.000 1245.330 
+		}
+		rotation={
+			0.000 90.000 0.000 
+		}
+	}
+}
+type={
+	type="golden_gate_entity"
+	use_animation=no
+	scale=0.170000
+	always_visible=yes
+	object={
+		name="golden_gate_entity"
+		position={
+			894.950 9.400 1501.210 
+		}
+		rotation={
+			0.000 -90.000 0.000 
+		}
+	}
+}
+type={
+	type="pisa_tower_entity"
+	use_animation=no
+	scale=0.080000
+	always_visible=yes
+	object={
+		name="pisa_tower_entity"
+		position={
+			2968.570 10.000 1390.530 
+		}
+		rotation={
+			0.000 -100.000 0.000 
+		}
+	}
+}
+type={
+	type="pyramids_entity"
+	use_animation=no
+	scale=0.150000
+	always_visible=yes
+	object={
+		name="pyramids_entity"
+		position={
+			3287.910 9.800 1132.020 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+}
+type={
+	type="sphinx_entity"
+	use_animation=no
+	scale=0.200000
+	always_visible=yes
+	object={
+		name="sphinx_entity"
+		position={
+			3290.670 9.800 1133.290 
+		}
+		rotation={
+			0.000 0.000 0.000 
+		}
+	}
+}
+type={
+	type="hagia_sophia_entity"
+	use_animation=no
+	scale=0.140000
+	always_visible=yes
+	object={
+		name="hagia_sophia_entity"
+		position={
+			3254.650 9.800 1343.810 
+		}
+		rotation={
+			0.000 10.000 0.000 
+		}
+	}
+}
+type={
+	type="stpeters_basilica_entity"
+	use_animation=no
+	scale=0.250000
+	always_visible=yes
+	object={
+		name="stpeters_basilica_entity"
+		position={
+			2999.250 9.800 1361.000 
+		}
+		rotation={
+			0.000 75.000 0.000 
+		}
+	}
+}
+type={
+	type="christ_the_redeemer_entity"
+	use_animation=no
+	scale=0.090000
+	always_visible=yes
+	object={
+		name="christ_the_redeemer_entity"
+		position={
+			2127.030 9.800 501.350 
+		}
+		rotation={
+			0.000 130.000 0.000 
+		}
+	}
+}
+type={
+	type="washington_monument_entity"
+	use_animation=no
+	scale=0.100000
+	object={
+		name="washington_monument_entity"
+		position={
+			1601.550 0.000 1524.820 
+		}
+		rotation={
+			0.000 -90.000 0.000 
+		}
+	}
+}

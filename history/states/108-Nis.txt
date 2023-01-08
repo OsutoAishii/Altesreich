@@ -1,0 +1,34 @@
+
+state={
+	id=108
+	name="STATE_108"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 70
+		force_disable_resistance = OTT
+		victory_points = {
+		    11887 3
+		}
+		victory_points = {
+		    9906 2
+		}
+		victory_points = {
+		    6998 2
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		630 6634 6953 6998 9602 9756 9906 11887 
+	}
+	manpower=1133000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

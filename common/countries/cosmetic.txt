@@ -1,0 +1,114 @@
+HRE = {
+	color = rgb { 220 220 220 }
+	color_ui = rgb { 220 220 220 }
+}
+
+SWA = {
+	color = rgb{ 232 232 0 }
+	color_ui = rgb{ 232 232 0 }
+}
+
+Denmark-Norway = {
+	color = rgb { 135 178 192 }
+	color_ui = rgb { 135 178 192 }
+}
+
+POR_ukingdom_BRA = {
+	color = rgb { 0  80  152 }
+	color_ui = rgb { 0  80  152 }
+}
+
+WAF_FRA = {
+	color = rgb { 20 38 147 }
+	color_ui = rgb { 20 38 147 }
+}
+
+SWA_FRA = {
+	color = rgb { 20 38 147 }
+	color_ui = rgb { 20 38 147 }
+}
+
+POR_CAS = {
+	color = rgb { 222 185 74 }
+	color_ui = rgb { 222 185 74 }
+}
+
+EID_CAS = {
+	color = rgb { 222 185 74 }
+	color_ui = rgb { 222 185 74 }
+}
+
+CPT_CAS = {
+	color = rgb { 222 185 74 }
+	color_ui = rgb { 222 185 74 }
+}
+
+MLC_CAS = {
+	color = rgb { 222 185 74 }
+	color_ui = rgb { 222 185 74 }
+}
+
+SFC_CAS = {
+	color = rgb { 222 185 74 }
+	color_ui = rgb { 222 185 74 }
+}
+
+NTD_CAS = {
+	color = rgb { 222 185 74 }
+	color_ui = rgb { 222 185 74 }
+}
+
+ZEA_CAS = {
+	color = rgb { 222 185 74 }
+	color_ui = rgb { 222 185 74 }
+}
+
+LAP_ARA = {
+	color = rgb { 146 48 52 }
+	color_ui = rgb { 146 48 52 }
+}
+
+KRA_AUS = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+NAS_AUS = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+STI_AUS = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+CAN_ENG = {
+	color = rgb{ 228 32 59 }
+	color_ui = rgb{ 228 32 59 }
+}
+
+CAF_ENG = {
+	color = rgb{ 228 32 59 }
+	color_ui = rgb{ 228 32 59 }
+}
+
+WID_ENG = {
+	color = rgb{ 228 32 59 }
+	color_ui = rgb{ 228 32 59 }
+}
+
+MDG_SCO = {
+	color = rgb{ 212 212 0 }
+	color_ui = rgb{ 212 212 0 }
+}
+
+PRS_OTT = {
+	color = rgb { 106  183  100 }
+	color_ui = rgb { 106  183  100 }
+}
+
+CID_BUR = {
+	color = rgb{ 96 66 96 }
+	color_ui = rgb{ 96 66 96 }
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=898
+	name="STATE_898"
+
+	history={
+		owner = NML
+		add_core_of = NML
+		victory_points = {
+			13577 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2018 5049 13570 13573 13574 13577 
+	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

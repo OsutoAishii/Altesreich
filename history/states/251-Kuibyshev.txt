@@ -1,0 +1,34 @@
+
+state={
+	id=251
+	name="STATE_251"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			11225 5 
+		}
+		victory_points = {
+			9299 2 
+		}
+		victory_points = {
+			9243 1 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+		298 338 339 365 393 410 452 497 3216 6339 6473 6502 9243 9271 9299 9337 9365 9391 11225 11256 11281 11321 11348 11377 11458 
+	}
+	manpower=1391819
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=471
+	name="STATE_471"
+
+	history={
+		owner = CHI
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		3606 4666 
+	}
+	manpower=4520
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

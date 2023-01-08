@@ -1,0 +1,29 @@
+
+state={
+	id=1609
+	name="STATE_1609"
+
+	history={
+		owner = STI
+		add_core_of = STI
+		victory_points = {
+			7060 2 
+		}
+		victory_points = {
+			2900 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2900 4353 5063 12142 12226 
+	}
+	manpower=1175116
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

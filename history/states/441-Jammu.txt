@@ -1,0 +1,28 @@
+
+state={
+	id=441
+	name="STATE_441"
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			10969 3 
+		}
+		victory_points = {
+			12754 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		2205 10905 10969 12754 14320 
+	}
+	manpower=2769153
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

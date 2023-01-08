@@ -1,0 +1,24 @@
+state={
+	id=1531
+	name="STATE_1531"
+
+	history={
+		victory_points = {
+			12292 2
+		}
+		victory_points = {
+			1315 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		1296 1315 1385 4275 7295 10217 12292 
+	}
+	manpower=1383287
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

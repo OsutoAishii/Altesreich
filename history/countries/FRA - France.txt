@@ -1,0 +1,46 @@
+capital = 16
+
+set_research_slots = 4
+
+set_stability = 0.13
+set_war_support = 0.21
+
+set_politics = {
+	ruling_party = authoritarian_democracy
+	elections_allowed = no
+}
+
+recruit_character = FRA_louis
+
+set_popularities = {
+	anarchism = 5
+	communism = 5
+	syndicalism = 10
+	social_democracy = 5
+	social_liberalism = 7
+	social_conservatism = 5
+	authoritarian_democracy = 27
+	absolutism = 3
+	authoritarian_nationalism = 2
+	farsightism = 3
+	accelerationism = 25
+	burgundian_system = 3
+}
+
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = WAF
+		autonomous_state = autonomy_collaboration_government
+	}
+	set_autonomy = {
+		target = SWA
+		autonomous_state = autonomy_collaboration_government
+	}
+	else = {
+		puppet = WAF
+		puppet = SWA
+	}
+}

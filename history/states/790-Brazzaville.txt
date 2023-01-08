@@ -1,0 +1,30 @@
+
+state={
+	id=790
+	name="STATE_790"
+
+	history={
+		owner = CAF
+		add_core_of = CAF
+		victory_points = {
+			8193 10
+		}
+		victory_points = {
+			13809 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+		8193 13809 13810 13811 13812 13815 
+	}
+	manpower=698753
+	buildings_max_level_factor=1.000
+	state_category=town
+}

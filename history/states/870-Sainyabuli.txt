@@ -1,0 +1,20 @@
+state={
+	id=870
+	name="STATE_870"
+	
+	history = {
+		victory_points = {
+		    10330 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces={
+		10330 10356 10456
+	}
+	manpower=59940
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

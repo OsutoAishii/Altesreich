@@ -1,0 +1,36 @@
+
+state={
+	id=294
+	name="STATE_294"
+	resources={
+		oil=2.000
+	}
+
+	history={
+		owner = NML
+		add_core_of = NML
+		victory_points = {
+			10760 3 
+		}
+		victory_points = {
+			4993 2
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+			10760 = {
+				naval_base = 3
+
+			}
+
+		}
+	}
+
+	provinces={
+		1947 4993 8002 8020 10760 13572 13578 
+	}
+	manpower=369000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,49 @@
+
+state={
+	id=716
+	name="STATE_716"
+	resources={
+		steel=27.000
+	}
+
+	history={
+		victory_points = {
+			9885 2 
+		}
+		victory_points = {
+			9781 2 
+		}
+		victory_points = {
+			9788 2 
+		}
+		victory_points = {
+			9835 2 
+		}
+		victory_points = {
+			11764 2 
+		}
+		victory_points = {
+			6837 2 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 5
+			964 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		892 964 987 3783 3849 3895 6804 6868 6918 9781 9854 9885 11764 11808 
+	}
+	manpower=6264620
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

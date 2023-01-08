@@ -1,0 +1,45 @@
+
+state={
+	id=121
+	name="STATE_121"
+	resources={
+		steel=21.000
+	}
+
+	history={
+		owner = SCO
+		add_core_of = SCO
+		victory_points = {
+			9392 11
+		}
+		victory_points = {
+			3273 10
+		}
+		victory_points = {
+			6300 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 5
+			anti_air_building = 2
+			air_base = 3
+			6300 = {
+				naval_base = 5
+
+			}
+			6395 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		3273 6300 6320 6350 6395 9237 9314 9350 9383 9392 11218 11378 
+	}
+	manpower=3689347
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

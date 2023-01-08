@@ -1,0 +1,25 @@
+
+state={
+	id=445
+	name="STATE_445"
+
+	history={
+		owner = PRS
+		add_core_of = PRS
+		victory_points = {
+			5105 3
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+
+		}
+	}
+
+	provinces={
+		4990 5075 5105 7847 7975 8044 10813 14384 15215 
+	}
+	manpower=405100
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

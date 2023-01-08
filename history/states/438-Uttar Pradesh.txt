@@ -1,0 +1,45 @@
+
+state={
+	id=438
+	name="STATE_438"
+
+	history={
+		owner = EID
+		add_core_of = EID
+		victory_points = {
+			1377 5 
+		}
+		victory_points = {
+			12137 3 
+		}
+		victory_points = {
+			11955 3 
+		}
+		victory_points = {
+			14950 3 
+		}
+		victory_points = {
+			5055 3 
+		}
+		victory_points = {
+			12786 2 
+		}
+		victory_points = {
+			9951 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+
+		}
+
+	}
+
+	provinces={
+		1377 1983 2005 2947 4045 4299 5002 5055 5086 7064 7334 7901 8082 8114 9951 9973 10751 10794 11955 12137 12777 12786 14240 14241 
+	}
+	manpower=33491000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

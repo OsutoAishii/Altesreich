@@ -1,0 +1,39 @@
+
+state={
+	id=168
+	name="STATE_168"
+	resources={
+		steel=8.000
+		aluminium=4.000
+	}
+
+	history={
+		owner = ARA
+		add_core_of = ARA
+		add_claim_by = CAS
+		victory_points = {
+			1093 5 
+		}
+		victory_points = {
+			10024 2 
+		}
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			air_base = 2
+			10024 = {
+				naval_base = 8
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1093 7111 10024 10109 
+	}
+	manpower=1007605
+	buildings_max_level_factor=1.000
+	state_category=town
+}

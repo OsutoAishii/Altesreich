@@ -1,0 +1,31 @@
+
+state={
+	id=48
+	name="STATE_48"
+	resources={
+		aluminium=2.000
+		steel=6.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 70
+		force_disable_resistance = OTT
+		victory_points = {
+			949 15 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 5
+			arms_factory = 1
+			air_base = 3
+		}
+	}
+
+	provinces={
+		935 949 3908 3971 13609 
+	}
+	manpower=1591500
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

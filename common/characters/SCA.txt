@@ -1,0 +1,17 @@
+characters = {
+	SCA_heinz_william_goodrian = {
+		name = SCA_heinz_william_goodrian
+		portraits={
+			civilian = {
+				large = "gfx/leaders/SCA/SCA_heinz_william_goodrian.png"
+			}
+		}
+		
+		country_leader={
+			ideology= communism_type
+			desc = SCA_heinz_william_goodrian_desc
+			traits={
+			}
+		}
+	}
+}

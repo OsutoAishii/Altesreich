@@ -1,0 +1,29 @@
+
+state={
+	id=271
+	name="STATE_271"
+	resources={
+		rubber=2.000
+	}
+
+	history={
+		owner = SCA
+		add_core_of = SCA
+		victory_points = {
+			13520 10
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 2
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		13520 
+	}
+	manpower=8643566
+	buildings_max_level_factor=1.000
+	state_category=town
+}

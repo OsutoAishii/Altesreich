@@ -1,0 +1,25 @@
+
+state={
+	id=732
+	name="STATE_732"
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			4768 2
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		1591 1675 1825 4316 4391 4768 5062 12370 12511 13147 
+	}
+	manpower=230000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

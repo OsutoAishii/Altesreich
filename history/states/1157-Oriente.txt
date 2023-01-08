@@ -1,0 +1,32 @@
+state={
+	id=1157
+	name="STATE_1157"
+	
+	history={
+		owner = CAR
+		add_core_of = CAR
+		victory_points = {
+			13700 3
+		}
+		victory_points = {
+			12347 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			13700 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+	
+	provinces={
+		1550 7590 12347 13700 
+	}
+	manpower=431272
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

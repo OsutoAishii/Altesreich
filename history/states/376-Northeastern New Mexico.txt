@@ -1,0 +1,32 @@
+
+state={
+	id=376
+	name="STATE_376"
+	resources={
+		oil=14.000
+		aluminium=30.000
+	}
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		victory_points = {
+			4975 5 
+		}
+		victory_points = {
+			12684 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		2102 4975 10642 10867 12684 14244 
+	}
+	manpower=423316
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

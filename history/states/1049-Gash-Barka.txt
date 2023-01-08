@@ -1,0 +1,28 @@
+state={
+	id=1049
+	name="STATE_1049"
+	
+	history={
+		owner = SCA
+		add_core_of = SCA
+		victory_points = {
+		    13440 2
+		}
+		victory_points = {
+		    12723 1
+		}
+	
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	
+	provinces={
+		5017 12723 13440 13441 
+	}
+	manpower=187654
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

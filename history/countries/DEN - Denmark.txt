@@ -1,0 +1,30 @@
+capital = 37
+
+set_research_slots = 4
+
+set_stability = 0.70
+set_war_support = 0.80
+
+set_politics = {
+	ruling_party = absolutism
+	elections_allowed = no
+}
+
+recruit_character = DEN_zxy
+
+set_cosmetic_tag = Denmark-Norway
+
+set_popularities = {
+	anarchism = 1
+	communism = 0
+	syndicalism = 5
+	social_democracy = 5
+	social_liberalism = 9
+	social_conservatism = 0
+	authoritarian_democracy = 8
+	absolutism = 70
+	authoritarian_nationalism = 1
+	farsightism = 0
+	accelerationism = 1
+	burgundian_system = 0
+}

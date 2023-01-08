@@ -1,0 +1,35 @@
+
+state={
+	id=539
+	name="STATE_539"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = CAF
+		add_core_of = CAF
+		victory_points = {
+			5139 3
+		}
+		victory_points = {
+			13772 2
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			5139 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		5139 8207 13765 13772 
+	}
+	manpower=409700
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

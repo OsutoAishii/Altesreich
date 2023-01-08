@@ -1,0 +1,31 @@
+state={
+	id=1343
+	name="STATE_1343"
+
+	history={
+		owner = EID
+		add_core_of = EID
+		victory_points = {
+			2843 2
+		}
+		victory_points = {
+			10035 2
+		}
+		buildings = {
+			infrastructure = 1
+			7078 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		2843 4162 7078 7124 9935 10035 11911 
+	}
+	manpower=2001000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

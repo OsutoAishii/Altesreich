@@ -1,0 +1,26 @@
+
+state={
+	id=999
+	name="STATE_999"
+
+	history={
+		victory_points = {
+		    4302 3
+		}
+		victory_points = {
+		    4639 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1324 4302 4639 5236 12447 12475 
+	}
+	manpower=139458
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

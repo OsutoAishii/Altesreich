@@ -1,0 +1,28 @@
+
+state={
+	id=290
+	name="STATE_290"
+	resources={
+		steel=15.000
+	}
+
+	history={
+		owner = CAS
+		add_core_of = CAS
+		add_core_of = AFR
+		victory_points = {
+			13236 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		4199 7215 10113 12087 12100 13236 
+	}
+	manpower=744000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,31 @@
+
+state={
+	id=302
+	name="STATE_302"
+	resources={
+		tungsten=60.000
+		steel=2.000
+	}
+
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = {
+			5230 10
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 2
+
+		}
+	}
+
+	provinces={
+		5188 5230 8157 8225 13195 14755 14756 14894 14899 
+	}
+	manpower=2044500
+	buildings_max_level_factor=1.000
+	state_category=city
+}

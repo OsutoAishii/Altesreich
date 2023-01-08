@@ -1,0 +1,55 @@
+
+state={
+	id=429
+	name="STATE_429"
+	resources={
+		tungsten=19.000
+	}
+
+	history={
+		owner = STI
+		add_core_of = STI
+		victory_points = {
+			1349 10 
+		}
+		victory_points = {
+			10270 5 
+		}
+		victory_points = {
+			7013 3 
+		}
+		victory_points = {
+			14819 2 
+		}
+		victory_points = {
+			12182 1 
+		}
+		victory_points = {
+			7232 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			dockyard = 1
+			air_base = 2
+			1349 = {
+				naval_base = 6
+
+			}
+			7232 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4395 7232 7250 10210 12182 12295 14819 
+	}
+	manpower=17355600
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

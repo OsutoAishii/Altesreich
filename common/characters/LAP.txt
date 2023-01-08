@@ -1,0 +1,83 @@
+characters = {
+	LAP_victoria_louise = {
+		name = LAP_victoria_louise
+		portraits={
+			civilian = {
+				large = "gfx/leaders/LAP/LAP_victoria_louise.png"
+			}
+		}
+		
+		country_leader={
+			ideology= anarchism_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= communism_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= syndicalism_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_democracy_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= farsightism_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= accelerationism_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= burgundian_system_type
+			desc = ARA_victoria_louise_desc
+			traits={
+			}
+		}
+	}
+}

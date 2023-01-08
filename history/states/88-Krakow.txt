@@ -1,0 +1,43 @@
+
+state={
+	id=88
+	name="STATE_88"
+	resources={
+		oil=4.000
+	}
+
+	history={
+		owner = KRA
+		add_core_of = KRA
+		victory_points = {
+			9427 10 
+		}
+		victory_points = {
+			442 2 
+		}
+		victory_points = {
+			6522 2 
+		}
+		victory_points = {
+			417 1
+		}
+		victory_points = {
+			14746 1
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 4
+
+		}
+
+	}
+
+	provinces={
+		417 442 466 3410 6499 6522 9427 11398 11413 11507 14379 14746 
+	}
+	manpower=3592800
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

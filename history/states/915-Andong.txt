@@ -1,0 +1,29 @@
+
+state={
+	id=915
+	name="STATE_915"
+
+	history={
+		victory_points = {
+			9759 3 
+		}
+		victory_points = {
+			9803 2 
+		}
+		victory_points = {
+			6981 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		800 836 861 945 3839 3888 3949 3970 6860 6905 6910 6981 9759 9803 9841 9848 9866 11781 11850 
+	}
+	manpower=5000266
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

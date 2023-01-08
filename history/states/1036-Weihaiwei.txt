@@ -1,0 +1,28 @@
+
+state={
+	id=1036
+	name="STATE_1036"
+
+	history={
+		victory_points = {
+			4205 3
+		}
+		buildings = {
+			infrastructure = 1
+			4205 = {
+				naval_base = 2
+				coastal_bunker = 1
+				bunker = 1
+
+			}
+		}
+
+	}
+
+	provinces={
+		4205
+	}
+	manpower=300200
+	buildings_max_level_factor=1.000
+	state_category=town
+}

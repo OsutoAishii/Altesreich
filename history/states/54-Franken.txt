@@ -1,0 +1,38 @@
+
+state={
+	id=54
+	name="STATE_54"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			11544 10 
+		}
+		victory_points = {
+			9557 2 
+		}
+		victory_points = {
+			11404 1 
+		}
+		victory_points = {
+			6594 1 
+		}
+		victory_points = {
+			3474 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		561 3474 6421 6594 9416 9557 9572 11404 11417 11529 11544 
+	}
+	manpower=2708159
+	buildings_max_level_factor=1.000
+	state_category=city
+}

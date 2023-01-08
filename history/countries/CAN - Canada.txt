@@ -1,0 +1,32 @@
+capital = 395
+
+set_research_slots = 2
+
+set_stability = 0.60
+set_war_support = 0.10
+
+set_politics = {
+	ruling_party = absolutism
+	elections_allowed = no
+}
+
+recruit_character = CAN_oliver_cromwell
+
+set_cosmetic_tag = CAN_ENG
+
+set_popularities = {
+	anarchism = 3
+	communism = 2
+	syndicalism = 5
+	social_democracy = 10
+	social_liberalism = 20
+	social_conservatism = 0
+	authoritarian_democracy = 0
+	absolutism = 30
+	authoritarian_nationalism = 15
+	farsightism = 0
+	accelerationism = 15
+	burgundian_system = 0
+}
+
+	

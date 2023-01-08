@@ -1,0 +1,47 @@
+characters = {
+	DEN_zxy = {
+		name = DEN_zxy
+		portraits={
+			civilian = {
+				large = "gfx/leaders/DEN/DEN_zxy.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = DEN_zxy_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = DEN_zxy_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = DEN_zxy_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = DEN_zxy_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = DEN_zxy_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = DEN_zxy_desc
+			traits={
+			}
+		}
+	}
+}

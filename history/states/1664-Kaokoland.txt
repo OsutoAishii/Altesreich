@@ -1,0 +1,23 @@
+state={
+	id=1664
+	name="STATE_1664"
+
+	history={
+		owner = SWA
+		add_core_of = SWA
+		victory_points = {
+			12921 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		12921 13464 
+	}
+	manpower=20000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

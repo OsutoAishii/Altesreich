@@ -1,0 +1,21 @@
+state={
+	id=1477
+	name="STATE_1477"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		8075 10888 14339 14340 14342 14346 
+	}
+	manpower=83933
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

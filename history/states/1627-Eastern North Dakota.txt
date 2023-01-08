@@ -1,0 +1,29 @@
+
+state={
+	id=1627
+	name="STATE_1627"
+
+	history={
+		owner = CHI
+		add_core_of = CHI
+		victory_points = {
+			10685 2 
+		}
+		victory_points = {
+			3719 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1752 1870 3719 12685 14228 
+	}
+	manpower=69481
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,21 @@
+state={
+	id=1669
+	name="STATE_1669"
+	resources={
+		tungsten=40.000
+		chromium=25.000
+	}
+	
+	history={
+		owner = NML
+		add_core_of = NML
+	}
+	
+	provinces={
+		11 109 118 145 184 3003 3044 3062 3100 3138 3173 6024 6063 6067 6152 6161 6200 9093 9095 9134 9141 9175 9211 9220 11026 11058 11067 11069 11112 11120 11129 11148 11152 11185 11187 11190 
+	}
+	manpower=415327
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

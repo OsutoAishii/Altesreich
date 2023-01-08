@@ -1,0 +1,30 @@
+state={
+	id=949
+	name="STATE_949"
+	
+	history={
+		owner = CAS
+		add_core_of = CAS
+		add_core_of = AFR
+		victory_points = {
+			9945 1
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 3
+			9945 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+	
+	provinces={
+		9945 
+	}
+	manpower=50614
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

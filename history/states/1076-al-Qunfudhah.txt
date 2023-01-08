@@ -1,0 +1,22 @@
+state={
+	id=1076
+	name="STATE_1076"
+	
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	
+	provinces={
+		13568 
+	}
+	manpower=300516
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

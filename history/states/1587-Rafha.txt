@@ -1,0 +1,21 @@
+state={
+	id=1587
+	name="STATE_1587"
+
+	history={
+		owner = NML
+		add_core_of = NML
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		15113 
+	}
+	manpower=80544
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

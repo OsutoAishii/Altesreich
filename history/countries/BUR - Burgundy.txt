@@ -1,0 +1,43 @@
+﻿capital = 1027
+
+set_research_slots = 4
+
+set_stability = 0.35
+set_war_support = 0.70
+
+set_politics = {
+	ruling_party = absolutism
+	elections_allowed = no
+}
+
+recruit_character = BUR_waddell_heinrich_kadir
+recruit_character = BUR_hitler
+recruit_character = BUR_himmler
+
+set_popularities = {
+	anarchism = 1
+	communism = 0
+	syndicalism = 1
+	social_democracy = 1
+	social_liberalism = 1
+	social_conservatism = 2
+	authoritarian_democracy = 6
+	absolutism = 70
+	authoritarian_nationalism = 3
+	farsightism = 1
+	accelerationism = 3
+	burgundian_system = 11
+}
+
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = CID
+		autonomous_state = autonomy_collaboration_government
+	}
+	else = {
+		puppet = CID
+	}
+}

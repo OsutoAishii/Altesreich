@@ -1,0 +1,29 @@
+
+state={
+	id=832
+	name="STATE_832"
+
+	history={
+		victory_points = {
+			4023 3 
+		}
+		victory_points = {
+			1018 2 
+		}
+		victory_points = {
+			10004 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1018 4023 10004 11926 15006 
+	}
+	manpower=4830000
+	buildings_max_level_factor=1.000
+	state_category=city
+}

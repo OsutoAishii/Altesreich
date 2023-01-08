@@ -1,0 +1,29 @@
+
+state={
+	id=708
+	name="STATE_708"
+
+	history={
+		owner = MDG
+		add_core_of = MDG
+		victory_points = {
+			13506 1
+		}
+		buildings = {
+			infrastructure = 1
+			13506 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		13072 13505 13506 
+	}
+	manpower=126703
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

@@ -1,0 +1,20 @@
+state={
+	id=1559
+	name="STATE_1559"
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		12624 
+	}
+	manpower=28751
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

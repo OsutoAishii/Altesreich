@@ -1,0 +1,28 @@
+
+state={
+	id=923
+	name="STATE_923"
+
+	history={
+		owner = PRS
+		add_core_of = PRS
+		victory_points = {
+			12161 3 
+		}
+		victory_points = {
+			4482 2 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1649 4482 4549 4958 5003 7560 7924 10357 10414 10742 12161 12465 14692 14693 
+	}
+	manpower=185000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

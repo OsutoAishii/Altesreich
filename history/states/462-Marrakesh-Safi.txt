@@ -1,0 +1,27 @@
+
+state={
+	id=462
+	name="STATE_462"
+
+	history={
+		owner = AFR
+		add_core_of = AFR
+		victory_points = {
+			13668 5
+		}
+		victory_points = {
+			11943 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		1102 4139 11943 13668 
+	}
+	manpower=1865552
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

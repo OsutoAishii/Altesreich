@@ -1,0 +1,34 @@
+
+state={
+	id=154
+	name="STATE_154"
+
+	history={
+		owner = OTT
+		add_core_of = KRA
+		victory_points = {
+			11659 5
+		}
+		victory_points = {
+			679 3
+		}
+		victory_points = {
+			3730 2
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 2
+
+		}
+
+	}
+
+	provinces={
+		679 699 730 3730 6735 9656 9706 11644 11646 11659 
+	}
+	manpower=2335383
+	buildings_max_level_factor=1.000
+	state_category=city
+}

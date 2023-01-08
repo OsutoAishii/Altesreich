@@ -1,0 +1,31 @@
+
+state={
+	id=779
+	name="STATE_779"
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		victory_points = {
+			3732 2 
+		}
+		victory_points = {
+			7462 1 
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			dockyard = 1
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1282 1338 1619 3732 4287 6719 7462 10247 10318 12202 12221 12459 
+	}
+	manpower=821000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

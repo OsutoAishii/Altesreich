@@ -1,0 +1,25 @@
+state={
+	id=1165
+	name="STATE_1165"
+	
+	history={
+		owner = ZEA
+		add_core_of = ZEA
+		buildings = {
+			infrastructure = 0
+			13710 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+	
+	provinces={
+		13710 
+	}
+	manpower=347
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=973
+	name="STATE_973"
+
+	history={
+		owner = KRA
+		add_core_of = KRA
+		victory_points = {
+			9661 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		3700 9661 11630 
+	}
+	manpower=284900
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

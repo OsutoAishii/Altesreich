@@ -1,0 +1,34 @@
+
+state={
+	id=378
+	name="STATE_378"
+	resources={
+		oil=180.000
+		aluminium=8.000
+	}
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		victory_points = {
+			6861 3 
+		}
+		victory_points = {
+			13624 2 
+		}
+		victory_points = {
+			13625 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		710 1601 3840 4518 6694 6699 6861 6876 7517 9637 11763 13617 13618 13624 13625 15207 15208 
+	}
+	manpower=3700173
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

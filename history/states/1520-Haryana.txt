@@ -1,0 +1,29 @@
+
+state={
+	id=1520
+	name="STATE_1520"
+
+	history={
+		owner = WID
+		add_core_of = WID
+		victory_points = {
+			14951 5 
+		}
+		victory_points = {
+			2032 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		2032 4915 12868 14242 14950 14951 14952 
+	}
+	manpower=1404653
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

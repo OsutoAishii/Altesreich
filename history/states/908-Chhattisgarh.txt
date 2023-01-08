@@ -1,0 +1,38 @@
+
+state={
+	id=908
+	name="STATE_908"
+
+	history={
+		owner = CID
+		add_core_of = CID
+		victory_points = {
+			12420 3 
+		}
+		victory_points = {
+			10401 2 
+		}
+		victory_points = {
+			12241 1 
+		}
+		victory_points = {
+			12375 1 
+		}
+		victory_points = {
+			7497 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1622 4557 10171 10401 12420 12490 12854 
+	}
+	manpower=1053200
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

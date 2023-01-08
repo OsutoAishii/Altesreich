@@ -1,0 +1,32 @@
+
+state={
+	id=465
+	name="STATE_465"
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		victory_points = {
+			4342 1 
+		}
+		victory_points = {
+			1424 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			4285 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		634 1424 4285 4342 4362 4432 7379 12289 
+	}
+	manpower=425020
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

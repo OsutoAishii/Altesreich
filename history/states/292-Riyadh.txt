@@ -1,0 +1,32 @@
+
+state={
+	id=292
+	name="STATE_292"
+	resources={
+		oil=3.000
+		steel=4.000
+	}
+
+	history={
+		owner = NML
+		add_core_of = NML
+		victory_points = {
+			13580 10 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		2090 4981 5093 8004 8060 8118 12727 12813 12870 13575 13580 
+	}
+	manpower=1440000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

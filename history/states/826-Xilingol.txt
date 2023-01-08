@@ -1,0 +1,27 @@
+
+state={
+	id=826
+	name="STATE_826"
+	resources={
+		steel=4.000
+	}
+
+	history={
+		victory_points = {
+			7648 2 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1871 4495 4555 7578 7648 7674 10363 12348 12554 
+	}
+	manpower=614000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

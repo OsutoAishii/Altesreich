@@ -1,0 +1,37 @@
+
+state={
+	id=1026
+	name="STATE_1026"
+
+	history={
+		owner = BUR
+		add_core_of = BUR
+		victory_points = {
+			11563 5 
+		}
+		victory_points = {
+			9434 5 
+		}
+		victory_points = {
+			485 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			485 = {
+				naval_base = 1
+
+			}
+
+		}
+
+
+	}
+
+	provinces={
+		485 6569 9434 11563 
+	}
+	manpower=910275
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,37 @@
+
+state={
+	id=186
+	name="STATE_186"
+
+	history={
+		owner = OTT
+		add_core_of = OTT
+		victory_points = {
+			4193 2
+		}
+		victory_points = {
+			11965 1
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			11965 = {
+				naval_base = 1
+
+			}
+			4193 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		1173 4078 4178 4193 7096 7211 11965 
+	}
+	manpower=545000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

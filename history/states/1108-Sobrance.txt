@@ -1,0 +1,23 @@
+
+state={
+	id=1108
+	name="STATE_1108"
+
+	history={
+		owner = KRA
+		add_core_of = KRA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		3565 13635 
+	}
+	manpower=69930
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

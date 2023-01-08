@@ -1,0 +1,29 @@
+
+state={
+	id=750
+	name="STATE_750"
+
+	history={
+		victory_points = {
+			7101 5
+		}
+		victory_points = {
+			7279 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 2
+
+		}
+
+	}
+
+	provinces={
+		7101 7279 7434 10006 14793 
+	}
+	manpower=8000000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

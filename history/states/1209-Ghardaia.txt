@@ -1,0 +1,27 @@
+
+state={
+	id=1209
+	name="STATE_1209"
+
+	history={
+		owner = NML
+		add_core_of = NML
+		add_core_of = AFR
+		victory_points = {
+			9960 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1126 1967 2049 4903 5035 8061 8077 12711 13857 13858 13861 13865 13997 
+	}
+	manpower=375988
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

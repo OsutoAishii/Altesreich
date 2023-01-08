@@ -1,0 +1,30 @@
+
+state={
+	id=545
+	name="STATE_545"
+	resources={
+		chromium=26.000
+	}
+
+	history={
+		owner = CAF
+		add_core_of = CAF
+		victory_points = {
+			5199 5
+		}
+		victory_points = {
+			12504 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		5199 12504 14051 14052 14053 
+	}
+	manpower=1380000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,24 @@
+state={
+	id=1206
+	name="STATE_1206"
+
+	history={
+		owner = AFR
+		add_core_of = AFR
+		victory_points = {
+			1958 1
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1958 13853 13854 13856 
+	}
+	manpower=45966
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

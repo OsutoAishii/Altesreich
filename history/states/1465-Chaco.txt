@@ -1,0 +1,24 @@
+state={
+	id=1465
+	name="STATE_1465"
+
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = {
+			14698 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2106 5213 10986 14697 14698 14699 14701 
+	}
+	manpower=1055259
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

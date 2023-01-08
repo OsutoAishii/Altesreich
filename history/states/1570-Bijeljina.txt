@@ -1,0 +1,27 @@
+state={
+	id=1570
+	name="STATE_1570"
+
+	history={
+		owner = OTT
+		add_core_of = KRA
+		victory_points = {
+			606 1 
+		}
+		victory_points = {
+			982 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		606 953 982 11741 11845 
+	}
+	manpower=107715
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

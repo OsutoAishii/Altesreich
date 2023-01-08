@@ -1,0 +1,32 @@
+
+state={
+	id=538
+	name="STATE_538"
+	resources={
+		rubber=5.000
+	}
+
+	history={
+		owner = CAF
+		add_core_of = CAF
+		victory_points = {
+			10071 2 
+		}
+		victory_points = {
+			12824 1 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		988 7219 7931 10071 10883 12741 12775 12824 13485 13486 14456 14458 14460 14461 14462 14465 14467 14469 14470 14472 14477 14479 14480 
+	}
+	manpower=1693974
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

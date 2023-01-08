@@ -1,0 +1,50 @@
+
+state={
+	id=2
+	name="STATE_2"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			9904 30 
+		}
+		victory_points = {
+			11751 3
+		}
+		victory_points = {
+			15072 2
+		}
+		victory_points = {
+			11846 2
+		}
+		victory_points = {
+			923 1
+		}
+		victory_points = {
+			15074 1
+		}
+		buildings = {
+			infrastructure = 4
+			air_base = 8
+			arms_factory = 1
+			industrial_complex = 3
+			15072 = {
+				naval_base = 5
+
+			}
+			11846 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		923 6862 9904 11751 11846 11882 15071 15072 15073 15074 
+	}
+	manpower=2501971
+	buildings_max_level_factor=1.000
+	state_category=city
+}

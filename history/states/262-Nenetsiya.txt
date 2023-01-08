@@ -1,0 +1,31 @@
+
+state={
+	id=262
+	name="STATE_262"
+	resources={
+		oil=7.000
+	}
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			105 1 
+		}
+		buildings = {
+			infrastructure = 0
+			105 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		105 198 3147 6040 6192 9205 10207 11047 11119 12530 15023 
+	}
+	manpower=43590
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

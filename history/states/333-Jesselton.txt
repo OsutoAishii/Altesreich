@@ -1,0 +1,29 @@
+
+state={
+	id=333
+	name="STATE_333"
+	resources={
+		rubber=40.000
+	}
+
+	history={
+		victory_points = {
+			10212 3 
+		}
+		buildings = {
+			infrastructure = 1
+			10212 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		1335 4338 7358 10212 12171 12186 13302 
+	}
+	manpower=285000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=768
+	name="STATE_768"
+
+	history={
+		owner = PRU
+		add_core_of = PRU
+		victory_points = {
+			6375 3 
+		}
+		victory_points = {
+			11386 1 
+		}
+		victory_points = {
+			15070 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			anti_air_building = 2
+			air_base = 6
+
+		}
+
+	}
+
+	provinces={
+		6375 9346 9372 11386 15067 15068 15069 15070 
+	}
+	manpower=789210
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

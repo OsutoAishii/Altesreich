@@ -1,0 +1,34 @@
+
+state={
+	id=18
+	name="STATE_18"
+
+	history={
+		owner = BUR
+		add_core_of = BUR
+		victory_points = {
+			3546 5 
+		}
+		victory_points = {
+			11732 5 
+		}
+		victory_points = {
+			3652 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 10
+
+		}
+
+	}
+
+	provinces={
+		551 680 3533 3546 3650 3652 6531 9658 11732 
+	}
+	manpower=970800
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

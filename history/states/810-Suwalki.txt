@@ -1,0 +1,24 @@
+
+state={
+	id=810
+	name="STATE_810"
+
+	history={
+		owner = PRU
+		add_core_of = PRU
+		victory_points = {
+			3254 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		3254 12099 
+	}
+	manpower=137890
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

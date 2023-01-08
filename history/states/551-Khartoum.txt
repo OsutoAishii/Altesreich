@@ -1,0 +1,29 @@
+
+state={
+	id=551
+	name="STATE_551"
+
+	history={
+		owner = SCA
+		add_core_of = SCA
+		victory_points = {
+			14177 2
+		}
+		victory_points = {
+			12881 5
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 2
+
+		}
+	}
+
+	provinces={
+		12881 14176 14177 
+	}
+	manpower=1993507
+	buildings_max_level_factor=1.000
+	state_category=town
+}

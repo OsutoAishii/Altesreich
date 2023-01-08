@@ -1,0 +1,42 @@
+
+state={
+	id=762
+	name="STATE_762"
+	resources={
+		steel=56.000
+		aluminium=11.000
+	}
+
+	history={
+		owner = BUR
+		add_core_of = BUR
+		victory_points = {
+			11548 3 
+		}
+		victory_points = {
+			6504 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			11548 = {
+				naval_base = 5
+
+			}
+			11606 = {
+				bunker = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3536 6504 11548 
+	}
+	manpower=2006276
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

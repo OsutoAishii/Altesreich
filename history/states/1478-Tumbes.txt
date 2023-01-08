@@ -1,0 +1,24 @@
+state={
+	id=1478
+	name="STATE_1478"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		victory_points = {
+			14787 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		14787 
+	}
+	manpower=224863
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

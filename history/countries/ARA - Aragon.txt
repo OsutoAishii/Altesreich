@@ -1,0 +1,41 @@
+capital = 167
+
+set_research_slots = 4
+
+set_stability = 0.70
+set_war_support = 0.20
+
+set_politics = {
+	ruling_party = authoritarian_democracy
+	elections_allowed = no
+}
+
+recruit_character = ARA_victoria_louise
+
+set_popularities = {
+	anarchism = 1
+	communism = 0
+	syndicalism = 5
+	social_democracy = 8
+	social_liberalism = 1
+	social_conservatism = 2
+	authoritarian_democracy = 70
+	absolutism = 5
+	authoritarian_nationalism = 5
+	farsightism = 0
+	accelerationism = 3
+	burgundian_system = 0
+}
+
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = LAP
+		autonomous_state = autonomy_collaboration_government
+	}
+	else = {
+		puppet = LAP
+	}
+}

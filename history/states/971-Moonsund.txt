@@ -1,0 +1,28 @@
+state={
+	id=971
+	name="STATE_971"
+	
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			185 1
+		}
+		buildings = {
+			infrastructure = 1
+			185 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+	
+	provinces={
+		185 6201 
+	}
+	manpower=11551
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

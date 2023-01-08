@@ -1,0 +1,29 @@
+
+state={
+	id=705
+	name="STATE_705"
+
+	history={
+		owner = CAF
+		add_core_of = CAF
+		victory_points = {
+			13015 1
+		}
+		buildings = {
+			infrastructure = 1
+			13015 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		13015 
+	}
+	manpower=24725
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

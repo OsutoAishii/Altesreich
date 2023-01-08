@@ -1,0 +1,34 @@
+
+state={
+	id=459
+	name="STATE_459"
+	resources={
+		steel=20.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		add_core_of = AFR
+		victory_points = {
+			1145 10
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			1145 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		1145 9964 11939 
+	}
+	manpower=2317458
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

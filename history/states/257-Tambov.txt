@@ -1,0 +1,30 @@
+
+state={
+	id=257
+	name="STATE_257"
+	resources={
+		chromium=10.000
+	}
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			11351 3 
+		}
+		victory_points = {
+			9245 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		232 275 313 340 367 396 471 3332 3389 9245 9312 9367 9422 11227 11296 11323 11351 11381 11436 
+	}
+	manpower=1149883
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

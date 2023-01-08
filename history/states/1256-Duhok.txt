@@ -1,0 +1,27 @@
+state={
+	id=1256
+	name="STATE_1256"
+	resources={
+		oil=1.000
+	}
+	history={
+		owner = OTT
+		add_core_of = PRS
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			10811 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		10811 13346 
+	}
+	manpower=1292535
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

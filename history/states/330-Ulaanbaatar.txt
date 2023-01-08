@@ -1,0 +1,34 @@
+
+state={
+	id=330
+	name="STATE_330"
+	resources={
+		steel=2.000
+		chromium=3.000
+	}
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			13929 10 
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+
+		}
+
+	}
+
+	provinces={
+		1787 4732 4792 4801 4862 7752 7885 10704 10708 12533 12612 12665 12686 13904 13908 13918 13921 13923 13926 13929 13930 13933 13936 13938 13943 
+	}
+	manpower=335500
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

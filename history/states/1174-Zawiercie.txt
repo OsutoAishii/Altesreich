@@ -1,0 +1,23 @@
+
+state={
+	id=1174
+	name="STATE_1174"
+
+	history={
+		owner = PRU
+		add_core_of = PRU
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		3586 10440 11428 11532 
+	}
+	manpower=31650
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

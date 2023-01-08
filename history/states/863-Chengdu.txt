@@ -1,0 +1,34 @@
+
+state={
+	id=863
+	name="STATE_863"
+
+	history={
+		victory_points = {
+			4925 10 
+		}
+		victory_points = {
+			7240 3 
+		}
+		victory_points = {
+			12705 2 
+		}
+		victory_points = {
+			12141 2 
+		}
+		buildings = {
+			infrastructure = 0
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1395 4925 7240 12705 15181 
+	}
+	manpower=6390000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

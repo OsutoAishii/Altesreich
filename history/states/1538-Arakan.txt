@@ -1,0 +1,29 @@
+
+state={
+	id=1538
+	name="STATE_1538"
+
+	history={
+		owner = EID
+		add_core_of = EID
+		victory_points = {
+			12090 2 
+		}
+		buildings = {
+			infrastructure = 1
+			12090 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1014 3651 10182 12090 14985 15122 
+	}
+	manpower=3188807
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

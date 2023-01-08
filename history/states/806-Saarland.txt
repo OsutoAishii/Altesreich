@@ -1,0 +1,26 @@
+
+state={
+	id=806
+	name="STATE_806"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			11531 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		11531 14694 14695 
+	}
+	manpower=842500
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

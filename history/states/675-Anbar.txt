@@ -1,0 +1,36 @@
+
+state={
+	id=675
+	name="STATE_675"
+	resources={
+		oil=1.000
+	}
+
+	history={
+		owner = OTT
+		add_core_of = PRS
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			13328 2 
+		}
+		victory_points = {
+			12046 2 
+		}
+		victory_points = {
+			12413 1 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		12046 12372 12413 12839 12855 13324 13326 13328 13329 13330 14668 
+	}
+	manpower=122093
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

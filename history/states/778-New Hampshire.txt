@@ -1,0 +1,29 @@
+
+state={
+	id=778
+	name="STATE_778"
+	resources={
+		steel=4.000
+	}
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		victory_points = {
+			3712 2 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+
+		}
+
+	}
+
+	provinces={
+		733 3712 3715 10481 
+	}
+	manpower=477000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

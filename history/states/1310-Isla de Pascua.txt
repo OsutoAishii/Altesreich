@@ -1,0 +1,26 @@
+state={
+	id=1310
+	name="STATE_1310"
+
+	history={
+		victory_points = {
+			14281 1
+		}
+		buildings = {
+			infrastructure = 0
+			14281 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		14281 
+	}
+	manpower=7750
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

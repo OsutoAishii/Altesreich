@@ -1,0 +1,24 @@
+state={
+	id=1243
+	name="STATE_1243"
+
+	history={
+		owner = CAF
+		add_core_of = CAF
+		victory_points = {
+			12677 3
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		697 12677 14054 14055 14058 
+	}
+	manpower=2542132
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

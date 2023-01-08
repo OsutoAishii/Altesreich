@@ -1,0 +1,39 @@
+
+state={
+	id=1019
+	name="STATE_1019"
+	resources={
+		oil=3.000
+	}
+
+	history={
+		owner = OTT
+		add_core_of = PRS
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			13322 2 
+		}
+		victory_points = {
+			2004 2 
+		}
+		victory_points = {
+			7977 2 
+		}
+		victory_points = {
+			13325 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		78 2004 7977 7994 12726 13316 13319 13322 13325 13345 
+	}
+	manpower=455700
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=156
+	name="STATE_156"
+
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = {
+			12098 5 
+		}
+		victory_points = {
+			9990 4 
+		}
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+
+		}
+
+	}
+
+	provinces={
+		3901 9990 10027 12066 12098 
+	}
+	manpower=1723426
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,21 @@
+state={
+	id=1304
+	name="STATE_1304"
+
+	history={
+		owner = SFC
+		add_core_of = SFC
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		14276 
+	}
+	manpower=2456
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

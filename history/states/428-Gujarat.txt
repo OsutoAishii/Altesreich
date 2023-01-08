@@ -1,0 +1,41 @@
+
+state={
+	id=428
+	name="STATE_428"
+	resources={
+		oil=3.000
+	}
+
+	history={
+		owner = WID
+		add_core_of = WID
+		victory_points = {
+			9975 5 
+		}
+		victory_points = {
+			4187 3 
+		}
+		victory_points = {
+			11952 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			11952 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1103 4064 7165 7696 8076 9975 10527 11952 12092 12743 13075 
+	}
+	manpower=10590200
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

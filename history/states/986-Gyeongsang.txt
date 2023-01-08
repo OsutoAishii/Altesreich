@@ -1,0 +1,41 @@
+
+state={
+	id=986
+	name="STATE_986"
+	resources={
+		steel=11.000
+		tungsten=10.000
+	}
+
+	history={
+		victory_points = {
+			4056 4 
+		}
+		victory_points = {
+			13287 3 
+		}
+		victory_points = {
+			4086 3 
+		}
+		victory_points = {
+			12060 2 
+		}
+		buildings = {
+			infrastructure = 1
+			dockyard = 1
+			4056 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1054 1081 4056 4086 4103 7121 10085 10115 11912 12060 12089 13282 13284 13285 13287 
+	}
+	manpower=689537
+	buildings_max_level_factor=1.000
+	state_category=town
+}

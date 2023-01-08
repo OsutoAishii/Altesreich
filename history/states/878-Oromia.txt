@@ -1,0 +1,28 @@
+
+state={
+	id=878
+	name="STATE_878"
+
+	history={
+		owner = SCA
+		add_core_of = SCA
+		victory_points = {
+		    5010 2
+		}
+		victory_points = {
+		    13215 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2009 4954 5010 12856 13215 13518 13521 
+	}
+	manpower=1089143
+	buildings_max_level_factor=1.000
+	state_category=town
+}

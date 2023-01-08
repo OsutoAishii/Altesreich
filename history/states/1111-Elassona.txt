@@ -1,0 +1,22 @@
+state={
+	id=1111
+	name="STATE_1111"
+	
+	history={
+		owner = OTT
+		add_core_of = OTT
+		buildings = {
+			infrastructure = 1
+
+		}
+
+
+	}
+	
+	provinces={
+		6930 
+	}
+	manpower=32121
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

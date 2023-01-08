@@ -1,0 +1,36 @@
+
+state={
+	id=69
+	name="STATE_69"
+	resources={
+		steel=4.000
+	}
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			9414 2 
+		}
+		victory_points = {
+			11432 2 
+		}
+		victory_points = {
+			6470 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			anti_air_building = 1
+
+		}
+
+	}
+
+	provinces={
+		424 469 3418 3585 6470 7857 9414 9555 11414 11432 14680 
+	}
+	manpower=2830000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

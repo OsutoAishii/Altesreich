@@ -1,0 +1,33 @@
+
+state={
+	id=449
+	name="STATE_449"
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		add_core_of = AFR
+		victory_points = {
+			1130 5 
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 4
+			1130 = {
+				naval_base = 6
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1130 4060 4136 7206 9992 10120 13078 
+	}
+	manpower=40431
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

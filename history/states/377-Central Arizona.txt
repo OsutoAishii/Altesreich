@@ -1,0 +1,31 @@
+
+state={
+	id=377
+	name="STATE_377"
+	resources={
+		steel=20.000
+		oil=5.000
+		aluminium=8.000
+	}
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		victory_points = {
+			853 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+
+		}
+	}
+
+	provinces={
+		853 4796 7747 8115 
+	}
+	manpower=435572
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=111
+	name="STATE_111"
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			11105 15 
+		}
+		victory_points = {
+			67 2
+		}
+		victory_points = {
+			9183 1
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 4
+			industrial_complex = 1
+			air_base = 5
+			11105 = {
+				naval_base = 5
+				coastal_bunker = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		67 204 3161 6009 6108 6144 9073 9129 9167 9183 11066 11105 11138 13100 13666 
+	}
+	manpower=1070190
+	buildings_max_level_factor=1.000
+	state_category=city
+}

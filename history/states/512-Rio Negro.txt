@@ -1,0 +1,31 @@
+
+state={
+	id=512
+	name="STATE_512"
+	resources={
+		oil=5.000
+	}
+
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = {
+			11005 2
+		}
+		victory_points = {
+			10981 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		10981 11005 12349 12982 14636 14637 14639 14640 
+	}
+	manpower=226638
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

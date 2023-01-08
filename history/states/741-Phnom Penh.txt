@@ -1,0 +1,24 @@
+
+state={
+	id=741
+	name="STATE_741"
+
+	history={
+		victory_points = {
+		    7376 5
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		7319 7376 10317 
+	}
+	manpower=5245000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

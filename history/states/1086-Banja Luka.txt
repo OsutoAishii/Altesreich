@@ -1,0 +1,26 @@
+
+state={
+	id=1086
+	name="STATE_1086"
+
+	history={
+		owner = OTT
+		add_core_of = KRA
+		victory_points = {
+			9588 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+
+	}
+
+	provinces={
+		6619 6983 9588 9591 11572 11574 
+	}
+	manpower=1218107
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

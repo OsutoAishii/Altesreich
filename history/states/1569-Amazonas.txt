@@ -1,0 +1,26 @@
+
+state={
+	id=1569
+	name="STATE_1569"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		victory_points = {
+			2007 2 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		2007 10792 12729 12770 12825 15052 15053 15054 15055 15056 
+	}
+	manpower=401849
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

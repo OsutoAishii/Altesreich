@@ -1,0 +1,35 @@
+
+state={
+	id=21
+	name="STATE_21"
+	resources={
+		aluminium=60.000
+	}
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			911 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 2
+			air_base = 10
+			911 = {
+				naval_base = 10
+				coastal_bunker = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		911 956 958 3762 3928 11875 
+	}
+	manpower=648971
+	buildings_max_level_factor=1.000
+	state_category=city
+}

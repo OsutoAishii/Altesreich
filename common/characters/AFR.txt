@@ -1,0 +1,47 @@
+characters = {
+	AFR_gzh = {
+		name = AFR_gzh
+		portraits={
+			civilian = {
+				large = "gfx/leaders/AFR/AFR_gzh.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = AFR_gzh_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = AFR_gzh_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = AFR_gzh_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = AFR_gzh_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = AFR_gzh_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = AFR_gzh_desc
+			traits={
+			}
+		}
+	}
+}

@@ -1,0 +1,47 @@
+
+state={
+	id=279
+	name="STATE_279"
+	resources={
+		steel=16.000
+	}
+
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = {
+			650 10 
+		}
+		victory_points = {
+			14625 3
+		}
+		victory_points = {
+			8229 2
+		}
+		victory_points = {
+			14624 2
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 3
+			14625 = {
+				naval_base = 5
+
+			}
+			650 = {
+				bunker = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		650 8222 8229 14623 14624 14625 
+	}
+	manpower=3935146
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

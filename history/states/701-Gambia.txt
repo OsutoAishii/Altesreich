@@ -1,0 +1,29 @@
+
+state={
+	id=701
+	name="STATE_701"
+
+	history={
+		owner = WAF
+		add_core_of = WAF
+		victory_points = {
+			4989 1
+		}
+		buildings = {
+			infrastructure = 1
+			4989 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4989 13629 13633 
+	}
+	manpower=199520
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

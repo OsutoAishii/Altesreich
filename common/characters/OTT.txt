@@ -1,0 +1,62 @@
+characters = {
+	OTT_suleiman = {
+		name = OTT_suleiman
+		portraits={
+			army = {
+				large = "gfx/leaders/OTT/OTT_suleiman.png"
+			}
+			civilian = {
+				large = "gfx/leaders/OTT/OTT_suleiman.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = FRA_louis_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = OTT_suleiman_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = OTT_suleiman_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = OTT_suleiman_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = OTT_suleiman_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = OTT_suleiman_desc
+			traits={
+			}
+		}
+
+		field_marshal = {
+			legacy_id = OTT_suleiman
+			desc = OTT_suleiman_desc
+			traits = {
+			}
+			skill = 5
+			attack_skill = 6
+			defense_skill = 2
+			planning_skill = 3
+			logistics_skill = 3
+		}
+	}
+}

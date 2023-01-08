@@ -1,0 +1,37 @@
+
+state={
+	id=350
+	name="STATE_350"
+
+	history={
+		owner = OTT
+		add_core_of = OTT
+		victory_points = {
+			9893 5
+		}
+		victory_points = {
+			14528 3
+		}
+		victory_points = {
+			6813 2
+		}
+		victory_points = {
+			9912 2
+		}
+		victory_points = {
+			14523 1
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+
+		}
+	}
+
+	provinces={
+		886 3889 3890 3921 6813 6965 7620 9893 9912 14523 14528 
+	}
+	manpower=547156
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

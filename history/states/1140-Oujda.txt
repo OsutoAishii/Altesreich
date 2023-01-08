@@ -1,0 +1,26 @@
+
+state={
+	id=1140
+	name="STATE_1140"
+
+	history={
+		owner = AFR
+		add_core_of = AFR
+		victory_points = {
+			989 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		989 1111 4154 7116 7958 12018 13669 13863 
+	}
+	manpower=494252
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

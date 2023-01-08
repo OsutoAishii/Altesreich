@@ -1,0 +1,30 @@
+
+state={
+	id=667
+	name="STATE_667"
+	resources={
+		rubber=12.000
+	}
+
+	history={
+		victory_points = {
+			7293 3
+		}
+		buildings = {
+			infrastructure = 1
+			10175 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1298 4301 7293 7321 10175 10191 12151 12162 12219 12234 
+	}
+	manpower=3460200
+	buildings_max_level_factor=1.000
+	state_category=town
+}

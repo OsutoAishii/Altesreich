@@ -1,0 +1,17 @@
+state={
+	id=1162
+	name="STATE_1162"
+	
+	history={
+		owner = NTD
+		add_core_of = NTD
+	}
+	
+	provinces={
+		10336 
+	}
+	manpower=5000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

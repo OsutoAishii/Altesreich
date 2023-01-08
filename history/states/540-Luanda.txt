@@ -1,0 +1,31 @@
+
+state={
+	id=540
+	name="STATE_540"
+	resources={
+		rubber=1.000
+	}
+
+	history={
+		owner = SFC
+		add_core_of = SFC
+		victory_points = {
+			14364 10
+		}
+		buildings = {
+			infrastructure = 2
+			14364 = {
+				naval_base = 2
+
+			}
+
+		}
+	}
+
+	provinces={
+		14364 
+	}
+	manpower=3225000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

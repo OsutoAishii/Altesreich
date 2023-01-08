@@ -1,0 +1,21 @@
+state={
+	id=1268
+	name="STATE_1268"
+
+	history={
+		owner = SCA
+		add_core_of = SCA
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		14121 
+	}
+	manpower=11372
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

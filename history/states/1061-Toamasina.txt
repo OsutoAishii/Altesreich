@@ -1,0 +1,41 @@
+
+state={
+	id=1061
+	name="STATE_1061"
+
+	history={
+		owner = MDG
+		add_core_of = MDG
+		victory_points = {
+			13496 3 
+		}
+		victory_points = {
+			13502 2 
+		}
+		victory_points = {
+			5222 1 
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			13496 = {
+				naval_base = 1
+
+			}
+			5222 = {
+				naval_base = 1
+
+			}
+
+		}
+
+
+	}
+
+	provinces={
+		5128 5185 5222 8188 9170 13496 13500 13501 13502 13503 
+	}
+	manpower=2855600
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

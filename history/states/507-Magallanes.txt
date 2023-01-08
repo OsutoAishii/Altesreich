@@ -1,0 +1,24 @@
+
+state={
+	id=507
+	name="STATE_507"
+
+	history={
+		owner = LAP
+		add_core_of = LAP
+		victory_points = {
+			5215 2 
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		5201 5209 5215 8198 8218 8913 14619 14620 
+	}
+	manpower=68693
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,27 @@
+state={
+	id=1439
+	name="STATE_1439"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		victory_points = {
+			14618 2
+		}
+		victory_points = {
+			5131 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5131 14617 14618 
+	}
+	manpower=222619
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

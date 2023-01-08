@@ -1,0 +1,34 @@
+
+state={
+	id=1556
+	name="STATE_1556"
+
+	history={
+		owner = NAS
+		add_core_of = NAS
+		victory_points = {
+			1719 3 
+		}
+		buildings = {
+			infrastructure = 2
+			14227 = {
+				naval_base = 1
+			}
+			14222 = {
+				naval_base = 2
+			}
+			761 = {
+				naval_base = 3
+			}
+		}
+
+	}
+
+	provinces={
+		761 763 1657 1734 1769 1873 3736 4426 4753 4775 4875 6728 6767 7794 7896 7899 9615 10605 11571 12588 13094 13161 13182 13242 13243 13244 14216 14217 14218 14222 14227 
+	}
+	manpower=308096
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

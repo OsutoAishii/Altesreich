@@ -1,0 +1,24 @@
+state={
+	id=1052
+	name="STATE_1052"
+	
+	history={
+		owner = SWA
+		add_core_of = SWA
+		victory_points = {
+		    13467 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+    }
+	
+	provinces={
+		13467 13468 
+	}
+	manpower=90100
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

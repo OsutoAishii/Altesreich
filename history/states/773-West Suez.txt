@@ -1,0 +1,38 @@
+
+state={
+	id=773
+	name="STATE_773"
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			4073 5
+		}
+		victory_points = {
+			12049 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			4073 = {
+				naval_base = 2
+
+			}
+			12049 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4073 12049 
+	}
+	manpower=107300
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

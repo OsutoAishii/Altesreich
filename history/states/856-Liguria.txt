@@ -1,0 +1,49 @@
+
+state={
+	id=856
+	name="STATE_856"
+	resources={
+		steel=24.000
+		aluminium=16.000
+		chromium=2.000
+		tungsten=1.000
+	}
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			6788 10 
+		}
+		victory_points = {
+			6973 2 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			dockyard = 2
+			air_base = 3
+			6788 = {
+				naval_base = 8
+
+			}
+			6973 = {
+				naval_base = 10
+
+			}
+			11891 = {
+				bunker = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3772 6788 6973 11891 
+	}
+	manpower=1447000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

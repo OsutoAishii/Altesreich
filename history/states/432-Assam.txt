@@ -1,0 +1,35 @@
+
+state={
+	id=432
+	name="STATE_432"
+	resources={
+		oil=5.000
+	}
+
+	history={
+		owner = EID
+		add_core_of = EID
+		victory_points = {
+			12366 5 
+		}
+		victory_points = {
+			10514 2 
+		}
+		victory_points = {
+			12322 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1525 7455 10349 10514 12322 12366 14416 14418 
+	}
+	manpower=8977100
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

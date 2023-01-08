@@ -1,0 +1,33 @@
+
+state={
+	id=185
+	name="STATE_185"
+	resources={
+		chromium=20.000
+		steel=20.000
+	}
+
+	history={
+		owner = OTT
+		add_core_of = OTT
+		victory_points = {
+			3914 2
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			9805 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		3914 9805 9916 
+	}
+	manpower=460900
+	buildings_max_level_factor=1.000
+	state_category=town
+}

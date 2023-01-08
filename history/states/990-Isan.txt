@@ -1,0 +1,29 @@
+
+state={
+	id=990
+	name="STATE_990"
+
+	history={
+		victory_points = {
+			12264 4 
+		}
+		victory_points = {
+			12360 2 
+		}
+		victory_points = {
+			7516 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1357 1535 1548 4511 4582 7516 7601 10384 10425 10438 12195 12264 12360 12373 12388 12402 12417 12431 
+	}
+	manpower=850630
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

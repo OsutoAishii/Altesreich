@@ -1,0 +1,24 @@
+
+state={
+	id=549
+	name="STATE_549"
+
+	history={
+		owner = CAF
+		add_core_of = CAF
+		victory_points = {
+			14165 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		2016 7925 8084 10795 10827 14165 14166 14168 
+	}
+	manpower=3694293
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

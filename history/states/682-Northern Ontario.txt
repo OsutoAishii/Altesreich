@@ -1,0 +1,36 @@
+
+state={
+	id=682
+	name="STATE_682"
+	resources={
+		steel=8.000
+		aluminium=9.000
+	}
+
+	history={
+		owner = CAN
+		add_core_of = CAN
+		victory_points = {
+			9467 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			10621 = {
+				naval_base = 3
+			}
+			14219 = {
+				naval_base = 1
+			}
+		}
+
+	}
+
+	provinces={
+		602 777 1299 1782 4784 4869 6510 7366 9467 9480 9740 10621 10718 11682 11902 12278 12582 12701 13201 14201 14219 
+	}
+	manpower=201059
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

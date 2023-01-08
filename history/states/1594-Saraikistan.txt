@@ -1,0 +1,26 @@
+
+state={
+	id=1594
+	name="STATE_1594"
+
+	history={
+		owner = WID
+		add_core_of = WID
+		victory_points = {
+			8007 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		8007 10139 10843 10898 12792 14385 15125 15127 
+	}
+	manpower=1871843
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

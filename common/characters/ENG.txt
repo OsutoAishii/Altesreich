@@ -1,0 +1,62 @@
+characters = {
+	ENG_oliver_cromwell = {
+		name = ENG_oliver_cromwell
+		portraits={
+			army = {
+				large = "gfx/leaders/ENG/ENG_oliver_cromwell.png"
+			}
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_oliver_cromwell.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = ENG_oliver_cromwell_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = ENG_oliver_cromwell_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = ENG_oliver_cromwell_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = ENG_oliver_cromwell_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = ENG_oliver_cromwell_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = ENG_oliver_cromwell_desc
+			traits={
+			}
+		}
+
+		field_marshal = {
+			legacy_id = ENG_oliver_cromwell
+			desc = ENG_oliver_cromwell_desc
+			traits = {
+			}
+			skill = 5
+			attack_skill = 5
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 4
+		}
+	}
+}

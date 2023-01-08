@@ -1,0 +1,25 @@
+state={
+	id=997
+	name="STATE_997"
+	
+	history={
+		victory_points = {
+		    12048 2
+		}
+		victory_points = {
+		    12065 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	
+	provinces={
+		1073 1157 7015 7093 7518 9948 12008 12048 12065 
+	}
+	manpower=529800
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

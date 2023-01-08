@@ -1,0 +1,25 @@
+state={
+	id=1579
+	name="STATE_1579"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		buildings = {
+			infrastructure = 1
+			4859 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4859 
+	}
+	manpower=1306
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

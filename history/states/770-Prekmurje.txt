@@ -1,0 +1,22 @@
+
+state={
+	id=770
+	name="STATE_770"
+
+	history={
+		owner = KRA
+		add_core_of = KRA
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		6672 
+	}
+	manpower=205120
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

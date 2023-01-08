@@ -1,0 +1,25 @@
+state={
+	id=1286
+	name="STATE_1286"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			10202 3
+		}
+		victory_points = {
+			1879 2
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		1879 4661 4670 4685 7317 7708 10202 10235 10630 12616 
+	}
+	manpower=754739
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

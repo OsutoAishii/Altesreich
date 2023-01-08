@@ -1,0 +1,28 @@
+state={
+	id=1366
+	name="STATE_1366"
+
+	history={
+		owner = STI
+		add_core_of = STI
+		victory_points = {
+			14410 1
+		}
+		buildings = {
+			infrastructure = 1
+			14410 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		14410 
+	}
+	manpower=200222
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

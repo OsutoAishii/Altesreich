@@ -1,0 +1,33 @@
+
+state={
+	id=414
+	name="STATE_414"
+	resources={
+		chromium=5.000
+	}
+
+	history={
+		owner = PRS
+		add_core_of = PRS
+		victory_points = {
+			10913 3
+		}
+		victory_points = {
+			12863 2
+		}
+		victory_points = {
+			15091 2
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		1986 10913 11249 12780 12809 12863 15091 15092 15093 15094 
+	}
+	manpower=486013
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

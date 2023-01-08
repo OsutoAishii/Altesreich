@@ -1,0 +1,20 @@
+state={
+	id=1642
+	name="STATE_1642"
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		buildings = {
+			infrastructure = 0
+		}
+	}
+
+	provinces={
+		15190 
+	}
+	manpower=16000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

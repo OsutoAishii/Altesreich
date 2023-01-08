@@ -1,0 +1,33 @@
+
+state={
+	id=35
+	name="STATE_35"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			6496 5 
+		}
+		victory_points = {
+			3262 3 
+		}
+		victory_points = {
+			9431 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		3262 6496 6500 9431 
+	}
+	manpower=1342631
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

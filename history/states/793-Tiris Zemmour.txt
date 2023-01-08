@@ -1,0 +1,25 @@
+
+state={
+	id=793
+	name="STATE_793"
+
+	history={
+		owner = WAF
+		add_core_of = WAF
+		victory_points = {
+			8035 1
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1897 1962 8035 10779 10838 10917 13851 13852 
+	}
+	manpower=53261
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

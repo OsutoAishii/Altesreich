@@ -1,0 +1,29 @@
+state={
+	id=1440
+	name="STATE_1440"
+
+	history={
+		owner = LAP
+		add_core_of = LAP
+		buildings = {
+			infrastructure = 0
+			14627 = {
+				naval_base = 1
+
+			}
+			14628 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		14627 14628 
+	}
+	manpower=900
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

@@ -1,0 +1,30 @@
+
+state={
+	id=1082
+	name="STATE_1082"
+
+	history={
+		owner = DEN
+		add_core_of = DEN
+		victory_points = {
+			3325 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			3325 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3325 3374 13595 15075 
+	}
+	manpower=325600
+	buildings_max_level_factor=1.000
+	state_category=town
+}

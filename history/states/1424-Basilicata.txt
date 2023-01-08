@@ -1,0 +1,25 @@
+state={
+	id=1424
+	name="STATE_1424"
+
+	history={
+		owner = ARA
+		add_core_of = ARA
+		victory_points = {
+			6972 3 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			
+		}
+
+	}
+
+	provinces={
+		3958 3968 6972 9856 
+	}
+	manpower=575902
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

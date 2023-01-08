@@ -1,0 +1,33 @@
+
+state={
+	id=266
+	name="STATE_266"
+	resources={
+		steel=10.000
+	}
+
+	history={
+		owner = OTT
+		add_core_of = PRS
+		add_compliance = 50
+		victory_points = {
+			10837 10 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 3
+
+		}
+
+	}
+
+	provinces={
+		4580 10837 15131 15132 15133 15135 
+	}
+	manpower=3446250
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

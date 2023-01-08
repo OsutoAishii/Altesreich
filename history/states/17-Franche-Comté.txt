@@ -1,0 +1,43 @@
+
+state={
+	id=17
+	name="STATE_17"
+	resources={
+		steel=24.000
+	}
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			9642 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 5
+			698 = {
+				bunker = 2
+
+			}
+			3646 = {
+				bunker = 2
+
+			}
+			3666 = {
+				bunker = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		698 3646 3666 6698 9642 
+	}
+	manpower=624160
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

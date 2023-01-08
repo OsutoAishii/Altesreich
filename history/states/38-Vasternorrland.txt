@@ -1,0 +1,41 @@
+
+state={
+	id=38
+	name="STATE_38"
+	resources={
+		steel=40.000
+	}
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			11091 1 
+		}
+		victory_points = {
+			9151 1 
+		}
+		victory_points = {
+			182 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+			130 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		49 125 130 182 205 3045 9035 9051 9088 9117 9151 11040 11091 11147 
+	}
+	manpower=631955
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,47 @@
+characters = {
+	SCO_st_john_da_vinci_kay = {
+		name = SCO_st_john_da_vinci_kay
+		portraits={
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_st_john_da_vinci_kay.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = SCO_st_john_da_vinci_kay_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = SCO_st_john_da_vinci_kay_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = SCO_st_john_da_vinci_kay_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = SCO_st_john_da_vinci_kay_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = SCO_st_john_da_vinci_kay_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = SCO_st_john_da_vinci_kay_desc
+			traits={
+			}
+		}
+	}
+}

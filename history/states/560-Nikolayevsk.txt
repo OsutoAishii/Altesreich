@@ -1,0 +1,20 @@
+
+state={
+	id=560
+	name="STATE_560"
+	resources={
+		steel=18.000
+	}
+
+	history={
+
+	}
+
+	provinces={
+		3664 4290 4701 4844 7748 9659 10571 10577 12263 12559 12569 12638 14421 14423 
+	}
+	manpower=97663
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

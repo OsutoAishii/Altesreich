@@ -1,0 +1,23 @@
+state={
+	id=1346
+	name="STATE_1346"
+
+	history={
+		owner = SFC
+		add_core_of = SFC
+		victory_points = {
+		    14350 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		2126 8138 12391 12985 14349 14350 14351 
+	}
+	manpower=2497422
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

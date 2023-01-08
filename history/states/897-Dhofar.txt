@@ -1,0 +1,25 @@
+
+state={
+	id=897
+	name="STATE_897"
+
+    history={
+		owner = NML
+		add_core_of = NML
+		victory_points = {
+			2103 1
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		2059 2103 13565 13567 
+	}
+	manpower=340815
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

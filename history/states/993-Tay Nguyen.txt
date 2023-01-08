@@ -1,0 +1,29 @@
+
+state={
+	id=993
+	name="STATE_993"
+	resources={
+		rubber=33.000
+	}
+
+	history={
+		victory_points = {
+			1605 2
+		}
+		victory_points = {
+			7271 2
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		1248 1328 1400 1605 4363 7271 7380 12109 12176 13294 
+	}
+	manpower=1250000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

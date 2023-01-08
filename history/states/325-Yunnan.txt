@@ -1,0 +1,38 @@
+
+state={
+	id=325
+	name="STATE_325"
+	resources={
+		tungsten=2.000
+	}
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			7446 10 
+		}
+		victory_points = {
+			7606 3 
+		}
+		victory_points = {
+			5072 2 
+		}
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 3
+
+		}
+
+	}
+
+	provinces={
+		1114 1172 1196 1319 1383 1522 1653 4192 4501 4504 5072 7446 7606 8023 10346 10776 10819 12262 12282 12841 
+	}
+	manpower=10994500
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,47 @@
+characters = {
+	FIN_ernst_von_born = {
+		name = FIN_ernst_von_born
+		portraits={
+			civilian = {
+				large = "gfx/leaders/FIN/FIN_ernst_von_born.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = FIN_ernst_von_born_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = FIN_ernst_von_born_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = FIN_ernst_von_born_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = FIN_ernst_von_born_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = FIN_ernst_von_born_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = FIN_ernst_von_born_desc
+			traits={
+			}
+		}
+	}
+}

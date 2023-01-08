@@ -1,0 +1,26 @@
+
+state={
+	id=800
+	name="STATE_800"
+
+	history={
+		owner = CPT
+		add_core_of = CPT
+		victory_points = {
+			7900 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		8245 14261 
+	}
+	manpower=156700
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

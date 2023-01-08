@@ -1,0 +1,25 @@
+state={
+	id=946
+	name="STATE_946"
+	
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			1074 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	
+	provinces={
+		1074 10907 
+	}
+	manpower=98500
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+}

@@ -1,0 +1,23 @@
+state={
+	id=1237
+	name="STATE_1237"
+
+	history={
+		owner = SCA
+		add_core_of = SCA
+		victory_points = {
+			10761 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		8133 10761 10976 12927 14043 
+	}
+	manpower=841353
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

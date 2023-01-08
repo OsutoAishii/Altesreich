@@ -1,0 +1,35 @@
+
+state={
+	id=49
+	name="STATE_49"
+	resources={
+		chromium=11.000
+		steel=7.000
+	}
+
+	history={
+		owner = OTT
+		add_core_of = OTT
+		victory_points = {
+			11784 10 
+		}
+		victory_points = {
+			9901 1
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 3
+
+		}
+
+	}
+
+	provinces={
+		6908 6925 9806 9901 11747 11784 
+	}
+	manpower=770758
+	buildings_max_level_factor=1.000
+	state_category=town
+}

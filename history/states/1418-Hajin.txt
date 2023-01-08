@@ -1,0 +1,22 @@
+state={
+	id=1418
+	name="STATE_1418"
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		901 1634 
+	}
+	manpower=37935
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

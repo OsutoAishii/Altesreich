@@ -1,0 +1,38 @@
+
+state={
+	id=340
+	name="STATE_340"
+	resources={
+		chromium=39.000
+		steel=14.000
+	}
+
+	history={
+		owner = OTT
+		add_core_of = OTT
+		victory_points = {
+			3786 5
+		}
+		victory_points = {
+			11778 2
+		}
+		victory_points = {
+			6912 2
+		}
+		victory_points = {
+			3851 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		785 947 3786 3851 6864 6912 9799 9887 9921 11778 11867 
+	}
+	manpower=1026527
+	buildings_max_level_factor=1.000
+	state_category=town
+}

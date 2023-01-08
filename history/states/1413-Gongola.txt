@@ -1,0 +1,28 @@
+
+state={
+	id=1413
+	name="STATE_1413"
+
+	history={
+		owner = WAF
+		add_core_of = WAF
+		victory_points = {
+			10820 2 
+		}
+		victory_points = {
+			14557 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1992 4889 8021 10820 14556 14557 14560 14563 
+	}
+	manpower=3178950
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

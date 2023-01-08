@@ -1,0 +1,30 @@
+capital = 278
+
+set_research_slots = 2
+
+set_stability = 0.40
+set_war_support = 0.10
+
+set_politics = {
+	ruling_party = social_conservatism
+	elections_allowed = no
+}
+
+recruit_character = LAP_victoria_louise
+
+set_cosmetic_tag = LAP_ARA
+
+set_popularities = {
+	anarchism = 0
+	communism = 0
+	syndicalism = 5
+	social_democracy = 15
+	social_liberalism = 25
+	social_conservatism = 40
+	authoritarian_democracy = 5
+	absolutism = 5
+	authoritarian_nationalism = 5
+	farsightism = 0
+	accelerationism = 0
+	burgundian_system = 0
+}

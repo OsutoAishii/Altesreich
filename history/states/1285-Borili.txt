@@ -1,0 +1,21 @@
+state={
+	id=1285
+	name="STATE_1285"
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		432 508 576 1290 1318 3502 4351 9462 9526 11510 11552 
+	}
+	manpower=54809
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

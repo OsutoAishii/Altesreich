@@ -1,0 +1,28 @@
+state={
+	id=937
+	name="STATE_937"
+	
+	history={
+		owner = CAR
+		add_core_of = CAR
+		victory_points = {
+			12816 1
+		}
+		buildings = {
+			infrastructure = 1
+			12816 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+	
+	provinces={
+		12816 
+	}
+	manpower=5118
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

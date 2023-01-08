@@ -1,0 +1,30 @@
+state={
+	id=1484
+	name="STATE_1484"
+
+	history={
+		owner = STI
+		add_core_of = STI
+		victory_points = {
+			1321 5
+		}
+		victory_points = {
+			1238 3
+		}
+		victory_points = {
+			7391 2
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1238 1321 7391 7447 14803 14804 
+	}
+	manpower=1687406
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

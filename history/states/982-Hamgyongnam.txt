@@ -1,0 +1,31 @@
+
+state={
+	id=982
+	name="STATE_982"
+
+	resources = {
+			tungsten = 11
+			steel = 3
+	}
+	
+	history={
+		victory_points = {
+		    6928 3
+		}
+		victory_points = {
+		    6922 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	
+	provinces={
+		852 959 3852 3981 6922 6928 7070 10083 11878 13279 13280 
+	}
+	manpower=827823
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

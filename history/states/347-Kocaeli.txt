@@ -1,0 +1,42 @@
+
+state={
+	id=347
+	name="STATE_347"
+	manpower = 807660
+	resources={
+		chromium=19 # was: 26
+		steel = 9
+	}
+	
+	state_category = rural
+
+	history={
+		owner = OTT
+		add_core_of = OTT
+		victory_points = {
+			11811 3
+		}
+		victory_points = {
+			890 2
+		}
+		victory_points = {
+			3905 2
+		}
+		victory_points = {
+			3919 2
+		}
+		victory_points = {
+			11866 2
+		}
+		buildings = {
+			infrastructure = 2
+			904 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces={
+		890 904 3905 3919 6871 11811 11866 11883 
+	}
+}

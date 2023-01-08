@@ -1,0 +1,29 @@
+state={
+	id=1210
+	name="STATE_1210"
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		add_core_of = AFR
+		victory_points = {
+			13880 3
+		}
+		victory_points = {
+			4046 2
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4046 4131 7065 7166 10078 13880 
+	}
+	manpower=915835
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

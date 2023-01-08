@@ -1,0 +1,42 @@
+
+state={
+	id=13
+	name="STATE_13"
+	resources={
+		steel=2.000
+	}
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			3152 5 
+		}
+		victory_points = {
+			3174 2
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 2
+			3152 = {
+				naval_base = 3
+				coastal_bunker = 1
+
+			}
+			3174 = {
+				naval_base = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		83 496 567 3074 3152 3174 11291 11426 
+	}
+	manpower=893926
+	buildings_max_level_factor=1.000
+	state_category=town
+}

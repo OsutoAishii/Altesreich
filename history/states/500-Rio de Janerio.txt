@@ -1,0 +1,32 @@
+
+state={
+	id=500
+	name="STATE_500"
+
+	history={
+		owner = BZL
+		add_core_of = BZL
+		victory_points = {
+			10980 15
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 2
+			air_base = 7
+			10980 = {
+				naval_base = 7
+
+			}
+
+		}
+	}
+
+	provinces={
+		5172 8190 10980 12996 
+	}
+	manpower=6665500
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

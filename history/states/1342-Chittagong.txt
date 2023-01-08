@@ -1,0 +1,28 @@
+state={
+	id=1342
+	name="STATE_1342"
+
+	history={
+		owner = EID
+		add_core_of = EID
+		victory_points = {
+			9991 5
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			9991 = {
+				naval_base = 3
+
+			}
+
+		}
+	}
+
+	provinces={
+		1142 9991 11968 14337 14338 
+	}
+	manpower=3116000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

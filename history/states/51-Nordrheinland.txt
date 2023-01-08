@@ -1,0 +1,40 @@
+
+state={
+	id=51
+	name="STATE_51"
+	resources={
+		steel=16.000
+	}
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			587 10 
+		}
+		victory_points = {
+			13264 5 
+		}
+		victory_points = {
+			3547 3 
+		}
+		victory_points = {
+			9522 2 
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 3
+			industrial_complex = 3
+
+		}
+
+	}
+
+	provinces={
+		587 3444 3547 9522 13264 
+	}
+	manpower=2560310
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,28 @@
+state={
+	id=1121
+	name="STATE_1121"
+	
+	history={
+		owner = WAF
+		add_core_of = WAF
+		victory_points = {
+			2094 2
+		}
+		victory_points = {
+			13652 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	
+
+	}
+	
+	provinces={
+		2094 13652 13654 
+	}
+	manpower=1438572
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

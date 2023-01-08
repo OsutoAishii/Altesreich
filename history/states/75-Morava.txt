@@ -1,0 +1,40 @@
+
+state={
+	id=75
+	name="STATE_75"
+	resources={
+		steel=4.000
+		oil=2.000
+	}
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			3569 5 
+		}
+		victory_points = {
+			6590 3
+		}
+		victory_points = {
+			3553 2 
+		}
+		victory_points = {
+			6576 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			air_base = 5
+
+		}
+
+	}
+
+	provinces={
+		569 3553 3569 3718 6576 6590 11401 11511 13636 15104 
+	}
+	manpower=1898400
+	buildings_max_level_factor=1.000
+	state_category=city
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=696
+	name="STATE_696"
+
+	history={
+		owner = CAS
+		add_core_of = CAS
+		victory_points = {
+			13010 1
+		}
+		buildings = {
+			infrastructure = 2
+			13010 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		13010 
+	}
+	manpower=29516
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

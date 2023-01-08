@@ -1,0 +1,33 @@
+
+state={
+	id=401
+	name="STATE_401"
+	resources={
+		steel=40.000
+		tungsten=34.000
+	}
+
+	history={
+		owner = RUS
+		add_core_of = RUS
+		victory_points = {
+			11523 3 
+		}
+		victory_points = {
+			6502 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		499 3490 3551 6430 6574 6601 9432 9473 9577 11421 11460 11523 
+	}
+	manpower=927795
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

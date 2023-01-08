@@ -1,0 +1,33 @@
+
+state={
+	id=27
+	name="STATE_27"
+	resources={
+		aluminium=11.000
+	}
+
+	history={
+		owner = BUR
+		add_core_of = BUR
+		victory_points = {
+			667 1 
+		}
+		victory_points = {
+			3506 1 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+
+		}
+
+	}
+
+	provinces={
+		648 667 3506 3669 3681 9490 9625 9644 11628 11794 
+	}
+	manpower=1370800
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

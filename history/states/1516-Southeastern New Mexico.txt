@@ -1,0 +1,24 @@
+
+state={
+	id=1516
+	name="STATE_1516"
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		victory_points = {
+			12791 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+
+	provinces={
+		3867 3883 7891 8070 12720 12791 
+	}
+	manpower=103432
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

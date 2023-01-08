@@ -1,0 +1,32 @@
+
+state={
+	id=807
+	name="STATE_807"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			11640 2 
+		}
+		victory_points = {
+			6934 2 
+		}
+		victory_points = {
+			6542 1
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+
+		}
+
+	}
+
+	provinces={
+		3679 3692 6542 6712 6934 11640 
+	}
+	manpower=288741
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

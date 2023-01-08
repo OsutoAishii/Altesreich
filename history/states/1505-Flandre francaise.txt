@@ -1,0 +1,40 @@
+state={
+	id=1505
+	name="STATE_1505"
+
+	history={
+		owner = BUR
+		add_core_of = BUR
+		victory_points = {
+			11483 5 
+		}
+		victory_points = {
+			575 2 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 10
+			575 = {
+				naval_base = 6
+
+			}
+			11483 = {
+				bunker = 1
+
+			}
+			575 = {
+				bunker = 1
+
+			}
+
+		}
+	}
+
+	provinces={
+		575 11483 
+	}
+	manpower=1237472
+	buildings_max_level_factor=1.000
+	state_category=city
+}

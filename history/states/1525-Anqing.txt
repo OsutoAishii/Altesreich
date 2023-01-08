@@ -1,0 +1,22 @@
+state={
+	id=1525
+	name="STATE_1525"
+
+	history={
+		victory_points = {
+			1083 2 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1083 4203 7035 
+	}
+	manpower=1053200
+	buildings_max_level_factor=1.000
+	state_category=town
+}

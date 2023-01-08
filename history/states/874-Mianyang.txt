@@ -1,0 +1,30 @@
+
+state={
+	id=874
+	name="STATE_874"
+
+	history={
+		victory_points = {
+			1367 3 
+		}
+		victory_points = {
+			7256 2 
+		}
+		victory_points = {
+			15188 2 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1367 2091 7256 10132 12274 12767 15187 15188 
+	}
+	manpower=12700000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

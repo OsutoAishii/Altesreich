@@ -1,0 +1,27 @@
+
+state={
+	id=62
+	name="STATE_62"
+
+	history={
+		owner = PRU
+		add_core_of = PRU
+		victory_points = {
+			9388 2 
+		}
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+
+		}
+
+	}
+
+	provinces={
+		349 3258 3340 9388 13262 
+	}
+	manpower=624417
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

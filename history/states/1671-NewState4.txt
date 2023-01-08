@@ -1,0 +1,22 @@
+
+state={
+	id=1671
+	name="STATE_1671"
+	resources={
+		steel=7.000
+		chromium=2.000
+	}
+
+	history={
+		owner = NML
+		add_core_of = NML
+	}
+
+	provinces={
+		30 103 124 162 167 203 2992 3055 3069 3097 3107 3156 3158 3193 6061 6076 6087 6128 6137 6142 6179 9112 9189 9223 11030 11115 11130 11167 11204 13245 13664 
+	}
+	manpower=121737
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

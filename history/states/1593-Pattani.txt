@@ -1,0 +1,23 @@
+state={
+	id=1593
+	name="STATE_1593"
+
+	history={
+		owner = MLC
+		add_core_of = MLC
+		victory_points = {
+			15121 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+	provinces={
+		1279 4297 15121 
+	}
+	manpower=718077
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

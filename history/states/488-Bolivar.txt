@@ -1,0 +1,30 @@
+
+state={
+	id=488
+	name="STATE_488"
+
+	history={
+		owner = NGR
+		add_core_of = NGR
+		victory_points = {
+			14938 3
+		}
+		victory_points = {
+			10767 1
+		}
+		victory_points = {
+			5317 1
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+	}
+
+	provinces={
+		5317 8050 10736 10767 10849 10879 14930 14931 14932 14933 14934 14938 14942 
+	}
+	manpower=245642
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=382
+	name="STATE_382"
+	resources={
+		oil=14.000
+	}
+
+	history={
+		owner = SPA
+		add_core_of = SPA
+		victory_points = {
+			1827 5 
+		}
+		victory_points = {
+			10588 3 
+		}
+		victory_points = {
+			3869 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		1809 1827 3869 4723 4760 7780 10588 10640 11772 12570 12642 
+	}
+	manpower=1035790
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

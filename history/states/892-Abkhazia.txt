@@ -1,0 +1,27 @@
+
+state={
+	id=892
+	name="STATE_892"
+
+	history={
+		owner = OTT
+		add_core_of = RUS
+		add_compliance = 100
+		force_disable_resistance = OTT
+		victory_points = {
+			11617 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		11599 11617 11647 
+	}
+	manpower=62914
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

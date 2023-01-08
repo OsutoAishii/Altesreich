@@ -1,0 +1,32 @@
+
+state={
+	id=691
+	name="STATE_691"
+	resources={
+		oil=12.000
+	}
+
+	history={
+		owner = CAR
+		add_core_of = CAR
+		victory_points = {
+			3284 1 
+		}
+		buildings = {
+			infrastructure = 1
+			3284 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3284 
+	}
+	manpower=408500
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

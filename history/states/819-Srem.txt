@@ -1,0 +1,21 @@
+
+state={
+	id=819
+	name="STATE_819"
+
+	history={
+		owner = OTT
+		add_core_of = KRA
+		buildings = {
+			infrastructure = 1
+
+		}	
+	}
+
+	provinces={
+		11580
+	}
+	manpower=63985
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

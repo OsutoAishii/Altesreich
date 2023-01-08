@@ -1,0 +1,33 @@
+
+state={
+	id=150
+	name="STATE_150"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			6033 2 
+		}
+		victory_points = {
+			165 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+
+	}
+
+	provinces={
+		37 136 141 165 3013 3131 6033 9163 11043 11076 11141 11210 13104 13108 13110 13111 13112 
+	}
+	manpower=211100
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

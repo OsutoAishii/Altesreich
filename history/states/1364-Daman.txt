@@ -1,0 +1,30 @@
+
+state={
+	id=1364
+	name="STATE_1364"
+
+	history={
+		owner = CID
+		add_core_of = CID
+		victory_points = {
+			14393 1 
+		}
+		buildings = {
+			infrastructure = 1
+			14393 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		4187 7150 14393 
+	}
+	manpower=191173
+	buildings_max_level_factor=1.000
+	state_category=enclave
+	local_supplies=0.000
+}

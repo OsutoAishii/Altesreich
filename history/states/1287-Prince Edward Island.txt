@@ -1,0 +1,24 @@
+state={
+	id=1287
+	name="STATE_1287"
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		victory_points = {
+			4360 1
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4360 
+	}
+	manpower=156947
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

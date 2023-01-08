@@ -1,0 +1,33 @@
+
+state={
+	id=745
+	name="STATE_745"
+
+	history={
+		victory_points = {
+			1150 5
+		}
+		victory_points = {
+			15229 2
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			industrial_complex = 1
+			15229 = {
+				naval_base = 5
+				coastal_bunker = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1150 6851 15229 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

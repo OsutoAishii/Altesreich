@@ -1,0 +1,42 @@
+
+state={
+	id=842
+	name="STATE_842"
+	resources={
+		steel=16.000
+	}
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		add_core_of = AFR
+		victory_points = {
+			7132 5 
+		}
+		victory_points = {
+			13875 2 
+		}
+		victory_points = {
+			13872 2 
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			7132 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3991 4116 4150 7008 7132 10045 11923 13867 13868 13869 13872 13874 13875 13879 
+	}
+	manpower=772486
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

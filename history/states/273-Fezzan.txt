@@ -1,0 +1,20 @@
+
+state={
+	id=273
+	name="STATE_273"
+
+	history={
+		owner = OTT
+		add_compliance = 100
+		force_disable_resistance = OTT
+		add_core_of = AFR
+	}
+
+	provinces={
+		5004 
+	}
+	manpower=25000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable=yes
+}

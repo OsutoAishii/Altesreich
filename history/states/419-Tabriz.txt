@@ -1,0 +1,38 @@
+
+state={
+	id=419
+	name="STATE_419"
+
+	history={
+		owner = OTT
+		add_core_of = PRS
+		add_compliance = 50
+		victory_points = {
+			14973 5
+		}
+		victory_points = {
+			14974 3
+		}
+		victory_points = {
+			4755 3
+		}
+		victory_points = {
+			4553 2
+		}
+		victory_points = {
+			14975 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		1896 4553 4755 4825 4901 10454 12793 12861 13120 14972 14973 14974 14975 
+	}
+	manpower=1431714
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

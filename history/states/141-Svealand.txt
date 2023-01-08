@@ -1,0 +1,47 @@
+
+state={
+	id=141
+	name="STATE_141"
+	resources={
+		steel=24.000
+		aluminium=2.000
+	}
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			6050 20 
+		}
+		victory_points = {
+			9149 3
+		}
+		victory_points = {
+			35 2
+		}
+		victory_points = {
+			161 1
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 6
+			6050 = {
+				naval_base = 5
+				coastal_bunker = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		35 161 3106 3182 6050 6127 6209 9109 9149 9185 11082 11163 11188 11278 13097 13098 
+	}
+	manpower=1188181
+	buildings_max_level_factor=1.000
+	state_category=city
+}

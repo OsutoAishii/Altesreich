@@ -1,0 +1,29 @@
+
+state={
+	id=730
+	name="STATE_730"
+
+	history={
+		owner = BYZ
+		add_core_of = BYZ
+		victory_points = {
+			373 1
+		}
+		buildings = {
+			infrastructure = 1
+			373 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		373 
+	}
+	manpower=3426
+	buildings_max_level_factor=1.000
+	state_category=tiny_island
+}

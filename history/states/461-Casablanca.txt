@@ -1,0 +1,33 @@
+
+state={
+	id=461
+	name="STATE_461"
+
+	history={
+		owner = AFR
+		add_core_of = AFR
+		victory_points = {
+			7069 10 
+		}
+		victory_points = {
+			13671 2
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			air_base = 4
+			7069 = {
+				naval_base = 4
+
+			}
+
+		}
+	}
+
+	provinces={
+		7069 13670 13671 
+	}
+	manpower=3197719
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

@@ -1,0 +1,22 @@
+
+state={
+	id=1275
+	name="STATE_1275"
+
+	history={
+		owner = SCA
+		add_core_of = SCA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		14153 14161 14182 
+	}
+	manpower=832112
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

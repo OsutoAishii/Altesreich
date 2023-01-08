@@ -1,0 +1,787 @@
+technologies = {
+
+    @1450 = 0
+	@1456 = 2
+	@1458 = 4
+	@1460 = 6
+	@1462 = 8
+	@1464 = 10
+
+	#城镇化
+    social_theory_urbanization = {
+        research_cost = 0.8
+        start_year = 1450
+        path = {
+            leads_to_tech = social_theory_town_planning
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_bureaucratic_system
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 2 y = @1450 }
+        }
+        categories = { social_theory theory }
+		#改变所有建筑物的建造速度
+		production_speed_buildings_factor = 0.1
+    }
+	#城镇规划
+    social_theory_town_planning = {
+        research_cost = 0.9
+        start_year = 1456
+        path = {
+            leads_to_tech = social_theory_town_planning_ii
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 0 y = @1456 }
+        }
+        categories = { social_theory theory }
+		#以百分比更改我们每个州的建筑插槽数量
+		global_building_slots_factor = 0.2
+    }
+	#城镇规划II
+    social_theory_town_planning_ii = {
+        research_cost = 0.9
+        start_year = 1458
+        path = {
+            leads_to_tech = social_theory_town_planning_iii
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 0 y = @1458 }
+        }
+        categories = { social_theory theory }
+		#以百分比更改我们每个州的建筑插槽数量
+		global_building_slots_factor = 0.2
+    }
+	#城镇规划III
+    social_theory_town_planning_iii = {
+        research_cost = 0.9
+        start_year = 1460
+        path = {
+            leads_to_tech = social_theory_town_planning_iv
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 0 y = @1460 }
+        }
+        categories = { social_theory theory }
+		#以百分比更改我们每个州的建筑插槽数量
+		global_building_slots_factor = 0.2
+    }
+	#城镇规划IV
+    social_theory_town_planning_iv = {
+        research_cost = 0.9
+        start_year = 1462
+        path = {
+            leads_to_tech = social_theory_town_planning_v
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 0 y = @1462 }
+        }
+        categories = { social_theory theory }
+		#以百分比更改我们每个州的建筑插槽数量
+		global_building_slots_factor = 0.2
+    }
+	#城镇规划V
+    social_theory_town_planning_v = {
+        research_cost = 0.9
+        start_year = 1464
+        folder = {
+            name = industry_folder
+            position = { x = 0 y = @1464 }
+        }
+        categories = { social_theory theory }
+		#以百分比更改我们每个州的建筑插槽数量
+		global_building_slots_factor = 0.2
+    }
+    #官僚体系
+    social_theory_bureaucratic_system = {
+        research_cost = 1.1
+        start_year = 1456
+        path = {
+            leads_to_tech = social_theory_written_law
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_international_trade
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_centralization
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_colonization
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 4 y = @1456 }
+        }
+        categories = { social_theory theory }
+		#按百分比修改政治权力的每日收益
+		political_power_factor = 0.2
+        #修改国家每周的稳定收益
+        stability_weekly = 0.01
+    }
+    #成文法律
+    social_theory_written_law = {
+        research_cost = 1.1
+        start_year = 1458
+        path = {
+            leads_to_tech = social_theory_written_law_ii
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 2 y = @1458 }
+        }
+        categories = { social_theory theory }
+		#按百分比修改国家的每周稳定性增益
+		stability_weekly_factor = 0.3
+    }
+    #成文法律II
+    social_theory_written_law_ii = {
+        research_cost = 1.1
+        start_year = 1460
+        folder = {
+            name = industry_folder
+            position = { x = 2 y = @1460 }
+        }
+        categories = { social_theory theory }
+		#按百分比修改国家的每周稳定性增益
+		stability_weekly_factor = 0.5
+    }
+    #国际贸易
+    social_theory_international_trade = {
+        research_cost = 1
+        start_year = 1458
+        path = {
+            leads_to_tech = social_theory_monetary_standard
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 4 y = @1458 }
+        }
+        categories = { social_theory theory }
+    }
+    #货币本位制
+    social_theory_monetary_standard = {
+        research_cost = 1
+        start_year = 1460
+        path = {
+            leads_to_tech = social_theory_banking
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 4 y = @1460 }
+        }
+        categories = { social_theory theory }
+    }
+    #银行业
+    social_theory_banking = {
+        research_cost = 1
+        start_year = 1462
+        path = {
+            leads_to_tech = social_theory_mutual_funds
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_macroeconomics
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 4 y = @1462 }
+        }
+        categories = { social_theory theory }
+    }
+    #共同基金
+    social_theory_mutual_funds = {
+        research_cost = 1
+        start_year = 1464
+        folder = {
+            name = industry_folder
+            position = { x = 2 y = @1464 }
+        }
+        categories = { social_theory theory }
+    }
+    #宏观经济学
+    social_theory_macroeconomics = {
+        research_cost = 1
+        start_year = 1464
+        folder = {
+            name = industry_folder
+            position = { x = 4 y = @1464 }
+        }
+        categories = { social_theory theory }
+    }
+    #中央集权
+    social_theory_centralization = {
+        research_cost = 1.5
+        start_year = 1458
+        path = {
+            leads_to_tech = social_theory_central_archives
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 6 y = @1458 }
+        }
+        categories = { social_theory theory }
+		#修正执政党的声望所获得的稳定性
+		party_popularity_stability_factor = 0.3
+        #按百分比修改政治权力的每日收益
+        political_power_factor = 0.3
+        #按百分比修改国家的每周稳定性增益
+        stability_weekly_factor = 0.1
+    }
+    #中央档案馆
+    social_theory_central_archives = {
+        research_cost = 2
+        start_year = 1462
+        path = {
+            leads_to_tech = social_theory_id
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 6 y = @1462 }
+        }
+        categories = { social_theory theory }
+        #按百分比修改政治权力的每日收益
+        political_power_factor = 0.1
+        #改变研究速度
+        research_speed_factor = 0.3
+        #按百分比更改国家的解码能力
+        decryption_factor = 0.5
+        #按百分比更改国家/地区的加密功能
+        encryption_factor = 0.5
+    }
+    #身份证件
+    social_theory_id = {
+        research_cost = 1
+        start_year = 1464
+        folder = {
+            name = industry_folder
+            position = { x = 6 y = @1464 }
+        }
+        categories = { social_theory theory }
+        #按百分比修改政治权力的每日收益
+        political_power_factor = 0.1
+        #修改反情报
+        intelligence_agency_defense = 1
+        #修改根除抵抗的有效性
+        root_out_resistance_effectiveness_factor = 0.3
+        #改变发现敌方特工的几率
+        enemy_operative_detection_chance = 10
+        #改变敌方特工被俘虏的几率
+        enemy_operative_capture_chance_factor = 0.1
+    }
+    #殖民主义
+    social_theory_colonization = {
+        research_cost = 0.9
+        start_year = 1458
+        path = {
+            leads_to_tech = social_theory_colonization_ii
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 8 y = @1458 }
+        }
+        categories = { social_theory theory }
+        #抵抗下降速度
+        resistance_decay = 0.1
+        #顺从度增长速度
+        compliance_growth = 0.1
+    }
+    #殖民主义II
+    social_theory_colonization_ii = {
+        research_cost = 1.1
+        start_year = 1460
+        path = {
+            leads_to_tech = social_theory_colonization_iii
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 8 y = @1460 }
+        }
+        categories = { social_theory theory }
+        #抵抗下降速度
+        resistance_decay = 0.2
+        #顺从度增长速度
+        compliance_growth = 0.2
+    }
+    #殖民主义III
+    social_theory_colonization_iii = {
+        research_cost = 1.5
+        start_year = 1462
+        path = {
+            leads_to_tech = social_theory_imperialism
+            research_cost_coeff = 0.5
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 8 y = @1462 }
+        }
+        categories = { social_theory theory }
+        #抵抗下降速度
+        resistance_decay = 0.3
+        #顺从度增长速度
+        compliance_growth = 0.3
+    }
+    #帝国主义
+    social_theory_imperialism = {
+        research_cost = 2.2
+        start_year = 1464
+        folder = {
+            name = industry_folder
+            position = { x = 8 y = @1464 }
+        }
+        categories = { social_theory theory }
+        #抵抗下降速度
+        resistance_decay = 1
+        #顺从度增长速度
+        compliance_growth = 1
+    }
+    #民族主义
+    social_theory_nationalism = {
+        research_cost = 1.2
+        start_year = 1460
+        path = {
+            leads_to_tech = social_theory_pan_nationalism
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 10 y = @1460 }
+        }
+        categories = { social_theory theory }
+        #修改国家每周的稳定收益
+        stability_weekly = -0.005
+        #按百分比修改该国的每周战争支持收益
+        war_support_weekly_factor = 0.3
+        #正当化战争目标所需时间
+        justify_war_goal_time = -0.2
+        #抵抗增长速度
+        resistance_growth = 0.1
+        #顺从度增长速度
+        compliance_growth = -0.1
+    }
+    #泛民族主义
+    social_theory_pan_nationalism = {
+        research_cost = 1.5
+        start_year = 1462
+        path = {
+            leads_to_tech = social_theory_changeable_alliance
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 10 y = @1462 }
+        }
+        categories = { social_theory theory }
+        #修改国家每周的稳定收益
+        stability_weekly = -0.01
+        #按百分比修改该国的每周战争支持收益
+        war_support_weekly_factor = 0.5
+        #制造战争目标的紧张度限制
+        justify_war_goal_time = 0
+        #正当化战争目标所需时间
+        justify_war_goal_time = -0.75
+        #月度人力
+        monthly_population = 0.5
+    }
+    #多边联盟
+    social_theory_changeable_alliance = {
+        research_cost = 0.8
+        start_year = 1464
+        folder = {
+            name = industry_folder
+            position = { x = 10 y = @1464 }
+        }
+        categories = { social_theory theory }
+        #修改国家每周的稳定收益
+        stability_weekly = 0.005
+        #加入阵营紧张度
+        join_faction_tension = 0
+        #改变“改善关系”外交行动的意见
+        opinion_gain_monthly_factor = 0.5
+    }
+    #理性主义
+    social_theory_rationalism = {
+        research_cost = 1
+        start_year = 1450
+        path = {
+            leads_to_tech = social_theory_democratic
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_academic_circle
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 14 y = @1450 }
+        }
+        categories = { social_theory theory }
+    }
+    #民主
+    social_theory_democratic = {
+        research_cost = 1.1
+        start_year = 1456
+        path = {
+            leads_to_tech = social_theory_nationalism
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_mass_communication
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 12 y = @1456 }
+        }
+        categories = { social_theory theory }
+        #修正执政党的声望所获得的稳定性
+        party_popularity_stability_factor = 1
+    }
+    #大众传播
+    social_theory_mass_communication = {
+        research_cost = 1.2
+        start_year = 1458
+        path = {
+            leads_to_tech = social_theory_mass_publicity
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_egalitarianism
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 12 y = @1458 }
+        }
+        categories = { social_theory theory }
+        #按百分比修改国家的每周稳定性增益
+        stability_weekly_factor = 0.2
+        #按百分比修改该国的每周战争支持收益
+        war_support_weekly_factor = 0.2
+        #意识形态抵制力度
+        drift_defence_factor = 0.2
+    }
+    #大众宣传
+    social_theory_mass_publicity = {
+        research_cost = 1.3
+        start_year = 1460
+        path = {
+            leads_to_tech = social_theory_public_monitoring
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 12 y = @1460 }
+        }
+        categories = { social_theory theory }
+        #按百分比修改该国的每周战争支持收益
+        war_support_weekly_factor = 0.4
+        #意识形态抵制力度
+        drift_defence_factor = 0.4
+        #适役人口修正
+        conscription_factor = 0.1
+    }
+    #大众监控
+    social_theory_public_monitoring = {
+        research_cost = 1.5
+        start_year = 1462
+        folder = {
+            name = industry_folder
+            position = { x = 12 y = @1462 }
+        }
+        categories = { social_theory theory }
+        #意识形态抵制力度
+        drift_defence_factor = 0.75
+        #非核心人力
+        non_core_manpower = 0.1
+        #工厂产出
+        industrial_capacity_factory = 0.2
+        #船坞产出
+        industrial_capacity_dockyard = 0.2
+        #抵抗下降速度
+        resistance_decay = 0.1
+    }
+    #平等主义
+    social_theory_egalitarianism = {
+        research_cost = 2
+        start_year = 1460
+        path = {
+            leads_to_tech = social_theory_human_rights
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_labour_movement
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 14 y = @1460 }
+        }
+        categories = { social_theory theory }
+        #抵抗下降速度
+        resistance_decay = 0.1
+        #顺从度增长速度
+        compliance_growth = 0.1
+    }
+    #人权
+    social_theory_human_rights = {
+        research_cost = 1.3
+        start_year = 1462
+        path = {
+            leads_to_tech = social_theory_anarchy
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 14 y = @1462 }
+        }
+        categories = { social_theory theory }
+        #抵抗下降速度
+        resistance_decay = 0.1
+        #顺从度增长速度
+        compliance_growth = 0.1
+        #改变研究速度
+        research_speed_factor = 0.05
+    }
+    #无政府主义
+    social_theory_anarchy = {
+        research_cost = 2
+        start_year = 1464
+        folder = {
+            name = industry_folder
+            position = { x = 14 y = @1464 }
+        }
+        categories = { social_theory theory }
+        #工厂产出
+        industrial_capacity_factory = -0.2
+        #船坞产出
+        industrial_capacity_dockyard = -0.2
+        #适役人口修正
+        conscription_factor = 0.05
+    }
+    #学术界
+    social_theory_academic_circle = {
+        research_cost = 1.5
+        start_year = 1456
+        path = {
+            leads_to_tech = social_theory_scientism
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_empiricism
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_romanticism
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 18 y = @1456 }
+        }folder = {
+            name = electronics_folder
+            position = { x = 10 y = @1450 }
+        }
+        categories = { social_theory theory }
+        #改变研究速度
+        research_speed_factor = 0.2
+    }
+    #科学主义
+    social_theory_scientism = {
+        research_cost = 2.2
+        start_year = 1458
+        path = {
+            leads_to_tech = social_theory_farsightism
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 16 y = @1458 }
+        }
+        categories = { social_theory theory }
+        #改变研究速度
+        research_speed_factor = 0.2
+    }
+    #远视主义
+    social_theory_farsightism = {
+        research_cost = 3
+        start_year = 1460
+        folder = {
+            name = industry_folder
+            position = { x = 16 y = @1460 }
+        }
+        categories = { social_theory theory }
+        #改变研究速度
+        research_speed_factor = 0.3
+    }
+    #经验主义
+    social_theory_empiricism = {
+        research_cost = 2.3
+        start_year = 1458
+        path = {
+            leads_to_tech = social_theory_dialectics
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 18 y = @1458 }
+        }
+        categories = { social_theory theory }
+        #生产效率保持
+        line_change_production_efficiency_factor = 0.3
+        #生产效率上限
+        production_factory_max_efficiency_factor = 0.1
+        #生产效率增长
+        production_factory_efficiency_gain_factor = 0.2
+        #改变研究速度
+        research_speed_factor = 0.03
+    }
+    #辩证法
+    social_theory_dialectics = {
+        research_cost = 1.3
+        start_year = 1460
+        path = {
+            leads_to_tech = social_theory_labour_movement
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 18 y = @1460 }
+        }
+        categories = { social_theory theory }
+        #按百分比修改政治权力的每日收益
+        political_power_factor = 0.3
+    }
+    #劳工运动
+    social_theory_labour_movement = {
+        research_cost = 3
+        start_year = 1462
+        folder = {
+            name = industry_folder
+            position = { x = 18 y = @1462 }
+        }
+        categories = { social_theory theory }
+        #生产效率保持
+        line_change_production_efficiency_factor = 0.2
+        #工厂产出
+        industrial_capacity_factory = 0.2
+        #船坞产出
+        industrial_capacity_dockyard = 0.2
+        #生产效率上限
+        production_factory_max_efficiency_factor = 0.2
+        #生产效率增长
+        production_factory_efficiency_gain_factor = 0.2
+        #舰船改造花费
+        refit_ic_cost = 0.2
+        #舰船改造速度
+        refit_speed = 0.2
+        #舰船修理速度
+        repair_speed_factor = 0.2
+    }
+    #浪漫主义
+    social_theory_romanticism = {
+        research_cost = 1.5
+        start_year = 1458
+        path = {
+            leads_to_tech = social_theory_realism
+            research_cost_coeff = 1
+        }
+        path = {
+            leads_to_tech = social_theory_surrealism
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 20 y = @1458 }
+        }
+        categories = { social_theory theory }
+        #按百分比修改国家的每周稳定性增益
+        stability_weekly_factor = 0.2
+    }
+    #现实主义
+    social_theory_realism = {
+        research_cost = 1.4
+        start_year = 1460
+        path = {
+            leads_to_tech = social_theory_labour_movement
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 20 y = @1460 }
+        }
+        categories = { social_theory theory }
+        #按百分比修改政治权力的每日收益
+        political_power_factor = 0.2
+    }
+    #超现实主义
+    social_theory_surrealism = {
+        research_cost = 0.9
+        start_year = 1460
+        path = {
+            leads_to_tech = social_theory_accelerationism
+            research_cost_coeff = 1
+        }
+        folder = {
+            name = industry_folder
+            position = { x = 22 y = @1460 }
+        }
+        categories = { social_theory theory }
+        #按百分比修改政治权力的每日收益
+        political_power_factor = -0.2
+    }
+    #加速主义
+    social_theory_accelerationism = {
+        research_cost = 2.6
+        start_year = 1462
+        folder = {
+            name = industry_folder
+            position = { x = 22 y = @1462 }
+        }
+        categories = { social_theory theory }
+        #生产效率保持
+        line_change_production_efficiency_factor = 0.5
+        #工厂产出
+        industrial_capacity_factory = 0.5
+        #船坞产出
+        industrial_capacity_dockyard = 0.5
+        #生产效率上限
+        production_factory_max_efficiency_factor = 0.5
+        #生产效率增长
+        production_factory_efficiency_gain_factor = 0.5
+        #舰船改造花费
+        refit_ic_cost = -0.5
+        #舰船改造速度
+        refit_speed = 0.5
+        #舰船修理速度
+        repair_speed_factor = 0.5
+        #按百分比修改政治权力的每日收益
+        political_power_factor = -0.8
+        #修改国家的每周稳定性增益
+        stability_weekly = -0.025
+        #修改国家每周的战争支持收益
+        war_support_weekly = -0.01
+    }
+}

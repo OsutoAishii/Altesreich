@@ -1,0 +1,33 @@
+
+state={
+	id=814
+	name="STATE_814"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		victory_points = {
+			599 1
+		}
+		buildings = {
+			infrastructure = 1
+			599 = {
+				bunker = 1
+
+			}
+			11595 = {
+				bunker = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		599 11595 
+	}
+	manpower=327000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

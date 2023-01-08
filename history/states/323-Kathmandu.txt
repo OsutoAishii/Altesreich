@@ -1,0 +1,35 @@
+
+state={
+	id=323
+	name="STATE_323"
+	resources={
+		chromium=2.000
+	}
+
+	impassable = yes
+	history={
+		owner = WAS
+		add_core_of = WAS
+		victory_points = {
+			4987 3 
+		}
+		victory_points = {
+			13981 2
+		}
+		victory_points = {
+			13983 1
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+	}
+
+	provinces={
+		4987 5310 12892 13981 13982 13983 
+	}
+	manpower=5573791
+	buildings_max_level_factor=1.000
+	state_category=town
+}

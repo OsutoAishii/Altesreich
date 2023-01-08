@@ -1,0 +1,53 @@
+capital = 4
+
+set_research_slots = 5
+
+set_stability = 0.60
+set_war_support = 0.51
+
+set_politics = {
+	ruling_party = authoritarian_democracy
+	elections_allowed = no
+}
+
+recruit_character = AUS_maria_theresia
+
+set_cosmetic_tag = HRE
+
+set_popularities = {
+	anarchism = 5
+	communism = 0
+	syndicalism = 5
+	social_democracy = 8
+	social_liberalism = 10
+	social_conservatism = 2
+	authoritarian_democracy = 60
+	absolutism = 2
+	authoritarian_nationalism = 3
+	farsightism = 0
+	accelerationism = 5
+	burgundian_system = 0
+}
+
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = KRA
+		autonomous_state = autonomy_collaboration_government
+	}
+	set_autonomy = {
+		target = NAS
+		autonomous_state = autonomy_collaboration_government
+	}
+	set_autonomy = {
+		target = STI
+		autonomous_state = autonomy_collaboration_government
+	}
+	else = {
+		puppet = KRA
+		puppet = NAS
+		puppet = STI
+	}
+}
