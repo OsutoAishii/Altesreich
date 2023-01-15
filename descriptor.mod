@@ -1,4 +1,4 @@
-version="a1"
+version="indev.1"
 tags={
 	"Alternative History"
 }
@@ -22,5 +22,5 @@ replace_path="gfx/flags"
 replace_path="map/strategicregions"
 replace_path="map/supplyareas"
 replace_path="map"
-name="Altesreich & Neueordnung"
-supported_version="1.12.7"
+name="Altesreich"
+supported_version="1.12.*"

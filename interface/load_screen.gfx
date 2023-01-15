@@ -85,7 +85,7 @@ spriteTypes = {
 		colortwo = { 1.0 1.0 1.0 }
 		textureFile1 = "gfx//interface//LoadingScreen_Progress_2.dds"
 		textureFile2 = "gfx//interface//LoadingScreen_Progress_1.dds"
-		size = { x = 609 y = 34 }
+		size = { x = 400 y = 96 }
 		effectFile = "gfx//FX//progress.lua"
 		#horizontal = yes
 		#steps = 1000000

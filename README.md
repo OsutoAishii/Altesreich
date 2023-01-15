@@ -1,5 +1,5 @@
-# Altesreich und Neueordnung 
-# 旧世帝国的新秩序
+# Altesreich
+# 旧世帝国
 
 # A Magic Diesel Punk Mod for HOI4
 # 一个钢铁雄心4的魔怔柴油朋克MOD

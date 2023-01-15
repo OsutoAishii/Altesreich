@@ -1,0 +1,22 @@
+spriteTypes = {
+	corneredTileSpriteType = {
+		name = "GFX_frontend_bg"
+		texturefile = "gfx/mianmenu.dds"
+		borderSize = { x=0 y=0 }
+		size = { x=1920 y=1080 }
+		tilingCenter = no
+		effectFile = "gfx/FX/buttonstate.shader"
+	}
+}
+
+#background sprite is in frontendmainviewbg.gfx
+
+spriteTypes = {
+	textSpriteType = {
+		name = "GFX_main_lobby_button_glass"
+		textureFile = "gfx/interface/main_lobby_button_glass.dds"
+		noOfFrames = 3
+		effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+	}
+}
+
