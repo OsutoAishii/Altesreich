@@ -7,6 +7,8 @@ state={
 	}
 
 	history={
+		owner = MYA
+		add_core_of = MYA
 		victory_points = {
 			1330 10
 		}

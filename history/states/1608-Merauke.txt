@@ -3,6 +3,8 @@ state={
 	name="STATE_1608"
 
 	history={
+		owner = NAT
+		add_core_of = NAT
 		victory_points = {
 			10505 1
 		}

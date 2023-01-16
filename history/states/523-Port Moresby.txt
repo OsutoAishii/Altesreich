@@ -4,6 +4,8 @@ state={
 	name="STATE_523"
 
 	history={
+		owner = NAT
+		add_core_of = NAT
 		victory_points = {
 			4329 5
 		}

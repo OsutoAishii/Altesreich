@@ -1,7 +1,7 @@
 info face="【TNO汉化修改版】方正字迹-文翰建筑体" size=-32 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=1
 common lineHeight=37 base=28 scaleW=2048 scaleH=4096 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
 page id=0 file="fzwhjz_32_1.dds"
-chars count=1762
+chars count=1764
 char id=224  x=385   y=1200  width=22    height=39    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
 char id=225  x=408   y=1200  width=22    height=39    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
 char id=232  x=431   y=1200  width=22    height=39    xoffset=-1    yoffset=-1    xadvance=20    page=0  chnl=15
@@ -1767,3 +1767,6 @@ char id=65311 x=105   y=0     width=34    height=39    xoffset=-1    yoffset=-1 
 char id=65312 x=70    y=0     width=34    height=39    xoffset=-1    yoffset=-1    xadvance=30    page=0  chnl=15
 char id=65339 x=35    y=0     width=34    height=39    xoffset=-1    yoffset=-1    xadvance=30    page=0  chnl=15
 char id=65340 x=0     y=0     width=34    height=39    xoffset=-1    yoffset=-1    xadvance=30    page=0  chnl=15
+
+char id=24950 x=771   y=1200  width=34    height=39    xoffset=-1    yoffset=-1    xadvance=30    page=0  chnl=15
+char id=38364 x=806   y=1200  width=34    height=39    xoffset=-1    yoffset=-1    xadvance=30    page=0  chnl=15

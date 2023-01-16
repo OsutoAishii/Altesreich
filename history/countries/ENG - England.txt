@@ -43,9 +43,19 @@ if = {
 		target = WID
 		autonomous_state = autonomy_collaboration_government
 	}
+	set_autonomy = {
+		target = XAL
+		autonomous_state = autonomy_collaboration_government
+	}
+	set_autonomy = {
+		target = ATL
+		autonomous_state = autonomy_collaboration_government
+	}
 	else = {
 		puppet = CAN
 		puppet = CAF
 		puppet = WID
+		puppet = XAL
+		puppet = ATL
 	}
 }

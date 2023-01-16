@@ -4,6 +4,8 @@ state={
 	name="STATE_1603"
 
 	history={
+		owner = ZEA
+		add_core_of = ZEA
 	}
 
 	provinces={

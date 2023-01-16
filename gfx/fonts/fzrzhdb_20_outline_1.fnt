@@ -14808,3 +14808,4 @@ char id=65504 x=46    y=0     width=22    height=25    xoffset=-1    yoffset=-1 
 char id=65505 x=23    y=0     width=22    height=25    xoffset=-1    yoffset=-1    xadvance=20    page=1  chnl=15
 char id=65507 x=0     y=0     width=22    height=25    xoffset=-1    yoffset=-1    xadvance=20    page=1  chnl=15
 
+char id=32430 x=715     y=236     width=22    height=25    xoffset=-1    yoffset=-1    xadvance=20    page=1  chnl=15

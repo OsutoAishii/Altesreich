@@ -8,6 +8,8 @@ state={
 	}
 
 	history={
+		owner = XAL
+		add_core_of = XAL
 		victory_points = {
 			7408 10 
 		}

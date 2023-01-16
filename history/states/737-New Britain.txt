@@ -4,6 +4,8 @@ state={
 	name="STATE_737"
 
 	history={
+		owner = ZEA
+		add_core_of = ZEA
 		victory_points = {
 			7251 2
 		}

@@ -3,6 +3,8 @@ state={
 	name="STATE_1601"
 
 	history={
+		owner = NAT
+		add_core_of = NAT
 	}
 	
 	provinces={

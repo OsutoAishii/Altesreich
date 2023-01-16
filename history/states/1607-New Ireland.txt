@@ -3,6 +3,8 @@ state={
 	name="STATE_1607"
 
 	history={
+		owner = ZEA
+		add_core_of = ZEA
 		buildings = {
 			infrastructure = 0
 			4352 = {

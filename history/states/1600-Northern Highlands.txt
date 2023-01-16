@@ -3,6 +3,8 @@ state={
 	name="STATE_1600"
 
 	history={
+		owner = ZEA
+		add_core_of = ZEA
 	}
 
 

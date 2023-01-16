@@ -98,6 +98,16 @@ WID_ENG = {
 	color_ui = rgb{ 228 32 59 }
 }
 
+XAL_ENG = {
+	color = rgb{ 228 32 59 }
+	color_ui = rgb{ 228 32 59 }
+}
+
+ATL_ENG = {
+	color = rgb{ 228 32 59 }
+	color_ui = rgb{ 228 32 59 }
+}
+
 MDG_SCO = {
 	color = rgb{ 212 212 0 }
 	color_ui = rgb{ 212 212 0 }
@@ -111,4 +121,14 @@ PRS_OTT = {
 CID_BUR = {
 	color = rgb{ 96 66 96 }
 	color_ui = rgb{ 96 66 96 }
+}
+
+MYA_RUS = {
+	color = rgb { 20 147 34 }
+	color_ui = rgb { 20 147 34 }
+}
+
+NAT_PRU = {
+	color = rgb{ 56  77  101 }
+	color_ui = rgb{ 56  77  101 }
 }

@@ -7971,3 +7971,5 @@ char id=65506 x=575   y=23    width=22    height=22    xoffset=-1    yoffset=0  
 char id=65507 x=0     y=0     width=24    height=22    xoffset=-1    yoffset=0    xadvance=22    page=0  chnl=15
 char id=65508 x=621   y=23    width=22    height=22    xoffset=-1    yoffset=0    xadvance=20    page=0  chnl=15
 char id=65509 x=644   y=23    width=22    height=22    xoffset=-1    yoffset=0    xadvance=20    page=0  chnl=15
+
+char id=31545 x=71    y=2048  width=22    height=22    xoffset=-1    yoffset=0    xadvance=20    page=0  chnl=15

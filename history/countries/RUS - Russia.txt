@@ -26,3 +26,16 @@ set_popularities = {
 	accelerationism = 0
 	burgundian_system = 0
 }
+
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = MYA
+		autonomous_state = autonomy_collaboration_government
+	}
+	else = {
+		puppet = MYA
+	}
+}

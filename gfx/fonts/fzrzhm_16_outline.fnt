@@ -14807,3 +14807,5 @@ char id=65504 x=665   y=3036  width=18    height=21    xoffset=-1    yoffset=-1 
 char id=65505 x=684   y=3036  width=18    height=21    xoffset=-1    yoffset=-1    xadvance=16    page=0  chnl=15
 char id=65507 x=703   y=3036  width=18    height=21    xoffset=-1    yoffset=-1    xadvance=16    page=0  chnl=15
 char id=65509 x=171   y=0     width=18    height=21    xoffset=-1    yoffset=-1    xadvance=16    page=0  chnl=15
+
+char id=17207 x=759  y=3035   width=18    height=21    xoffset=-1    yoffset=-1    xadvance=16    page=0  chnl=15

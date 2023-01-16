@@ -3,6 +3,8 @@ state={
 	name="STATE_871"
 	
 	history = {
+		owner = XAL
+		add_core_of = XAL
 		buildings = {
 			infrastructure = 0
 

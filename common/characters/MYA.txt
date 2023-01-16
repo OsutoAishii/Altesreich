@@ -1,0 +1,83 @@
+characters = {
+	MYA_peter_i_alexeyevich = {
+		name = MYA_peter_i_alexeyevich
+		portraits={
+			civilian = {
+				large = "gfx/leaders/MYA/MYA_peter_i_alexeyevich.png"
+			}
+		}
+		
+		country_leader={
+			ideology= anarchism_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= communism_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= syndicalism_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_democracy_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= farsightism_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= accelerationism_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= burgundian_system_type
+			desc = RUS_peter_i_alexeyevich_desc
+			traits={
+			}
+		}
+	}
+}

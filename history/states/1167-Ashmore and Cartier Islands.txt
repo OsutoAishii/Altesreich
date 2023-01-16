@@ -3,6 +3,8 @@ state={
 	name="STATE_1167"
 	
 	history={
+		owner = ATL
+		add_core_of = ATL
 		buildings = {
 			infrastructure = 0
 			13720 = {

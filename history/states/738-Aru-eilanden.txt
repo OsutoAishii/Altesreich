@@ -4,6 +4,8 @@ state={
 	name="STATE_738"
 
 	history={
+		owner = NAT
+		add_core_of = NAT
 		buildings = {
 			infrastructure = 0
 			4579 = {

@@ -4,6 +4,8 @@ state={
 	name="STATE_884"
 
 	history={
+		owner = ATL
+		add_core_of = ATL
 	}
 
 	provinces={
