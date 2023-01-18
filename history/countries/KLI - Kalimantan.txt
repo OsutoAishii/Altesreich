@@ -1,0 +1,30 @@
+capital = 334
+
+set_research_slots = 2
+
+set_stability = 0.13
+set_war_support = 0.21
+
+set_politics = {
+	ruling_party = absolutism
+	elections_allowed = no
+}
+
+recruit_character = KLI_louis
+
+set_cosmetic_tag = KLI_FRA
+
+set_popularities = {
+	anarchism = 2
+	communism = 3
+	syndicalism = 10
+	social_democracy = 0
+	social_liberalism = 3
+	social_conservatism = 5
+	authoritarian_democracy = 20
+	absolutism = 50
+	authoritarian_nationalism = 7
+	farsightism = 0
+	accelerationism = 0
+	burgundian_system = 0
+}

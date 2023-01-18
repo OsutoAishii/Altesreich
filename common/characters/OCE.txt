@@ -1,0 +1,62 @@
+characters = {
+	OCE_douglas_macarthur = {
+		name = OCE_douglas_macarthur
+		portraits={
+			army = {
+				large = "gfx/leaders/OCE/OCE_douglas_macarthur.png"
+			}
+			civilian = {
+				large = "gfx/leaders/OCE/OCE_douglas_macarthur.png"
+			}
+		}
+		
+		country_leader={
+			ideology= social_democracy_type
+			desc = OCE_douglas_macarthur_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_liberalism_type
+			desc = OCE_douglas_macarthur_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= social_conservatism_type
+			desc = OCE_douglas_macarthur_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_democracy_type
+			desc = OCE_douglas_macarthur_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= absolutism_type
+			desc = OCE_douglas_macarthur_desc
+			traits={
+			}
+		}
+		country_leader={
+			ideology= authoritarian_nationalism_type
+			desc = OCE_douglas_macarthur_desc
+			traits={
+			}
+		}
+
+		field_marshal = {
+			legacy_id = OCE_douglas_macarthur
+			desc = OCE_douglas_macarthur_desc
+			traits = {
+			}
+			skill = 5
+			attack_skill = 5
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 4
+		}
+	}
+}

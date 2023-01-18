@@ -28,6 +28,11 @@ SWA_FRA = {
 	color_ui = rgb { 20 38 147 }
 }
 
+KLI_FRA = {
+	color = rgb { 20 38 147 }
+	color_ui = rgb { 20 38 147 }
+}
+
 POR_CAS = {
 	color = rgb { 222 185 74 }
 	color_ui = rgb { 222 185 74 }

@@ -3,6 +3,8 @@ state={
 	name="STATE_1312"
 
 	history={
+		owner = OCE
+		add_core_of = OCE
 		victory_points = {
 			13028 1 
 		}

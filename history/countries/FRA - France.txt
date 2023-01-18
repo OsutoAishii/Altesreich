@@ -39,8 +39,13 @@ if = {
 		target = SWA
 		autonomous_state = autonomy_collaboration_government
 	}
+	set_autonomy = {
+		target = KLI
+		autonomous_state = autonomy_collaboration_government
+	}
 	else = {
 		puppet = WAF
 		puppet = SWA
+		puppet = KLI
 	}
 }

@@ -4,6 +4,8 @@ state={
 	name="STATE_631"
 
 	history={
+		owner = OCE
+		add_core_of = OCE
 		buildings = {
 			infrastructure = 1
 			13052 = {

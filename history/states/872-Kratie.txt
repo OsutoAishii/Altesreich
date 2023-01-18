@@ -5,7 +5,7 @@ state={
 
 	history={
 		victory_points = {
-		    7645 1
+			7645 1 
 		}
 		buildings = {
 			infrastructure = 1
@@ -15,9 +15,10 @@ state={
 	}
 
 	provinces={
-		1620 4330 4596 7645 10204 12150 12167 12260 13296 
+		1620 4330 4596 7645 10204 12150 12167 12260 
 	}
 	manpower=648610
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }

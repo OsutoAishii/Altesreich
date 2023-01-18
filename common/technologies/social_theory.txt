@@ -331,7 +331,7 @@ technologies = {
         start_year = 1462
         path = {
             leads_to_tech = social_theory_imperialism
-            research_cost_coeff = 0.5
+            research_cost_coeff = 1
         }
         folder = {
             name = industry_folder
