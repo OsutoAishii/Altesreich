@@ -7,6 +7,9 @@ state={
 	}
 
 	history={
+		owner = VIE
+		add_core_of = VIE
+		add_core_of = XAL
 		victory_points = {
 			4379 5 
 		}

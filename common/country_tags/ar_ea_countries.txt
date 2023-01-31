@@ -1,0 +1,3 @@
+HAL = "countries/Haland.txt"
+VIE = "countries/Vietnam.txt"
+GAH = "countries/The United Empire.txt"

@@ -4,6 +4,7 @@ tags={
 }
 dependencies={
 	"52 Chinese Localisation"
+	"DHCN"
 }
 replace_path="common/bookmarks"
 replace_path="common/countries"

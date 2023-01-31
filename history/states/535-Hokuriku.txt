@@ -8,8 +8,10 @@ state={
 	}
 
 	history={
+		owner = GAH
+		add_core_of = GAH
 		victory_points = {
-			10032 5
+			10032 20
 		}
 		buildings = {
 			arms_factory = 2

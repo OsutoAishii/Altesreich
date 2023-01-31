@@ -1,0 +1,30 @@
+capital = 286
+
+set_research_slots = 2
+
+set_stability = 0.60
+set_war_support = 0.10
+
+set_politics = {
+	ruling_party = farsightism
+	elections_allowed = no
+}
+
+recruit_character = VIE_squire_nigellus
+
+set_cosmetic_tag = VIE_HAL
+
+set_popularities = {
+	anarchism = 0
+	communism = 0
+	syndicalism = 0
+	social_democracy = 0
+	social_liberalism = 0
+	social_conservatism = 0
+	authoritarian_democracy = 0
+	absolutism = 0
+	authoritarian_nationalism = 10
+	farsightism = 80
+	accelerationism = 5
+	burgundian_system = 5
+}

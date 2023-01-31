@@ -6,6 +6,8 @@ state={
 	
 	state_category = pastoral
 	history={
+		owner = GAH
+		add_core_of = GAH
 		buildings = {
 			infrastructure = 1
 			air_base = 1

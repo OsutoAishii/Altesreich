@@ -8,17 +8,19 @@ state={
 	}
 
 	history={
+		owner = GAH
+		add_core_of = GAH
 		victory_points = {
-			4056 4 
+			4056 15
 		}
 		victory_points = {
-			13287 3 
+			13287 10
 		}
 		victory_points = {
-			4086 3 
+			4086 10
 		}
 		victory_points = {
-			12060 2 
+			12060 5
 		}
 		buildings = {
 			infrastructure = 1

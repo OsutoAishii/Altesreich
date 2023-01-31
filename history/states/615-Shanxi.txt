@@ -7,27 +7,6 @@ state={
 	history={
 		owner = WAS
 		add_core_of = WAS
-		victory_points = {
-			4174 5
-		}
-		victory_points = {
-			1575 2
-		}
-		victory_points = {
-			10421 2
-		}
-		victory_points = {
-			12078 1
-		}
-		victory_points = {
-			1438 1
-		}
-		buildings = {
-			infrastructure = 1
-			arms_factory = 1
-			industrial_complex = 1
-
-		}
 	}
 
 	provinces={

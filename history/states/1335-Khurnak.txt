@@ -6,15 +6,6 @@ state={
 	history={
 		owner = WAS
 		add_core_of = WAS
-		buildings = {
-			infrastructure = 0
-			14327 = {
-				bunker = 1
-				
-			}
-
-		}
-
 	}
 
 	provinces={

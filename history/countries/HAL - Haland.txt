@@ -1,0 +1,41 @@
+capital = 327
+
+set_research_slots = 4
+
+set_stability = 0.61
+set_war_support = 0.70
+
+set_politics = {
+	ruling_party = farsightism
+	elections_allowed = no
+}
+
+recruit_character = HAL_squire_nigellus
+
+set_popularities = {
+	anarchism = 0
+	communism = 0
+	syndicalism = 0
+	social_democracy = 0
+	social_liberalism = 0
+	social_conservatism = 0
+	authoritarian_democracy = 0
+	absolutism = 0
+	authoritarian_nationalism = 10
+	farsightism = 80
+	accelerationism = 5
+	burgundian_system = 5
+}
+
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = VIE
+		autonomous_state = autonomy_collaboration_government
+	}
+	else = {
+		puppet = VIE
+	}
+}

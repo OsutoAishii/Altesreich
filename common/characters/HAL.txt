@@ -1,0 +1,17 @@
+characters = {
+	HAL_squire_nigellus = {
+		name = HAL_squire_nigellus
+		portraits={
+			civilian = {
+				large = "gfx/leaders/HAL/HAL_squire_nigellus.png"
+			}
+		}
+		
+		country_leader={
+			ideology= farsightism_type
+			desc = HAL_squire_nigellus_desc
+			traits={
+			}
+		}
+	}
+}

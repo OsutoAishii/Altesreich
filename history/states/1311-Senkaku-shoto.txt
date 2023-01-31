@@ -3,6 +3,8 @@ state={
 	name="STATE_1311"
 
 	history={
+		owner = GAH
+		add_core_of = GAH
 		buildings = {
 			infrastructure = 0
 			14283 = {

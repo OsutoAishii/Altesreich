@@ -137,3 +137,8 @@ NAT_PRU = {
 	color = rgb{ 56  77  101 }
 	color_ui = rgb{ 56  77  101 }
 }
+
+VIE_HAL = {
+	color = rgb { 145 20 150 }
+	color_ui = rgb { 145 20 150 }
+}

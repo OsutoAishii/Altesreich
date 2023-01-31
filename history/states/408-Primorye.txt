@@ -7,8 +7,10 @@ state={
 	}
 
 	history={
+		owner = GAH
+		add_core_of = GAH
 		victory_points = {
-			957 10
+			957 50
 		}
 		victory_points = {
 			6961 2

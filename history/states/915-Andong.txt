@@ -4,14 +4,16 @@ state={
 	name="STATE_915"
 
 	history={
+		owner = GAH
+		add_core_of = GAH
 		victory_points = {
-			9759 3 
+			9759 15 
 		}
 		victory_points = {
-			9803 2 
+			9803 10
 		}
 		victory_points = {
-			6981 1 
+			6981 5
 		}
 		buildings = {
 			infrastructure = 2

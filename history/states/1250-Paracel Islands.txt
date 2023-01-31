@@ -3,6 +3,8 @@ state={
 	name="STATE_1250"
 
 	history={
+		owner = HAL
+		add_core_of = HAL
 		buildings = {
 			infrastructure = 0
 			14080 = {

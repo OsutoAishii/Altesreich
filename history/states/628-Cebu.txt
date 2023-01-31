@@ -4,11 +4,13 @@ state={
 	name="STATE_628"
 
 	history={
+		owner = HAL
+		add_core_of = HAL
 		victory_points = {
-			12118 3 
+			12118 20 
 		}
 		victory_points = {
-			7385 1 
+			7385 5 
 		}
 		buildings = {
 			infrastructure = 1
