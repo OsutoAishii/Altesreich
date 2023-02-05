@@ -7,8 +7,10 @@ state={
 	}
 
 	history={
+		owner = ELL
+		add_core_of = ELL
 		victory_points = {
-			7648 2 
+			7648 10
 		}
 		buildings = {
 			infrastructure = 0

@@ -1,0 +1,17 @@
+characters = {
+	ELL_alfred_herrera = {
+		name = ELL_alfred_herrera
+		portraits={
+			civilian = {
+				large = "gfx/leaders/ELL/ELL_alfred_herrera.png"
+			}
+		}
+		
+		country_leader={
+			ideology= farsightism_type
+			desc = ELL_alfred_herrera_desc
+			traits={
+			}
+		}
+	}
+}

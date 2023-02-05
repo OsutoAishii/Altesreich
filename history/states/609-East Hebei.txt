@@ -4,14 +4,16 @@ state={
 	name="STATE_609"
 
 	history={
+		owner = ELL
+		add_core_of = ELL
 		victory_points = {
-			11822 3 
+			11822 15
 		}
 		victory_points = {
-			900 2 
+			900 10
 		}
 		victory_points = {
-			3900 1 
+			3900 5
 		}
 		buildings = {
 			infrastructure = 2

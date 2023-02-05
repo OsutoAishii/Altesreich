@@ -1,0 +1,17 @@
+characters = {
+	ING_josephine_brooks = {
+		name = ING_josephine_brooks
+		portraits={
+			civilian = {
+				large = "gfx/leaders/ING/ING_josephine_brooks.png"
+			}
+		}
+		
+		country_leader={
+			ideology= farsightism_type
+			desc = ING_josephine_brooks_desc
+			traits={
+			}
+		}
+	}
+}

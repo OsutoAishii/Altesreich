@@ -4,6 +4,8 @@ state={
 	name="STATE_1375"
 
 	history={
+		owner = ING
+		add_core_of = ING
 		buildings = {
 			infrastructure = 0
 

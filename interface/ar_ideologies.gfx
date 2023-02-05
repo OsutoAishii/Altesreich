@@ -48,6 +48,18 @@ spriteTypes = {
 		textureFile = "gfx/interface/ideologies/absolutism_group.dds"
 	}
 
+	#军事独裁主义
+	spriteType = {
+		name = "GFX_ideology_military_dictatorship_absolutism"
+		textureFile = "gfx/interface/ideologies/military_dictatorship_absolutism.dds"
+	}
+
+	#独裁主义
+	spriteType = {
+		name = "GFX_ideology_dictatorship_absolutism"
+		textureFile = "gfx/interface/ideologies/dictatorship_absolutism.dds"
+	}
+
 	#极端民族主义
 	spriteType = {
 		name = "GFX_ideology_authoritarian_nationalism_group"
@@ -58,6 +70,12 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_ideology_farsightism_group"
 		textureFile = "gfx/interface/ideologies/farsightism_group.dds"
+	}
+
+	#工团远视主义
+	spriteType = {
+		name = "GFX_ideology_s_farsightism"
+		textureFile = "gfx/interface/ideologies/s_farsightism.dds"
 	}
 
 	#加速主义

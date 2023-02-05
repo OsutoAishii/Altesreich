@@ -2,6 +2,9 @@ characters = {
 	GAH_hannah_bayer = {
 		name = GAH_hannah_bayer
 		portraits={
+			army = {
+				large = "gfx/leaders/GAH/GAH_hannah_bayer.png"
+			}
 			civilian = {
 				large = "gfx/leaders/GAH/GAH_hannah_bayer.png"
 			}
@@ -12,6 +15,18 @@ characters = {
 			desc = GAH_hannah_bayer_desc
 			traits={
 			}
+		}
+
+		field_marshal = {
+			legacy_id = GAH_hannah_bayer
+			desc = GAH_hannah_bayer_desc
+			traits = {
+			}
+			skill = 5
+			attack_skill = 5
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 4
 		}
 	}
 }

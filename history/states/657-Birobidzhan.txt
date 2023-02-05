@@ -7,8 +7,10 @@ state={
 	}
 
 	history={
+		owner = ING
+		add_core_of = ING
 		victory_points = {
-			7672 1 
+			7672 10
 		}
 		buildings = {
 			infrastructure = 1

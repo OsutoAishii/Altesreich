@@ -7,13 +7,15 @@ state={
 	}
 
 	history={
+		owner = ELL
+		add_core_of = ELL
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1
 
 		}
 		victory_points = {
-			10397 3 
+			10397 15
 		}
 
 	}

@@ -1,3 +1,5 @@
 HAL = "countries/Haland.txt"
 VIE = "countries/Vietnam.txt"
 GAH = "countries/The United Empire.txt"
+ING = "countries/Ingracia.txt"
+ELL = "countries/Ellia.txt"
