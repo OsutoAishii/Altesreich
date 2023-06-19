@@ -4,31 +4,35 @@ state={
 	name="STATE_614"
 
 	history={
+		owner = DUK
+		add_core_of = DUK
 		victory_points = {
-			4093 3 
+			4093 15
 		}
 		victory_points = {
-			7109 2 
+			7109 10
 		}
 		victory_points = {
-			11996 2 
+			11996 10
 		}
 		victory_points = {
-			1188 2 
+			1188 10
 		}
 		victory_points = {
-			11933 1 
+			11933 5 
 		}
 		buildings = {
 			infrastructure = 2
 
 		}
+
 	}
 
 	provinces={
-		1134 1169 1188 4032 4093 4137 4140 4190 4208 6828 7000 7092 7109 7129 9969 10003 10022 10053 11933 11944 11980 11996 12026 12062 
+		1134 1169 1188 4032 4058 4093 4137 4140 4144 4190 4208 6828 7000 7074 7092 7109 9969 10003 10022 10053 11933 11944 11980 11996 12026 12062 
 	}
 	manpower=1000600
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }

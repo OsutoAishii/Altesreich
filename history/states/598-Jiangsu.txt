@@ -4,23 +4,25 @@ state={
 	name="STATE_598"
 
 	history={
+		owner = DUK
+		add_core_of = DUK
 		victory_points = {
-			4091 2
+			4091 10
 		}
 		victory_points = {
-			1029 2
+			1029 10
 		}
 		victory_points = {
-			9956 2
+			9956 10
 		}
 		victory_points = {
-			12067 2
+			12067 10
 		}
 		victory_points = {
-			4123 1
+			4123 5
 		}
 		victory_points = {
-			4001 1
+			4001 5
 		}
 		buildings = {
 			infrastructure = 1

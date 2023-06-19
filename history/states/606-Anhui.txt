@@ -7,20 +7,22 @@ state={
 	}
 
 	history={
+		owner = DUK
+		add_core_of = DUK
 		victory_points = {
-			7222 5 
+			7222 20
 		}
 		victory_points = {
-			7094 3 
+			7094 15
 		}
 		victory_points = {
-			11916 2 
+			11916 10
 		}
 		victory_points = {
-			12055 1 
+			12055 5
 		}
 		victory_points = {
-			9937 1 
+			9937 5
 		}
 		buildings = {
 			infrastructure = 2

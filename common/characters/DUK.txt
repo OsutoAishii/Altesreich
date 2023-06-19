@@ -1,0 +1,17 @@
+characters = {
+	DUK_theodore_castillo = {
+		name = DUK_theodore_castillo
+		portraits={
+			civilian = {
+				large = "gfx/leaders/DUK/DUK_theodore_castillo.png"
+			}
+		}
+		
+		country_leader={
+			ideology= f_farsightism_type
+			desc = DUK_theodore_castillo_desc
+			traits={
+			}
+		}
+	}
+}

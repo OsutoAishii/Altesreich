@@ -72,10 +72,16 @@ spriteTypes = {
 		textureFile = "gfx/interface/ideologies/farsightism_group.dds"
 	}
 
-	#工团远视主义
+	#远视工团主义
 	spriteType = {
-		name = "GFX_ideology_s_farsightism"
+		name = "GFX_ideology_s_farsightism_type"
 		textureFile = "gfx/interface/ideologies/s_farsightism.dds"
+	}
+
+	#远视法西斯主义
+	spriteType = {
+		name = "GFX_ideology_f_farsightism_type"
+		textureFile = "gfx/interface/ideologies/f_farsightism.dds"
 	}
 
 	#加速主义

@@ -5,10 +5,10 @@ state={
 
 	history={
 		victory_points = {
-			10112 2
+			10112 2 
 		}
 		victory_points = {
-			1053 1
+			1053 1 
 		}
 		buildings = {
 			infrastructure = 0
@@ -21,9 +21,10 @@ state={
 	}
 
 	provinces={
-		1053 1110 4081 10112 11945 12030 
+		1006 1053 1110 1138 4053 7099 7172 7199 10084 10112 12030 
 	}
 	manpower=820453
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }

@@ -5,18 +5,20 @@ state={
 
 	history={
 		victory_points = {
-			12495 2
+			12495 2 
 		}
 		buildings = {
 			infrastructure = 1
 
 		}
+
 	}
 
 	provinces={
-		4156 7004 12495 
+		1036 1628 4156 4183 4619 4631 7004 7653 9942 10057 10114 10501 11988 12495 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }

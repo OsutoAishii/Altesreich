@@ -1,10 +1,13 @@
+
 state={
 	id=1525
 	name="STATE_1525"
 
 	history={
+		owner = DUK
+		add_core_of = DUK
 		victory_points = {
-			1083 2 
+			1083 10
 		}
 		buildings = {
 			infrastructure = 2
@@ -14,9 +17,10 @@ state={
 	}
 
 	provinces={
-		1083 4203 7035 
+		1083 4009 4203 7035 7167 7580 7625 7637 9934 9959 10462 
 	}
 	manpower=1053200
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }

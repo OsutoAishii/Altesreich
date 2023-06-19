@@ -27,9 +27,10 @@ state={
 	}
 
 	provinces={
-		1976 2006 4167 4256 4295 5092 7301 7406 7418 10257 12713 
+		1976 2006 4256 5092 6932 7301 7406 10257 12408 12713 
 	}
 	manpower=9000000
 	buildings_max_level_factor=1.000
 	state_category=town
+	local_supplies=0.000
 }

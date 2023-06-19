@@ -417,8 +417,11 @@ ideologies = {
 			#远视主义
 			farsightism_type = {
 			}
-			#工团远视主义
+			#远视工团主义
 			s_farsightism_type = {
+			}
+			#远视法西斯主义
+			f_farsightism_type = {
 			}
 
 		}

@@ -1,0 +1,28 @@
+capital = 597
+
+set_research_slots = 4
+
+set_stability = 0.61
+set_war_support = 0.80
+
+set_politics = {
+	ruling_party = farsightism
+	elections_allowed = no
+}
+
+recruit_character = DUK_theodore_castillo
+
+set_popularities = {
+	anarchism = 0
+	communism = 0
+	syndicalism = 0
+	social_democracy = 0
+	social_liberalism = 0
+	social_conservatism = 0
+	authoritarian_democracy = 0
+	absolutism = 0
+	authoritarian_nationalism = 20
+	farsightism = 80
+	accelerationism = 0
+	burgundian_system = 0
+}

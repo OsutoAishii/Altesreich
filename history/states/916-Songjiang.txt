@@ -6,6 +6,7 @@ state={
 	history={
 		owner = GAH
 		add_core_of = GAH
+		add_core_of = ING
 		victory_points = {
 			944 5
 		}
